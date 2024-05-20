@@ -1,0 +1,912 @@
+"Name";"Manufacturer";"DiscType";"Stability";"Skill";"MFNum";"RFNum";"NumReviews";"Rating";"MSpeed";"MGlide";"MTurn";"MFade";"RSpeed";"RGlide";"RTurn";"RFade";"Stab";"Owned"
+"Tempo";"Axiom";"Putt & Approach";"Overstable";"Everyone";"4.0/4.0/0.0/2.5";"4/3.9/-0.1/2.3";5;4.5;4.0;4.0;0.0;2.5;4.0;3.9;-0.1;2.3;2.5;0
+"Proxy";"Axiom";"Putt & Approach";"Stable";"Beginner-Intermediate";"3.0/3.0/-1.0/0.5";"3/3.2/-0.9/0.6";84;4.81;3.0;3.0;-1.0;0.5;3.0;3.2;-0.9;0.6;-0.5;0
+"Pixel";"Axiom";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/0.5";"2/4/0/0.5";6;4.5;2.0;4.0;0.0;0.5;2.0;4.0;0.0;0.5;0.5;0
+"Pitch";"Axiom";"Putt & Approach";"Stable";"Everyone";"1.0/7.0/-0.5/0.0";"1/7/-0.5/0";1;4.0;1.0;7.0;-0.5;0.0;1.0;7.0;-0.5;0.0;-0.5;0
+"Envy";"Axiom";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/2.0";"2.9/3.1/-0.1/1.9";244;4.87;3.0;3.0;0.0;2.0;2.9;3.1;-0.1;1.9;2.0;0
+"Theory";"Axiom";"Mid Range";"Understable";"Beginner";"4.0/4.0/-1.5/1.0";"4.6/4.6/-1.8/0.8";31;4.48;4.0;4.0;-1.5;1.0;4.6;4.6;-1.8;0.8;-0.5;0
+"Pyro";"Axiom";"Mid Range";"Overstable";"Everyone";"5.0/4.0/0.0/2.5";"5.1/3.9/0/2.8";61;4.61;5.0;4.0;0.0;2.5;5.1;3.9;0.0;2.8;2.5;0
+"Paradox";"Axiom";"Mid Range";"Very Understable";"Beginner";"5.0/4.0/-4.0/0.0";"5/4.1/-3.9/0.1";41;4.56;5.0;4.0;-4.0;0.0;5.0;4.1;-3.9;0.1;-4.0;0
+"Hex";"Axiom";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5/-0.9/1";80;4.84;5.0;5.0;-1.0;1.0;5.0;5.0;-0.9;1.0;0.0;0
+"Alias";"Axiom";"Mid Range";"Stable";"Beginner";"4.0/4.0/-1.0/1.0";"4.2/4.2/-0.9/1";21;4.19;4.0;4.0;-1.0;1.0;4.2;4.2;-0.9;1.0;0.0;0
+"Wrath";"Axiom";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/4.5/-0.5/2.0";"10/4.5/-0.6/2.2";34;4.21;9.0;4.5;-0.5;2.0;10.0;4.5;-0.6;2.2;1.5;0
+"Trance";"Axiom";"Control Driver";"Understable";"Everyone";"8.0/5.0/-2.0/1.0";"8/5/-1.6/1";4;4.13;8.0;5.0;-2.0;1.0;8.0;5.0;-1.6;1.0;-1.0;0
+"Rhythm";"Axiom";"Control Driver";"Understable";"Everyone";"7.0/5.0/-2.0/1.0";"7/5/-1.8/1.1";10;4.6;7.0;5.0;-2.0;1.0;7.0;5.0;-1.8;1.1;-1.0;0
+"Inspire";"Axiom";"Control Driver";"Understable";"Beginner";"6.5/4.0/-1.5/1.0";"6.3/4.5/-1.9/1.3";20;4.35;6.5;4.0;-1.5;1.0;6.3;4.5;-1.9;1.3;-0.5;0
+"Insanity";"Axiom";"Control Driver";"Understable";"Intermediate";"9.0/5.0/-2.0/1.5";"9.4/5/-1.8/1.5";95;4.72;9.0;5.0;-2.0;1.5;9.4;5.0;-1.8;1.5;-0.5;0
+"Fireball";"Axiom";"Control Driver";"Very Overstable";"Advanced";"9.0/3.5/0.0/3.5";"9.6/3.2/-0.1/3.7";39;4.42;9.0;3.5;0.0;3.5;9.6;3.2;-0.1;3.7;3.5;0
+"Crave";"Axiom";"Control Driver";"Stable";"Everyone";"6.5/5.0/-1.0/1.0";"6.6/5/-1/1.1";107;4.71;6.5;5.0;-1.0;1.0;6.6;5.0;-1.0;1.1;0.0;0
+"Clash";"Axiom";"Control Driver";"Overstable";"Everyone";"6.5/4.0/-1.0/2.0";"6.9/4.5/-0.9/2.5";27;4.56;6.5;4.0;-1.0;2.0;6.9;4.5;-0.9;2.5;1.0;0
+"Virus";"Axiom";"Distance Driver";"Very Understable";"Beginner-Intermediate";"9.0/5.0/-3.5/1.0";"9.5/5/-3.4/1";33;4.42;9.0;5.0;-3.5;1.0;9.5;5.0;-3.4;1.0;-2.5;0
+"Vanish";"Axiom";"Distance Driver";"Understable";"Everyone";"11.0/5.0/-3.0/2.0";"11.5/5/-2.7/1.9";24;4.31;11.0;5.0;-3.0;2.0;11.5;5.0;-2.7;1.9;-1.0;0
+"Time-Lapse";"Axiom";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/4.9/-0.9/3.1";5;4.4;12.0;5.0;-1.0;3.0;12.0;4.9;-0.9;3.1;2.0;0
+"Thrill";"Axiom";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/4.0/0.0/3.5";"11/3.9/0/3.3";13;4.23;11.0;4.0;0.0;3.5;11.0;3.9;0.0;3.3;3.5;0
+"Tenacity";"Axiom";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/5.0/-2.5/2.0";"13/5/-2.6/2";17;4.59;13.0;5.0;-2.5;2.0;13.0;5.0;-2.6;2.0;-0.5;0
+"Tantrum";"Axiom";"Distance Driver";"Stable";"Intermediate-Advanced";"14.0/5.0/-1.5/3.0";"14/5/-1.5/2.6";12;4.67;14.0;5.0;-1.5;3.0;14.0;5.0;-1.5;2.6;1.5;0
+"Panic";"Axiom";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"13.0/4.0/-0.5/3.0";"13/4.2/-0.4/3.2";11;4.64;13.0;4.0;-0.5;3.0;13.0;4.2;-0.4;3.2;2.5;0
+"Mayhem";"Axiom";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/5.0/-1.5/2.0";"13/5/-1.6/2";41;4.5;13.0;5.0;-1.5;2.0;13.0;5.0;-1.6;2.0;0.5;0
+"Excite";"Axiom";"Distance Driver";"Understable";"Intermediate";"14.5/5.5/-2.0/2.0";"14.2/5.5/-2.3/2";13;4.65;14.5;5.5;-2.0;2.0;14.2;5.5;-2.3;2.0;0.0;0
+"Delirium";"Axiom";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"14.5/5.0/-0.5/3.0";"14.3/4.9/-0.5/3";9;4.22;14.5;5.0;-0.5;3.0;14.3;4.9;-0.5;3.0;2.5;0
+"Defy";"Axiom";"Distance Driver";"Overstable";"Intermediate";"11.0/5.0/-1.0/3.0";"11.2/4.6/-0.6/2.8";17;4.0;11.0;5.0;-1.0;3.0;11.2;4.6;-0.6;2.8;2.0;0
+"Marvel";"Birdie Disc Golf Supply";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3.1/-0.1/0.9";10;4.4;2.0;3.0;0.0;1.0;2.0;3.1;-0.1;0.9;1.0;0
+"Ultra";"Birdie Disc Golf Supply";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/3.0";"5/3/0/3";0;0.0;5.0;3.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;0
+"Strike";"Birdie Disc Golf Supply";"Control Driver";"Stable";"Intermediate";"7.0/5.0/0.0/2.0";"7/5/0/1.9";11;4.73;7.0;5.0;0.0;2.0;7.0;5.0;0.0;1.9;2.0;0
+"Reach";"Birdie Disc Golf Supply";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/3";1;4.5;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;3.0;2.0;0
+"Surf";"DGA";"Putt & Approach";"Stable";"Everyone";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Steady BL";"DGA";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/2.0";"2/4/0/1.9";7;4.71;2.0;4.0;0.0;2.0;2.0;4.0;0.0;1.9;2.0;0
+"Steady";"DGA";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/2.0";"2/3/0/1.5";11;4.59;2.0;3.0;0.0;2.0;2.0;3.0;0.0;1.5;2.0;0
+"Sonar";"DGA";"Putt & Approach";"Overstable";"Everyone";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Reef";"DGA";"Putt & Approach";"Stable";"Everyone";"2.0/2.0/-1.0/1.0";"2/2.1/-1.1/1";9;3.78;2.0;2.0;-1.0;1.0;2.0;2.1;-1.1;1.0;0.0;0
+"Breaker";"DGA";"Putt & Approach";"Overstable";"Everyone";"4.0/3.0/0.0/3.0";"3.8/3/0/2.8";23;4.54;4.0;3.0;0.0;3.0;3.8;3.0;0.0;2.8;3.0;0
+"Blunt Gumbputt";"DGA";"Putt & Approach";"Overstable";"Everyone";"2.0/2.0/0.0/2.0";"2/2.1/0/1.9";11;4.27;2.0;2.0;0.0;2.0;2.0;2.1;0.0;1.9;2.0;0
+"Blowfly II";"DGA";"Putt & Approach";"Stable";"Everyone";"2.0/2.0/0.0/2.0";"2.3/2/-0.3/1.7";10;3.7;2.0;2.0;0.0;2.0;2.3;2.0;-0.3;1.7;2.0;0
+"Blowfly I";"DGA";"Putt & Approach";"Stable";"Everyone";"2.0/2.0/0.0/2.0";"2/2.1/-0.4/1.9";16;4.06;2.0;2.0;0.0;2.0;2.0;2.1;-0.4;1.9;2.0;0
+"Tremor";"DGA";"Mid Range";"Very Understable";"Beginner";"6.0/5.0/-4.0/1.0";"6/5/-3.9/1";13;4.85;6.0;5.0;-4.0;1.0;6.0;5.0;-3.9;1.0;-3.0;0
+"Squall";"DGA";"Mid Range";"Stable";"Everyone";"6.0/4.0/-1.0/1.0";"6/4.1/-1/1";18;4.5;6.0;4.0;-1.0;1.0;6.0;4.1;-1.0;1.0;0.0;0
+"Rift";"DGA";"Mid Range";"Stable";"Everyone";"5.0/4.0/-1.0/1.5";"5/4.2/-1/1.5";19;4.71;5.0;4.0;-1.0;1.5;5.0;4.2;-1.0;1.5;0.5;0
+"Quake";"DGA";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/3.0";"5/3.2/0/3";43;4.85;5.0;3.0;0.0;3.0;5.0;3.2;0.0;3.0;3.0;0
+"Aftershock";"DGA";"Mid Range";"Stable";"Intermediate-Advanced";"5.0/4.0/0.0/2.0";"4.5/3.6/-0.2/1.9";11;4.45;5.0;4.0;0.0;2.0;4.5;3.6;-0.2;1.9;2.0;0
+"Vortex";"DGA";"Control Driver";"Understable";"Everyone";"7.0/6.0/-3.0/1.0";"7.1/5.8/-2.9/1";8;4.69;7.0;6.0;-3.0;1.0;7.1;5.8;-2.9;1.0;-2.0;0
+"Pipeline";"DGA";"Control Driver";"Stable";"Everyone";"8.0/5.0/0.0/2.0";"8.1/5.1/-0.5/1.8";38;4.86;8.0;5.0;0.0;2.0;8.1;5.1;-0.5;1.8;2.0;0
+"Hellfire";"DGA";"Control Driver";"Very Overstable";"Advanced";"10.0/3.0/0.0/5.0";"10.1/3/0/4.8";13;4.69;10.0;3.0;0.0;5.0;10.1;3.0;0.0;4.8;5.0;0
+"Banzai";"DGA";"Control Driver";"Overstable";"Intermediate-Advanced";"8.0/4.0/0.0/3.0";"8/4.1/0/2.8";14;4.68;8.0;4.0;0.0;3.0;8.0;4.1;0.0;2.8;3.0;0
+"Avalanche";"DGA";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"9/3/0/4";2;5.0;9.0;3.0;0.0;4.0;9.0;3.0;0.0;4.0;4.0;0
+"Undertow";"DGA";"Distance Driver";"Stable";"Intermediate";"10.0/4.0/-1.0/1.0";"10/4.1/-1/1.1";18;4.56;10.0;4.0;-1.0;1.0;10.0;4.1;-1.0;1.1;0.0;0
+"Tsunami";"DGA";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"10.0/3.0/0.0/4.0";"9.9/3.1/0/3.8";8;4.38;10.0;3.0;0.0;4.0;9.9;3.1;0.0;3.8;4.0;0
+"Torrent";"DGA";"Distance Driver";"Overstable";"Advanced";"14.0/5.0/-1.0/2.0";"13.8/5/-1/2";14;4.36;14.0;5.0;-1.0;2.0;13.8;5.0;-1.0;2.0;1.0;0
+"Tempest";"DGA";"Distance Driver";"Understable";"Everyone";"13.0/5.0/-3.0/2.0";"12.9/5.1/-3/2";12;4.67;13.0;5.0;-3.0;2.0;12.9;5.1;-3.0;2.0;-1.0;0
+"Sail";"DGA";"Distance Driver";"Very Understable";"Beginner";"11.0/5.0/-5.0/1.0";"10.2/5.9/-3.9/1";29;4.57;11.0;5.0;-5.0;1.0;10.2;5.9;-3.9;1.0;-4.0;0
+"Rogue";"DGA";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/4.0/-1.0/1.0";"11/4/-1/1.4";21;4.64;11.0;4.0;-1.0;1.0;11.0;4.0;-1.0;1.4;0.0;0
+"Hypercane";"DGA";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/4.0/0.0/4.0";"12.9/4/0/4";3;4.33;13.0;4.0;0.0;4.0;12.9;4.0;0.0;4.0;4.0;0
+"Hurricane";"DGA";"Distance Driver";"Overstable";"Advanced";"12.0/5.0/-1.0/3.0";"12/4.8/-0.9/2.8";26;4.5;12.0;5.0;-1.0;3.0;12.0;4.8;-0.9;2.8;2.0;0
+"Popcorn";"Clash Discs";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"2.9/3.2/0/1.1";7;4.86;3.0;3.0;0.0;1.0;2.9;3.2;0.0;1.1;1.0;0
+"Mint";"Clash Discs";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"4/3.3/0/2.8";13;4.77;4.0;3.0;0.0;3.0;4.0;3.3;0.0;2.8;3.0;0
+"Fudge";"Clash Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/2.0";"2/3/0/2";0;0.0;2.0;3.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Candy";"Clash Discs";"Putt & Approach";"Understable";"Everyone";"3.0/3.0/-1.0/1.0";"3/3/-1/1";1;4.5;3.0;3.0;-1.0;1.0;3.0;3.0;-1.0;1.0;0.0;0
+"Butter";"Clash Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/0.9";3;4.67;2.0;3.0;0.0;1.0;2.0;3.0;0.0;0.9;1.0;0
+"Peppermint";"Clash Discs";"Mid Range";"Very Overstable";"Intermediate-Advanced";"4.0/2.0/0.0/4.0";"4/2.1/0/3.9";4;5.0;4.0;2.0;0.0;4.0;4.0;2.1;0.0;3.9;4.0;0
+"Peach";"Clash Discs";"Mid Range";"Understable";"Everyone";"4.0/5.0/-2.0/1.0";"4/5/-1.9/1";5;4.8;4.0;5.0;-2.0;1.0;4.0;5.0;-1.9;1.0;-1.0;0
+"Mango";"Clash Discs";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/4.0";"5/4.2/0/3.6";10;4.65;5.0;4.0;0.0;4.0;5.0;4.2;0.0;3.6;4.0;0
+"Guava";"Clash Discs";"Mid Range";"Overstable";"";"5.0/4.0/0.0/3.0";"5/4/0/2.9";1;4.0;5.0;4.0;0.0;3.0;5.0;4.0;0.0;2.9;3.0;0
+"Cherry";"Clash Discs";"Mid Range";"Overstable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5/-1/1";1;4.0;5.0;5.0;-1.0;1.0;5.0;5.0;-1.0;1.0;0.0;0
+"Berry";"Clash Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5/-0.8/1";10;4.7;5.0;5.0;-1.0;1.0;5.0;5.0;-0.8;1.0;0.0;0
+"Soda";"Clash Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/-2.0/2.0";"7/5/-2/1.8";3;5.0;7.0;5.0;-2.0;2.0;7.0;5.0;-2.0;1.8;0.0;0
+"Lotus";"Clash Discs";"Control Driver";"Stable";"Everyone";"8.0/5.0/-1.0/2.0";"8/5/-0.8/2";2;4.75;8.0;5.0;-1.0;2.0;8.0;5.0;-0.8;2.0;1.0;0
+"Ginger";"Clash Discs";"Control Driver";"Overstable";"Everyone";"9.0/4.0/0.0/2.0";"8.9/4.1/0/2.4";7;4.43;9.0;4.0;0.0;2.0;8.9;4.1;0.0;2.4;2.0;0
+"Cookie";"Clash Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7.1/4.9/0/2.1";6;4.83;7.0;5.0;0.0;2.0;7.1;4.9;0.0;2.1;2.0;0
+"Cinnamon";"Clash Discs";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/5.0/-1.5/2.0";"9/5/-1.5/2";0;0.0;9.0;5.0;-1.5;2.0;0.0;0.0;0.0;0.0;0.5;0
+"Wild Honey";"Clash Discs";"Distance Driver";"Understable";"Everyone";"12.0/5.0/-2.0/2.0";"12/5.1/-2.2/1.7";11;4.5;12.0;5.0;-2.0;2.0;12.0;5.1;-2.2;1.7;0.0;0
+"Vanilla";"Clash Discs";"Distance Driver";"Understable";"Everyone";"11.0/6.0/-2.0/1.0";"11/6/-2.1/1";3;5.0;11.0;6.0;-2.0;1.0;11.0;6.0;-2.1;1.0;-1.0;0
+"Spice";"Clash Discs";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/4.0";"10/4/0/3.9";2;5.0;10.0;4.0;0.0;4.0;10.0;4.0;0.0;3.9;4.0;0
+"Salt";"Clash Discs";"Distance Driver";"Overstable";"Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/2.9";2;4.75;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;2.9;2.0;0
+"Sage";"Clash Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/6.0/-1.0/3.0";"12/6/-1/3";0;0.0;12.0;6.0;-1.0;3.0;0.0;0.0;0.0;0.0;2.0;0
+"Pepper";"Clash Discs";"Distance Driver";"Very Overstable";"Advanced";"11.0/5.0/0.0/4.0";"10.8/4.8/0/4.2";2;4.5;11.0;5.0;0.0;4.0;10.8;4.8;0.0;4.2;4.0;0
+"Triceratops";"Dino Discs";"Putt & Approach";"Understable";"Everyone";"3.0/3.0/-3.0/1.0";"3/3/-3/1";0;0.0;3.0;3.0;-3.0;1.0;0.0;0.0;0.0;0.0;-2.0;0
+"Ankylosaurus";"Dino Discs";"Putt & Approach";"Stable";"Beginner";"2.0/3.0/-1.0/0.0";"2/3/-1/0";0;0.0;2.0;3.0;-1.0;0.0;0.0;0.0;0.0;0.0;-1.0;0
+"Stegosaurus";"Dino Discs";"Mid Range";"Very Understable";"Beginner";"5.0/5.0/-4.0/2.0";"4.7/5/-3.8/1.9";4;5.0;5.0;5.0;-4.0;2.0;4.7;5.0;-3.8;1.9;-2.0;0
+"Brontosaurus";"Dino Discs";"Mid Range";"Stable";"Beginner";"5.0/5.0/-1.0/0.5";"5/5/-1/0.5";0;0.0;5.0;5.0;-1.0;0.5;0.0;0.0;0.0;0.0;-0.5;0
+"Brachiosaurus";"Dino Discs";"Mid Range";"Very Understable";"Beginner";"5.0/5.0/-4.5/1.0";"5/5/-4.5/1";0;0.0;5.0;5.0;-4.5;1.0;0.0;0.0;0.0;0.0;-3.5;0
+"Pterodactyl";"Dino Discs";"Control Driver";"Very Understable";"Beginner";"9.0/5.0/-3.0/1.0";"9.3/5/-3.2/1.1";7;4.0;9.0;5.0;-3.0;1.0;9.3;5.0;-3.2;1.1;-2.0;0
+"Tyrannosaurus Rex";"Dino Discs";"Distance Driver";"Very Understable";"Beginner";"14.0/5.0/-3.0/2.0";"14/5/-3/2";1;5.0;14.0;5.0;-3.0;2.0;14.0;5.0;-3.0;2.0;-1.0;0
+"Spinosaurus";"Dino Discs";"Distance Driver";"Stable";"Beginner-Intermediate";"12.0/5.0/0.0/2.0";"11.5/5.2/-0.3/1.8";2;5.0;12.0;5.0;0.0;2.0;11.5;5.2;-0.3;1.8;2.0;0
+"Allosaurus";"Dino Discs";"Distance Driver";"Understable";"Beginner-Intermediate";"12.0/6.0/-3.0/1.0";"12/6.1/-3.3/1.1";1;5.0;12.0;6.0;-3.0;1.0;12.0;6.1;-3.3;1.1;-2.0;0
+"Tactic";"Discmania";"Putt & Approach";"Overstable";"Everyone";"4.0/2.0/0.0/3.0";"4/2.1/0/2.9";59;4.42;4.0;2.0;0.0;3.0;4.0;2.1;0.0;2.9;3.0;0
+"Spore";"Discmania";"Putt & Approach";"Stable";"Everyone";"1.0/7.0/0.0/1.0";"1/7/0/1";2;3.75;1.0;7.0;0.0;1.0;1.0;7.0;0.0;1.0;1.0;0
+"Shogun";"Discmania";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/2.0";"2/4.1/0.1/1.9";7;4.86;2.0;4.0;0.0;2.0;2.0;4.1;0.1;1.9;2.0;0
+"Sensei";"Discmania";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"2.9/3/0/1";25;4.56;3.0;3.0;0.0;1.0;2.9;3.0;0.0;1.0;1.0;0
+"Rainmaker";"Discmania";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.5";"2.2/3.1/0/0.6";9;4.83;2.0;3.0;0.0;0.5;2.2;3.1;0.0;0.6;0.5;0
+"P3x";"Discmania";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/2.0/0.0/3.0";"3/2.2/0/2.6";31;4.55;3.0;2.0;0.0;3.0;3.0;2.2;0.0;2.6;3.0;0
+"P2";"Discmania";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3.1/0/1.2";166;4.68;2.0;3.0;0.0;1.0;2.0;3.1;0.0;1.2;1.0;0
+"P1";"Discmania";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2/3.1/-0.1/0.2";21;4.5;2.0;3.0;0.0;0.0;2.0;3.1;-0.1;0.2;0.0;0
+"Logic";"Discmania";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3/0/1";19;4.79;3.0;3.0;0.0;1.0;3.0;3.0;0.0;1.0;1.0;0
+"Link";"Discmania";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2.1/3.1/0/1";59;4.74;2.0;3.0;0.0;1.0;2.1;3.1;0.0;1.0;1.0;0
+"Tailor";"Discmania";"Mid Range";"Stable";"Everyone";"4.0/4.0/0.0/1.0";"4/4/0/1";4;4.88;4.0;4.0;0.0;1.0;4.0;4.0;0.0;1.0;1.0;0
+"Origin";"Discmania";"Mid Range";"Understable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5.2/-1.6/0.9";47;4.55;5.0;5.0;-1.0;1.0;5.0;5.2;-1.6;0.9;0.0;0
+"Mutant";"Discmania";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/4.0";"4.9/2.9/0/4";10;4.1;5.0;3.0;0.0;4.0;4.9;2.9;0.0;4.0;4.0;0
+"Method";"Discmania";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/3.0";"5/5/-0.1/2.7";59;4.38;5.0;5.0;0.0;3.0;5.0;5.0;-0.1;2.7;3.0;0
+"MD5";"Discmania";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/4.0";"5/3.1/0/4";20;4.5;5.0;3.0;0.0;4.0;5.0;3.1;0.0;4.0;4.0;0
+"MD3";"Discmania";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"5/5/-0.1/2.1";86;4.58;5.0;5.0;0.0;1.0;5.0;5.0;-0.1;2.1;1.0;0
+"MD1";"Discmania";"Mid Range";"Stable";"Intermediate-Advanced";"5.0/6.0/0.0/0.0";"4.7/5.2/-0.1/0.7";17;4.68;5.0;6.0;0.0;0.0;4.7;5.2;-0.1;0.7;0.0;0
+"MD";"Discmania";"Mid Range";"Stable";"Everyone";"4.0/5.0/0.0/0.0";"4/5/-0.1/0.1";31;4.58;4.0;5.0;0.0;0.0;4.0;5.0;-0.1;0.1;0.0;0
+"Maestro";"Discmania";"Mid Range";"Overstable";"Everyone";"4.0/3.0/0.0/2.0";"4/3/-0.1/1.9";12;3.75;4.0;3.0;0.0;2.0;4.0;3.0;-0.1;1.9;2.0;0
+"Vanguard";"Discmania";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/5.0/0.0/2.0";"9/5/0/2";3;4.83;9.0;5.0;0.0;2.0;9.0;5.0;0.0;2.0;2.0;0
+"Tilt";"Discmania";"Control Driver";"Very Overstable";"Advanced";"9.0/1.0/1.0/6.0";"9/1/1/6";11;4.32;9.0;1.0;1.0;6.0;9.0;1.0;1.0;6.0;7.0;0
+"Splice";"Discmania";"Control Driver";"Very Overstable";"";"9.0/3.0/0.0/4.0";"9/2.8/0.1/4.1";11;4.27;9.0;3.0;0.0;4.0;9.0;2.8;0.1;4.1;4.0;0
+"Rockstar";"Discmania";"Control Driver";"Understable";"Everyone";"8.0/5.0/-2.0/1.0";"8.1/5/-1.3/1.6";13;3.62;8.0;5.0;-2.0;1.0;8.1;5.0;-1.3;1.6;-1.0;0
+"Mermaid";"Discmania";"Control Driver";"Stable";"Beginner-Intermediate";"7.0/4.0/-1.0/2.0";"7/4/-1/2";1;4.0;7.0;4.0;-1.0;2.0;7.0;4.0;-1.0;2.0;1.0;0
+"Magician";"Discmania";"Control Driver";"Stable";"Everyone";"6.0/4.0/0.0/2.0";"6/4/-0.2/2";12;4.38;6.0;4.0;0.0;2.0;6.0;4.0;-0.2;2.0;2.0;0
+"Instinct";"Discmania";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7.1/5.2/-0.2/2";63;4.52;7.0;5.0;0.0;2.0;7.1;5.2;-0.2;2.0;2.0;0
+"Genius";"Discmania";"Control Driver";"Very Understable";"Beginner";"7.0/5.0/-4.0/1.0";"7.1/5/-3.8/1";19;4.21;7.0;5.0;-4.0;1.0;7.1;5.0;-3.8;1.0;-3.0;0
+"FD3";"Discmania";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/4.0/0.0/3.0";"9/4.1/0/3";65;4.71;9.0;4.0;0.0;3.0;9.0;4.1;0.0;3.0;3.0;0
+"FD1";"Discmania";"Control Driver";"Stable";"Everyone";"7.0/4.0/0.0/2.0";"7/4/-0.1/2";3;4.83;7.0;4.0;0.0;2.0;7.0;4.0;-0.1;2.0;2.0;0
+"FD";"Discmania";"Control Driver";"Stable";"Everyone";"7.0/6.0/0.0/1.0";"7/5.9/-0.9/1.1";183;4.71;7.0;6.0;0.0;1.0;7.0;5.9;-0.9;1.1;1.0;0
+"Essence";"Discmania";"Control Driver";"Stable";"Everyone";"8.0/6.0/-2.0/1.0";"8/6/-1.9/1.1";49;4.8;8.0;6.0;-2.0;1.0;8.0;6.0;-1.9;1.1;-1.0;0
+"CD2";"Discmania";"Control Driver";"Stable";"Intermediate";"9.0/5.0/-1.0/2.0";"9.1/5/-1/2";49;4.78;9.0;5.0;-1.0;2.0;9.1;5.0;-1.0;2.0;1.0;0
+"CD1";"Discmania";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/2.0";"9.1/5/-1/2";5;4.6;9.0;5.0;-1.0;2.0;9.1;5.0;-1.0;2.0;1.0;0
+"TD";"Discmania";"Distance Driver";"Understable";"Intermediate";"10.0/5.0/-2.0/1.0";"9.9/5.5/-1.7/1.1";25;4.42;10.0;5.0;-2.0;1.0;9.9;5.5;-1.7;1.1;-1.0;0
+"PD";"Discmania";"Distance Driver, Control Driver";"Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/3.0";"9.9/4.1/0/3";89;4.71;10.0;4.0;0.0;3.0;9.9;4.1;0.0;3.0;3.0;0
+"Paradigm";"Discmania";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/6.0/-1.5/2.0";"11.8/5.5/-1.6/2.1";6;3.92;12.0;6.0;-1.5;2.0;11.8;5.5;-1.6;2.1;0.5;0
+"Mentor";"Discmania";"Distance Driver";"Stable";"Beginner-Intermediate";"11.0/5.0/-2.0/2.0";"11/5/-1.7/2";23;3.96;11.0;5.0;-2.0;2.0;11.0;5.0;-1.7;2.0;0.0;0
+"Majesty";"Discmania";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/-2.0/2.0";"13/4.7/-1.7/2.6";13;3.38;13.0;5.0;-2.0;2.0;13.0;4.7;-1.7;2.6;0.0;0
+"Enigma";"Discmania";"Distance Driver";"Stable";"Advanced";"12.0/5.0/-1.0/2.0";"12/5.1/-1.1/2.1";62;4.74;12.0;5.0;-1.0;2.0;12.0;5.1;-1.1;2.1;1.0;0
+"DD3";"Discmania";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/2.9";39;4.64;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;2.9;2.0;0
+"DD1";"Discmania";"Distance Driver";"Stable";"Everyone";"11.0/5.0/-1.0/2.0";"11/4.9/-1/2";5;4.7;11.0;5.0;-1.0;2.0;11.0;4.9;-1.0;2.0;1.0;0
+"DD";"Discmania";"Distance Driver";"Understable";"Everyone";"11.0/6.0/-3.0/2.0";"11/6/-3/2";4;4.5;11.0;6.0;-3.0;2.0;11.0;6.0;-3.0;2.0;-1.0;0
+"Cloud Breaker";"Discmania";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/4.9/-0.9/3";15;4.5;12.0;5.0;-1.0;3.0;12.0;4.9;-0.9;3.0;2.0;0
+"CD3";"Discmania";"Distance Driver";"Stable";"Everyone";"11.0/5.0/-1.0/2.0";"10.9/5/-1/2.1";24;4.25;11.0;5.0;-1.0;2.0;10.9;5.0;-1.0;2.1;1.0;0
+"Astronaut";"Discmania";"Distance Driver";"Understable";"Everyone";"12.0/6.0/-4.0/1.0";"12/5.9/-3.8/1.1";16;4.19;12.0;6.0;-4.0;1.0;12.0;5.9;-3.8;1.1;-3.0;0
+"Warden";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/0.5";"2.1/3.7/0/0.5";134;4.69;2.0;4.0;0.0;0.5;2.1;3.7;0.0;0.5;0.5;0
+"Sockibomb Slammer";"Dynamic Discs";"Putt & Approach";"Very Overstable";"Everyone";"3.0/1.0/0.5/4.0";"3.1/1/0.5/4";12;4.33;3.0;1.0;0.5;4.0;3.1;1.0;0.5;4.0;4.5;0
+"Slammer";"Dynamic Discs";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"3.0/2.0/0.0/3.0";"2.7/2.1/0/3";36;4.47;3.0;2.0;0.0;3.0;2.7;2.1;0.0;3.0;3.0;0
+"Marshal";"Dynamic Discs";"Putt & Approach";"Stable";"Beginner";"3.0/4.0/0.0/1.0";"3.1/3.7/-0.1/1.2";29;4.62;3.0;4.0;0.0;1.0;3.1;3.7;-0.1;1.2;1.0;0
+"Judge XS";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Judge";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2/4/0/0.9";230;4.67;2.0;4.0;0.0;1.0;2.0;4.0;0.0;0.9;1.0;0
+"Guard";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"2.0/5.0/0.0/0.5";"2/5/0/0.5";26;4.42;2.0;5.0;0.0;0.5;2.0;5.0;0.0;0.5;0.5;0
+"Gavel";"Dynamic Discs";"Putt & Approach";"Understable";"Beginner";"3.0/5.0/-2.0/0.5";"3/5/-1.8/0.4";3;4.33;3.0;5.0;-2.0;0.5;3.0;5.0;-1.8;0.4;-1.5;0
+"EMac Judge";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2/4/0/1";33;4.64;2.0;4.0;0.0;1.0;2.0;4.0;0.0;1.0;1.0;0
+"Deputy";"Dynamic Discs";"Putt & Approach";"Understable";"Beginner";"3.0/4.0/-1.5/0.0";"3/4/-1.4/0";72;4.64;3.0;4.0;-1.5;0.0;3.0;4.0;-1.4;0.0;-1.5;0
+"Culprit";"Dynamic Discs";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"4.0/2.0/0.0/3.5";"4/2.1/0/3.5";9;4.61;4.0;2.0;0.0;3.5;4.0;2.1;0.0;3.5;3.5;0
+"Agent";"Dynamic Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/-0.1/1.1";4;4.38;2.0;3.0;0.0;1.0;2.0;3.0;-0.1;1.1;1.0;0
+"Warrant";"Dynamic Discs";"Mid Range";"Understable";"Beginner";"5.0/5.0/-2.0/0.0";"5/5/-1.9/0.2";36;4.28;5.0;5.0;-2.0;0.0;5.0;5.0;-1.9;0.2;-2.0;0
+"Verdict";"Dynamic Discs";"Mid Range";"Very Overstable";"Advanced";"5.0/4.0/0.0/3.0";"5.1/4.1/-0.1/3.3";122;4.78;5.0;4.0;0.0;3.0;5.1;4.1;-0.1;3.3;3.0;0
+"Truth";"Dynamic Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5.1/-0.7/1.3";98;4.53;5.0;5.0;-1.0;1.0;5.0;5.1;-0.7;1.3;0.0;0
+"Suspect";"Dynamic Discs";"Mid Range";"Very Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"4/3/0/2.8";71;4.65;4.0;3.0;0.0;3.0;4.0;3.0;0.0;2.8;3.0;0
+"Proof";"Dynamic Discs";"Mid Range";"Very Understable";"Beginner";"5.0/6.0/-3.0/1.0";"5/5.7/-3.1/0.9";4;4.25;5.0;6.0;-3.0;1.0;5.0;5.7;-3.1;0.9;-2.0;0
+"Patrol";"Dynamic Discs";"Mid Range";"Very Understable";"Beginner";"5.0/5.0/-3.0/1.0";"5/5/-3/0.6";31;4.35;5.0;5.0;-3.0;1.0;5.0;5.0;-3.0;0.6;-2.0;0
+"Justice";"Dynamic Discs";"Mid Range";"Very Overstable";"Advanced";"5.0/1.0/0.5/4.0";"5/1.9/0.5/4.1";135;4.72;5.0;1.0;0.5;4.0;5.0;1.9;0.5;4.1;4.5;0
+"Fugitive";"Dynamic Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/-0.5/1.5";"5/5/-0.6/1.4";13;4.85;5.0;5.0;-0.5;1.5;5.0;5.0;-0.6;1.4;1.0;0
+"Evidence";"Dynamic Discs";"Mid Range";"Understable";"Everyone";"5.0/5.0/-1.0/0.0";"5/5.1/-1/0.3";40;4.55;5.0;5.0;-1.0;0.0;5.0;5.1;-1.0;0.3;-1.0;0
+"EMac Truth";"Dynamic Discs";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/2.0";"5/5/-0.2/1.9";171;4.7;5.0;5.0;0.0;2.0;5.0;5.0;-0.2;1.9;2.0;0
+"Bounty";"Dynamic Discs";"Mid Range";"Understable";"Everyone";"4.0/5.0/-1.5/0.5";"4/5.1/-1.5/0.5";26;4.73;4.0;5.0;-1.5;0.5;4.0;5.1;-1.5;0.5;-1.0;0
+"Witness";"Dynamic Discs";"Control Driver";"Very Understable";"Beginner";"8.0/6.0/-3.0/1.0";"8/6/-3/1";42;4.24;8.0;6.0;-3.0;1.0;8.0;6.0;-3.0;1.0;-2.0;0
+"Vandal";"Dynamic Discs";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/2.0";"9.1/5/-1.4/1.9";36;4.57;9.0;5.0;-1.0;2.0;9.1;5.0;-1.4;1.9;1.0;0
+"Thief";"Dynamic Discs";"Control Driver";"Stable";"Intermediate";"8.0/5.0/-1.5/2.0";"8/5/-1.4/1.7";34;4.21;8.0;5.0;-1.5;2.0;8.0;5.0;-1.4;1.7;0.5;0
+"Sockibomb Felon";"Dynamic Discs";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/3.0/0.5/4.0";"9/3.1/0.5/4";2;3.5;9.0;3.0;0.5;4.0;9.0;3.1;0.5;4.0;4.5;0
+"Maverick";"Dynamic Discs";"Control Driver";"Understable";"Everyone";"7.0/4.0/-1.0/2.0";"7/4.2/-1.5/1.8";83;4.46;7.0;4.0;-1.0;2.0;7.0;4.2;-1.5;1.8;1.0;0
+"Getaway";"Dynamic Discs";"Control Driver";"Overstable";"Everyone";"9.0/5.0/-0.5/3.0";"9/5.1/-0.5/2.8";60;4.82;9.0;5.0;-0.5;3.0;9.0;5.1;-0.5;2.8;2.5;0
+"Felon";"Dynamic Discs";"Control Driver";"Very Overstable";"Advanced";"9.0/3.0/0.5/4.0";"9/3.5/0.2/3.9";139;4.75;9.0;3.0;0.5;4.0;9.0;3.5;0.2;3.9;4.5;0
+"Evader";"Dynamic Discs";"Control Driver";"Overstable";"Everyone";"7.0/4.0/0.0/2.5";"7/4.1/-0.1/2.4";27;4.56;7.0;4.0;0.0;2.5;7.0;4.1;-0.1;2.4;2.5;0
+"Escape";"Dynamic Discs";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/-1.0/2.0";"9/5.2/-1/1.9";193;4.62;9.0;5.0;-1.0;2.0;9.0;5.2;-1.0;1.9;1.0;0
+"Convict";"Dynamic Discs";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/4.0/-0.5/3.0";"9/4.1/-0.7/2.8";44;4.23;9.0;4.0;-0.5;3.0;9.0;4.1;-0.7;2.8;2.5;0
+"Breakout";"Dynamic Discs";"Control Driver";"Understable";"Beginner-Intermediate";"8.0/5.0/-1.0/1.0";"8/5.1/-1.2/1.3";30;4.33;8.0;5.0;-1.0;1.0;8.0;5.1;-1.2;1.3;0.0;0
+"Trespass";"Dynamic Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-0.5/3.0";"11.9/5/-1.1/2.8";174;4.51;12.0;5.0;-0.5;3.0;11.9;5.0;-1.1;2.8;2.5;0
+"Sheriff";"Dynamic Discs";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-1.0/2.0";"12.9/5.1/-1/2";84;4.65;13.0;5.0;-1.0;2.0;12.9;5.1;-1.0;2.0;1.0;0
+"Sergeant";"Dynamic Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/4.0/0.0/2.5";"11/4/0/2.6";16;4.44;11.0;4.0;0.0;2.5;11.0;4.0;0.0;2.6;2.5;0
+"Renegade";"Dynamic Discs";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-1.5/2.5";"11/5/-2/2.5";77;4.41;11.0;5.0;-1.5;2.5;11.0;5.0;-2.0;2.5;1.0;0
+"Raider";"Dynamic Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/-0.5/3.0";"12.9/5/-0.6/2.9";73;4.56;13.0;5.0;-0.5;3.0;12.9;5.0;-0.6;2.9;2.5;0
+"General";"Dynamic Discs";"Distance Driver";"Very Overstable";"Advanced";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Freedom";"Dynamic Discs";"Distance Driver";"Understable";"Intermediate-Advanced";"14.0/5.0/-3.0/3.0";"13.8/5/-2.8/2.7";47;3.7;14.0;5.0;-3.0;3.0;13.8;5.0;-2.8;2.7;0.0;0
+"Enforcer";"Dynamic Discs";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.5/4.0";"12/4.1/0.3/3.9";61;4.74;12.0;4.0;0.5;4.0;12.0;4.1;0.3;3.9;4.5;0
+"Defender";"Dynamic Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/0.0/3.0";"13/4.9/0/3.1";71;4.54;13.0;5.0;0.0;3.0;13.0;4.9;0.0;3.1;3.0;0
+"Criminal";"Dynamic Discs";"Distance Driver";"Very Overstable";"Advanced";"10.0/3.0/1.0/4.0";"10/3.1/0.9/4.1";26;4.19;10.0;3.0;1.0;4.0;10.0;3.1;0.9;4.1;5.0;0
+"Captain";"Dynamic Discs";"Distance Driver";"Understable";"Intermediate";"13.0/5.0/-2.0/2.0";"12.7/4.9/-2/2";35;4.46;13.0;5.0;-2.0;2.0;12.7;4.9;-2.0;2.0;0.0;0
+"Zone OS";"Discraft";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"4.0/2.0/1.0/5.0";"4/2/1/4.8";15;4.3;4.0;2.0;1.0;5.0;4.0;2.0;1.0;4.8;6.0;0
+"Zone GT";"Discraft";"Putt & Approach";"Stable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"4/3/0/2.8";2;3.75;4.0;3.0;0.0;3.0;4.0;3.0;0.0;2.8;3.0;0
+"Zone";"Discraft";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"3.9/3/0/3";370;4.89;4.0;3.0;0.0;3.0;3.9;3.0;0.0;3.0;3.0;0
+"Zeppelin";"Discraft";"Putt & Approach";"Understable";"Everyone";"2.5/6.0/-1.0/0.0";"2.5/6/-1/0";3;5.0;2.5;6.0;-1.0;0.0;2.5;6.0;-1.0;0.0;-1.0;0
+"Soft Magnet";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/-1.0/1.0";"2/3.1/-1/1.4";20;4.1;2.0;3.0;-1.0;1.0;2.0;3.1;-1.0;1.4;0.0;0
+"Roach";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2.1/4/-0.2/1";70;4.55;2.0;4.0;0.0;1.0;2.1;4.0;-0.2;1.0;1.0;0
+"Ringer GT";"Discraft";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"3.3/3.2/0/2.8";26;4.77;4.0;4.0;0.0;3.0;3.3;3.2;0.0;2.8;3.0;0
+"Ringer";"Discraft";"Putt & Approach";"Overstable";"Everyone";"4.0/4.0/0.0/2.0";"3.4/3.8/0/2";24;4.5;4.0;4.0;0.0;2.0;3.4;3.8;0.0;2.0;2.0;0
+"Rattler";"Discraft";"Putt & Approach";"Stable";"Beginner";"2.0/2.0/-2.0/1.0";"2/2.6/-1.6/1";17;3.65;2.0;2.0;-2.0;1.0;2.0;2.6;-1.6;1.0;-1.0;0
+"Putt'r";"Discraft";"Putt & Approach";"Stable";"Beginner";"2.0/3.0/-1.0/1.0";"2/3.1/-1.2/0.9";7;3.71;2.0;3.0;-1.0;1.0;2.0;3.1;-1.2;0.9;0.0;0
+"Magnet";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/-1.0/1.0";"2/3/-1/1.4";36;4.11;2.0;3.0;-1.0;1.0;2.0;3.0;-1.0;1.4;0.0;0
+"Luna";"Discraft";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/3.0";"3/3.1/-0.2/2.1";125;4.47;3.0;3.0;0.0;3.0;3.0;3.1;-0.2;2.1;3.0;0
+"Kratos";"Discraft";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/3.0";"3/3/0/3";0;0.0;3.0;3.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;0
+"Focus";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/2.0/-1.0/2.0";"2/2.7/-1/1.8";25;4.64;2.0;2.0;-1.0;2.0;2.0;2.7;-1.0;1.8;1.0;0
+"Fierce";"Discraft";"Putt & Approach";"Understable";"Beginner";"3.0/4.0/-2.0/0.0";"3/4/-1.9/0";37;4.59;3.0;4.0;-2.0;0.0;3.0;4.0;-1.9;0.0;-2.0;0
+"Challenger SS";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/-1.0/2.0";"2/3.5/-0.8/1.7";16;4.88;2.0;3.0;-1.0;2.0;2.0;3.5;-0.8;1.7;1.0;0
+"Challenger OS";"Discraft";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/3.0";"2.5/3.9/0/2.8";10;4.8;2.0;3.0;0.0;3.0;2.5;3.9;0.0;2.8;3.0;0
+"Challenger";"Discraft";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2/3.1/0/1.9";63;4.54;2.0;3.0;0.0;2.0;2.0;3.1;0.0;1.9;2.0;0
+"Banger GT";"Discraft";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/-0.1/1";82;4.6;2.0;3.0;0.0;1.0;2.0;3.0;-0.1;1.0;1.0;0
+"APX";"Discraft";"Putt & Approach";"Understable";"Everyone";"2.0/2.0/-1.0/1.0";"2/2.4/-1/0.9";12;4.83;2.0;2.0;-1.0;1.0;2.0;2.4;-1.0;0.9;0.0;0
+"Wasp";"Discraft";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/2.0";"5/3.9/0/2.4";59;4.44;5.0;3.0;0.0;2.0;5.0;3.9;0.0;2.4;2.0;0
+"Swarm";"Discraft";"Mid Range";"Stable";"";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Stratus";"Discraft";"Mid Range";"Very Understable";"Beginner-Intermediate";"5.0/4.0/-4.0/1.0";"5/4.6/-3.3/1";30;4.5;5.0;4.0;-4.0;1.0;5.0;4.6;-3.3;1.0;-3.0;0
+"Sol";"Discraft";"Mid Range";"Very Understable";"Beginner-Intermediate";"4.0/5.0/-3.0/0.0";"4/4.9/-2.9/0.2";47;4.47;4.0;5.0;-3.0;0.0;4.0;4.9;-2.9;0.2;-3.0;0
+"Nebula";"Discraft";"Mid Range";"Overstable";"Intermediate";"5.0/4.0/-0.5/2.0";"5/4/-0.5/2";2;4.75;5.0;4.0;-0.5;2.0;5.0;4.0;-0.5;2.0;1.5;0
+"Meteor";"Discraft";"Mid Range";"Understable";"Beginner";"5.0/5.0/-3.0/1.0";"4.5/5/-2.7/1";82;4.73;5.0;5.0;-3.0;1.0;4.5;5.0;-2.7;1.0;-2.0;0
+"Malta";"Discraft";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/1.0/3.0";"5/4/0.5/2.8";62;4.21;5.0;4.0;1.0;3.0;5.0;4.0;0.5;2.8;4.0;0
+"Impact";"Discraft";"Mid Range";"Understable";"Intermediate";"6.0/6.0/-3.0/1.0";"5.6/5.4/-2.1/1.3";17;4.29;6.0;6.0;-3.0;1.0;5.6;5.4;-2.1;1.3;-2.0;0
+"Hornet";"Discraft";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/5.0/0.0/4.0";"5/4.9/0/3.7";37;4.57;5.0;5.0;0.0;4.0;5.0;4.9;0.0;3.7;4.0;0
+"Hawk";"Discraft";"Mid Range";"Stable";"Beginner";"4.0/3.0/-2.0/2.0";"4/3.8/-1.9/1.9";15;3.57;4.0;3.0;-2.0;2.0;4.0;3.8;-1.9;1.9;0.0;0
+"Glide";"Discraft";"Mid Range";"Very Understable";"Beginner";"6.0/5.0/-3.0/2.0";"6/5.1/-3/1.8";29;3.9;6.0;5.0;-3.0;2.0;6.0;5.1;-3.0;1.8;-1.0;0
+"Drone";"Discraft";"Mid Range";"Very Overstable";"Advanced";"5.0/3.0/1.0/4.0";"5/3.3/0.6/3.9";74;4.53;5.0;3.0;1.0;4.0;5.0;3.3;0.6;3.9;5.0;0
+"Comet";"Discraft";"Mid Range";"Understable";"Beginner";"4.0/5.0/-2.0/1.0";"4/5.1/-1.8/1";124;4.58;4.0;5.0;-2.0;1.0;4.0;5.1;-1.8;1.0;-1.0;0
+"Buzzz SS";"Discraft";"Mid Range";"Understable";"Beginner-Intermediate";"5.0/4.0/-2.0/1.0";"5/4.1/-1.8/0.9";96;4.66;5.0;4.0;-2.0;1.0;5.0;4.1;-1.8;0.9;-1.0;0
+"Buzzz OS";"Discraft";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/3.9/0/3";92;4.63;5.0;4.0;0.0;3.0;5.0;3.9;0.0;3.0;3.0;0
+"Buzzz GT";"Discraft";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"5/4.9/0/1.3";12;4.58;5.0;5.0;0.0;1.0;5.0;4.9;0.0;1.3;1.0;0
+"Buzzz";"Discraft";"Mid Range";"Stable";"Everyone";"5.0/4.0/-1.0/1.0";"5/4.2/-0.7/1";566;4.8;5.0;4.0;-1.0;1.0;5.0;4.2;-0.7;1.0;0.0;0
+"Archer";"Discraft";"Mid Range";"Very Understable";"Beginner";"5.0/4.0/-4.0/1.0";"5.7/4.7/-3.4/1";42;4.81;5.0;4.0;-4.0;1.0;5.7;4.7;-3.4;1.0;-3.0;0
+"Zombee";"Discraft";"Control Driver";"Stable";"Beginner";"6.0/4.0/-1.0/1.0";"6/4.7/-1/1";57;4.12;6.0;4.0;-1.0;1.0;6.0;4.7;-1.0;1.0;0.0;0
+"Xtreme";"Discraft";"Control Driver";"Very Overstable";"Advanced";"6.0/3.0/1.0/4.0";"5.9/2.9/1/4";4;4.25;6.0;3.0;1.0;4.0;5.9;2.9;1.0;4.0;5.0;0
+"XS";"Discraft";"Control Driver";"Stable";"Beginner-Intermediate";"8.0/5.0/0.0/3.0";"7.7/4.9/-0.9/2.7";18;4.44;8.0;5.0;0.0;3.0;7.7;4.9;-0.9;2.7;3.0;0
+"Xpress";"Discraft";"Control Driver";"Very Understable";"Beginner";"8.0/5.0/-3.0/1.0";"7.9/4.8/-2.9/1";21;4.0;8.0;5.0;-3.0;1.0;7.9;4.8;-2.9;1.0;-2.0;0
+"XL";"Discraft";"Control Driver";"Stable";"Everyone";"7.0/4.0/-2.0/1.0";"7.4/4.6/-1.3/1.6";38;4.18;7.0;4.0;-2.0;1.0;7.4;4.6;-1.3;1.6;-1.0;0
+"Vulture";"Discraft";"Control Driver";"Overstable";"Intermediate-Advanced";"10.0/5.0/0.0/2.0";"9.7/4.8/-0.1/2";70;4.63;10.0;5.0;0.0;2.0;9.7;4.8;-0.1;2.0;2.0;0
+"Undertaker";"Discraft";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/-1.0/2.0";"8.9/4.9/-1/2.1";155;4.73;9.0;5.0;-1.0;2.0;8.9;4.9;-1.0;2.1;1.0;0
+"Tracker";"Discraft";"Control Driver";"Overstable";"Intermediate";"8.0/5.0/-1.0/3.0";"7.9/4.4/-0.5/3.3";11;4.27;8.0;5.0;-1.0;3.0;7.9;4.4;-0.5;3.3;2.0;0
+"Talon";"Discraft";"Control Driver";"Very Overstable";"Advanced";"8.0/3.0/1.0/3.0";"8/3/0.8/3";4;4.5;8.0;3.0;1.0;3.0;8.0;3.0;0.8;3.0;4.0;0
+"Sting";"Discraft";"Control Driver";"Understable";"Beginner";"7.0/5.0/-2.0/1.0";"6.8/4.9/-2.2/0.9";27;4.06;7.0;5.0;-2.0;1.0;6.8;4.9;-2.2;0.9;-1.0;1
+"Stalker";"Discraft";"Control Driver";"Stable";"Everyone";"7.0/5.0/-1.0/2.0";"7.2/4.9/-1/1.7";77;4.55;7.0;5.0;-1.0;2.0;7.2;4.9;-1.0;1.7;1.0;0
+"Reaper";"Discraft";"Control Driver";"Very Overstable";"Advanced";"8.0/3.0/0.0/4.0";"8/3.3/-0.1/3.5";7;3.86;8.0;3.0;0.0;4.0;8.0;3.3;-0.1;3.5;4.0;0
+"Raptor";"Discraft";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/4.0/0.0/3.0";"9/4/-0.1/3";75;4.76;9.0;4.0;0.0;3.0;9.0;4.0;-0.1;3.0;3.0;1
+"Predator";"Discraft";"Control Driver";"Very Overstable";"Advanced";"9.0/4.0/0.0/4.0";"9/4/-0.1/4";43;4.63;9.0;4.0;0.0;4.0;9.0;4.0;-0.1;4.0;4.0;0
+"Passion";"Discraft";"Control Driver";"Stable";"Everyone";"8.0/5.0/-1.0/1.0";"7.9/5/-0.9/0.9";31;4.76;8.0;5.0;-1.0;1.0;7.9;5.0;-0.9;0.9;0.0;0
+"Mantis";"Discraft";"Control Driver";"Stable";"Beginner";"8.0/4.0/-2.0/2.0";"8/4.5/-1.5/1.9";50;4.49;8.0;4.0;-2.0;2.0;8.0;4.5;-1.5;1.9;0.0;0
+"Heat";"Discraft";"Control Driver";"Understable";"Beginner";"9.0/6.0/-3.0/1.0";"9/5.8/-2.9/1";128;4.46;9.0;6.0;-3.0;1.0;9.0;5.8;-2.9;1.0;-2.0;0
+"Eclipse";"Discraft";"Control Driver";"Understable";"Beginner-Intermediate";"7.0/5.0/-2.0/2.0";"6.8/5/-2/1.9";5;4.2;7.0;5.0;-2.0;2.0;6.8;5.0;-2.0;1.9;0.0;0
+"Cyclone";"Discraft";"Control Driver";"Overstable";"Intermediate";"7.0/4.0/-1.0/2.0";"7/4.2/-1/2.5";38;4.32;7.0;4.0;-1.0;2.0;7.0;4.2;-1.0;2.5;1.0;0
+"Cicada";"Discraft";"Control Driver";"Stable";"Everyone";"7.0/6.0/-1.0/1.0";"7/5.9/-1.1/1";4;5.0;7.0;6.0;-1.0;1.0;7.0;5.9;-1.1;1.0;0.0;0
+"Captain's Raptor";"Discraft";"Control Driver";"Very Overstable";"Advanced";"9.0/3.0/1.0/4.0";"9/3/0.8/4";13;4.65;9.0;3.0;1.0;4.0;9.0;3.0;0.8;4.0;5.0;0
+"Athena";"Discraft";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7.1/4.9/-0.1/2.1";22;4.64;7.0;5.0;0.0;2.0;7.1;4.9;-0.1;2.1;2.0;0
+"Anax";"Discraft";"Control Driver";"Overstable";"Intermediate-Advanced";"10.0/6.0/0.0/3.0";"10/5.8/-0.1/2.8";95;4.63;10.0;6.0;0.0;3.0;10.0;5.8;-0.1;2.8;3.0;0
+"Zeus";"Discraft";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/3";89;4.57;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;3.0;2.0;0
+"Wildcat";"Discraft";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-2.0/3.0";"11/5/-2/3";9;4.78;11.0;5.0;-2.0;3.0;11.0;5.0;-2.0;3.0;1.0;0
+"Venom";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"12.1/4.1/-0.1/3.8";4;4.63;12.0;4.0;0.0;4.0;12.1;4.1;-0.1;3.8;4.0;0
+"Thrasher";"Discraft";"Distance Driver";"Understable";"Everyone";"12.0/5.0/-3.0/2.0";"11.7/5/-2.8/1.9";95;4.56;12.0;5.0;-3.0;2.0;11.7;5.0;-2.8;1.9;-1.0;0
+"Surge SS";"Discraft";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-2.0/2.0";"11/4.9/-1.4/2";35;4.63;11.0;5.0;-2.0;2.0;11.0;4.9;-1.4;2.0;0.0;0
+"Surge";"Discraft";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-1.0/3.0";"11/5/-1/2.8";50;4.48;11.0;5.0;-1.0;3.0;11.0;5.0;-1.0;2.8;2.0;0
+"Spectra";"Discraft";"Distance Driver";"Very Understable";"Beginner-Intermediate";"12.0/5.0/-2.0/2.0";"11.8/4.9/-2/2";8;3.75;12.0;5.0;-2.0;2.0;11.8;4.9;-2.0;2.0;0.0;0
+"Scorch";"Discraft";"Distance Driver";"Understable";"Beginner";"11.0/6.0/-2.0/2.0";"11/5.8/-1.7/2";34;4.18;11.0;6.0;-2.0;2.0;11.0;5.8;-1.7;2.0;0.0;0
+"Punisher";"Discraft";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/0.0/3.0";"11.9/4.9/-0.3/2.9";34;4.26;12.0;5.0;0.0;3.0;11.9;4.9;-0.3;2.9;3.0;0
+"Pulse";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"11.0/4.0/0.0/3.0";"10.9/3.9/0/3";17;4.15;11.0;4.0;0.0;3.0;10.9;3.9;0.0;3.0;3.0;0
+"Nuke SS";"Discraft";"Distance Driver";"Understable";"Advanced";"13.0/5.0/-3.0/3.0";"13/5/-2.9/2.8";97;4.21;13.0;5.0;-3.0;3.0;13.0;5.0;-2.9;2.8;0.0;0
+"Nuke OS";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"13.0/4.0/0.0/4.0";"13/4/0.1/4";60;4.45;13.0;4.0;0.0;4.0;13.0;4.0;0.1;4.0;4.0;0
+"Nuke";"Discraft";"Distance Driver";"Overstable";"Advanced";"13.0/5.0/-1.0/3.0";"13/5/-1/3";153;4.42;13.0;5.0;-1.0;3.0;13.0;5.0;-1.0;3.0;2.0;0
+"Machete";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"11.0/4.0/0.0/4.0";"10.7/3.7/0.2/3.9";29;4.45;11.0;4.0;0.0;4.0;10.7;3.7;0.2;3.9;4.0;0
+"Hades";"Discraft";"Distance Driver";"Understable";"Intermediate-Advanced";"12.0/6.0/-3.0/2.0";"12/5.9/-2.8/2";83;4.48;12.0;6.0;-3.0;2.0;12.0;5.9;-2.8;2.0;-1.0;0
+"Force";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"12.0/5.0/0.0/3.0";"12/4.9/0/3.1";122;4.49;12.0;5.0;0.0;3.0;12.0;4.9;0.0;3.1;3.0;0
+"Flick";"Discraft";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"12.0/3.0/1.0/5.0";"10.3/3.4/0.9/4.4";103;4.11;12.0;3.0;1.0;5.0;10.3;3.4;0.9;4.4;6.0;0
+"Flash";"Discraft";"Distance Driver";"Stable";"Intermediate";"10.0/5.0/-2.0/3.0";"10/5/-1.8/2.9";21;4.5;10.0;5.0;-2.0;3.0;10.0;5.0;-1.8;2.9;1.0;0
+"Drive";"Discraft";"Distance Driver";"Stable";"Intermediate-Advanced";"11.0/5.0/-1.0/2.0";"11/5/-1/2";2;4.5;11.0;5.0;-1.0;2.0;11.0;5.0;-1.0;2.0;1.0;0
+"Crush";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"11.0/5.0/0.0/4.0";"11.1/5/-0.1/3.9";21;4.52;11.0;5.0;0.0;4.0;11.1;5.0;-0.1;3.9;4.0;0
+"Crank SS";"Discraft";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-3.0/2.0";"12.6/4.7/-2.8/1.8";29;4.24;13.0;5.0;-3.0;2.0;12.6;4.7;-2.8;1.8;-1.0;0
+"Crank";"Discraft";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-2.0/2.0";"12.4/5/-1.4/2";101;4.36;13.0;5.0;-2.0;2.0;12.4;5.0;-1.4;2.0;0.0;0
+"Avenger SS";"Discraft";"Distance Driver";"Understable";"Beginner-Intermediate";"10.0/5.0/-3.0/1.0";"9.9/4.9/-2.9/1";173;4.35;10.0;5.0;-3.0;1.0;9.9;4.9;-2.9;1.0;-2.0;0
+"Avenger";"Discraft";"Distance Driver";"Very Overstable";"Advanced";"10.0/5.0/0.0/3.0";"9.9/4.8/0/2.9";44;4.23;10.0;5.0;0.0;3.0;9.9;4.8;0.0;2.9;3.0;0
+"Pace";"Finish Line Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.5";"2.1/4/0/1.6";5;5.0;2.0;4.0;0.0;1.5;2.1;4.0;0.0;1.6;1.5;0
+"Supra";"Finish Line Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"5/4.9/-0.6/0.9";15;4.3;5.0;5.0;0.0;1.0;5.0;4.9;-0.6;0.9;1.0;0
+"Torque";"Finish Line Discs";"Control Driver";"Overstable";"Intermediate-Advanced";"8.0/4.0/0.0/2.5";"8/4/0/2.5";7;4.36;8.0;4.0;0.0;2.5;8.0;4.0;0.0;2.5;2.5;0
+"Rally";"Finish Line Discs";"Control Driver";"Stable";"Everyone";"8.0/5.0/-1.0/2.0";"7.9/4.9/-0.8/1.9";10;4.05;8.0;5.0;-1.0;2.0;7.9;4.9;-0.8;1.9;1.0;0
+"Era";"Finish Line Discs";"Control Driver";"Stable";"Everyone";"10.0/5.0/-1.0/1.5";"10/5.1/-1/1.5";54;4.57;10.0;5.0;-1.0;1.5;10.0;5.1;-1.0;1.5;0.5;0
+"Interval";"Finish Line Discs";"Distance Driver";"Overstable";"Advanced";"12.0/5.0/-1.0/2.0";"11.9/5/-0.9/2.1";20;4.68;12.0;5.0;-1.0;2.0;11.9;5.0;-0.9;2.1;1.0;0
+"Daytona";"Finish Line Discs";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/3.0";"12/4/-0.1/3";13;4.77;12.0;4.0;0.0;3.0;12.0;4.0;-0.1;3.0;3.0;0
+"Cash";"Hooligan Discs";"Putt & Approach";"Stable";"";"3.0/3.0/0.0/2.0";"3/3/0/2";0;0.0;3.0;3.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Rope";"Hooligan Discs";"Mid Range";"Stable";"Everyone";"5.0/4.0/0.0/0.0";"5/4/0/0";0;0.0;5.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Flip";"Hooligan Discs";"Mid Range";"Understable";"Beginner-Intermediate";"5.0/6.0/-4.0/1.0";"5/5.9/-4/0.9";1;3.5;5.0;6.0;-4.0;1.0;5.0;5.9;-4.0;0.9;-3.0;0
+"Thread";"Hooligan Discs";"Control Driver";"Understable";"Everyone";"9.0/5.0/-1.0/1.0";"9/5/-1/1";2;4.5;9.0;5.0;-1.0;1.0;9.0;5.0;-1.0;1.0;0.0;0
+"Yeet";"Hooligan Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/3";1;4.0;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;3.0;2.0;0
+"Vibe";"Hooligan Discs";"Distance Driver";"Stable";"Everyone";"11.0/5.0/-2.0/1.0";"11/5/-2/1.1";1;5.0;11.0;5.0;-2.0;1.0;11.0;5.0;-2.0;1.1;-1.0;0
+"Wizard";"Gateway";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2.4/3.6/0/1.9";288;4.72;2.0;3.0;0.0;2.0;2.4;3.6;0.0;1.9;2.0;0
+"Warspear";"Gateway";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.5";"2.1/2.5/0/2.4";8;4.13;2.0;3.0;0.0;2.5;2.1;2.5;0.0;2.4;2.5;0
+"Warlock";"Gateway";"Putt & Approach";"Stable";"Beginner";"2.0/3.0/0.0/1.0";"2.3/3.5/-0.2/1.3";41;4.66;2.0;3.0;0.0;1.0;2.3;3.5;-0.2;1.3;1.0;0
+"Voodoo";"Gateway";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2.4/3.4/0/0.6";69;4.65;2.0;3.0;0.0;0.0;2.4;3.4;0.0;0.6;0.0;0
+"Training Wizard";"Gateway";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2.1/3.2/0/2";1;2.0;2.0;3.0;0.0;2.0;2.1;3.2;0.0;2.0;2.0;0
+"Shaman";"Gateway";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/-1.0/1.0";"3.1/3.3/-0.7/1";30;4.7;3.0;3.0;-1.0;1.0;3.1;3.3;-0.7;1.0;0.0;0
+"Magic";"Gateway";"Putt & Approach";"Understable";"Beginner";"2.0/3.0/-1.0/0.0";"2.2/3.5/-1/0";61;4.56;2.0;3.0;-1.0;0.0;2.2;3.5;-1.0;0.0;-1.0;0
+"Houdini";"Gateway";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/3.0/0.0/3.0";"3/2.9/0/3";4;4.38;3.0;3.0;0.0;3.0;3.0;2.9;0.0;3.0;3.0;0
+"Devilhawk";"Gateway";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/4.0";"3/2.9/0.1/3.2";18;4.61;3.0;3.0;0.0;4.0;3.0;2.9;0.1;3.2;4.0;0
+"Chief OS";"Gateway";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/2.0";"3.1/3/0/2.3";16;4.25;3.0;3.0;0.0;2.0;3.1;3.0;0.0;2.3;2.0;0
+"Chief";"Gateway";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/1.0";"3/3.1/-0.1/1.2";21;4.67;3.0;3.0;0.0;1.0;3.0;3.1;-0.1;1.2;1.0;0
+"Warrior";"Gateway";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/4/-0.2/2.9";24;4.38;5.0;4.0;0.0;3.0;5.0;4.0;-0.2;2.9;3.0;0
+"Scout";"Gateway";"Mid Range";"Stable";"Everyone";"6.0/5.0/-1.0/2.0";"6/5/-1/1.9";11;4.64;6.0;5.0;-1.0;2.0;6.0;5.0;-1.0;1.9;1.0;0
+"Prophecy";"Gateway";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/2.0";"5/5.1/0/2.1";26;4.38;5.0;5.0;0.0;2.0;5.0;5.1;0.0;2.1;2.0;0
+"Mystic";"Gateway";"Mid Range";"Understable";"Beginner-Intermediate";"5.0/5.0/-2.5/0.0";"5/5/-2.5/0.1";16;4.56;5.0;5.0;-2.5;0.0;5.0;5.0;-2.5;0.1;-2.5;0
+"Karma";"Gateway";"Mid Range";"Overstable";"Intermediate";"7.0/5.0/-1.0/2.0";"6.2/4.8/-0.8/2.1";15;4.07;7.0;5.0;-1.0;2.0;6.2;4.8;-0.8;2.1;1.0;0
+"Element";"Gateway";"Mid Range";"Understable";"Beginner";"5.0/5.0/-1.0/1.0";"5/5/-1.2/1";44;4.44;5.0;5.0;-1.0;1.0;5.0;5.0;-1.2;1.0;0.0;0
+"Demon";"Gateway";"Mid Range";"Very Overstable";"Advanced";"6.0/3.0/0.0/4.0";"5.9/3/0.1/4.1";10;4.7;6.0;3.0;0.0;4.0;5.9;3.0;0.1;4.1;4.0;0
+"Spear";"Gateway";"Control Driver";"Understable";"Beginner";"9.0/6.0/-2.0/1.0";"9/5.9/-1.6/1.3";18;4.22;9.0;6.0;-2.0;1.0;9.0;5.9;-1.6;1.3;-1.0;0
+"Sabre";"Gateway";"Control Driver";"Stable";"Beginner";"7.0/5.0/-1.0/1.0";"7.3/5/-1/1";15;4.27;7.0;5.0;-1.0;1.0;7.3;5.0;-1.0;1.0;0.0;0
+"Hybrid";"Gateway";"Control Driver";"Overstable";"Intermediate";"7.0/4.0/0.0/3.0";"7/4/-0.1/3";3;3.0;7.0;4.0;0.0;3.0;7.0;4.0;-0.1;3.0;3.0;0
+"Diablo";"Gateway";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/5.0/0.0/2.0";"9.3/5/-0.2/2";8;4.25;9.0;5.0;0.0;2.0;9.3;5.0;-0.2;2.0;2.0;0
+"Blaze";"Gateway";"Control Driver, Mid Range";"Very Overstable";"Intermediate-Advanced";"6.0/4.0/0.0/3.0";"6.3/4.1/0/2.8";9;4.0;6.0;4.0;0.0;3.0;6.3;4.1;0.0;2.8;3.0;0
+"Blade";"Gateway";"Control Driver";"Very Overstable";"Advanced";"9.0/5.0/0.0/3.0";"9/4.8/-0.2/3.1";12;4.58;9.0;5.0;0.0;3.0;9.0;4.8;-0.2;3.1;3.0;0
+"Assassin";"Gateway";"Control Driver";"Stable";"Everyone";"9.0/6.0/-1.5/1.0";"8.9/5.8/-1.4/1.2";20;4.28;9.0;6.0;-1.5;1.0;8.9;5.8;-1.4;1.2;-0.5;0
+"Amphibian";"Gateway";"Control Driver";"Very Understable";"Beginner-Intermediate";"10.0/6.0/-4.0/2.0";"10/6/-4/2";0;0.0;10.0;6.0;-4.0;2.0;0.0;0.0;0.0;0.0;-2.0;0
+"Spirit";"Gateway";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"11.6/3.8/0.3/4.4";23;4.02;12.0;4.0;0.0;4.0;11.6;3.8;0.3;4.4;4.0;0
+"Spell";"Gateway";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/0.0/3.0";"12/5.1/0/3";3;4.83;12.0;5.0;0.0;3.0;12.0;5.1;0.0;3.0;3.0;0
+"Speed Demon";"Gateway";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-0.5/3.0";"12/5/-0.5/3";5;4.6;12.0;5.0;-0.5;3.0;12.0;5.0;-0.5;3.0;2.5;0
+"Slayer";"Gateway";"Distance Driver";"Stable";"Advanced";"13.0/5.0/-1.0/2.0";"12.9/4.8/-1.1/2.2";20;3.95;13.0;5.0;-1.0;2.0;12.9;4.8;-1.1;2.2;1.0;0
+"Siren";"Gateway";"Distance Driver";"Stable";"Intermediate";"13.0/5.0/-2.0/1.0";"12.8/4.9/-1.9/1.2";4;3.5;13.0;5.0;-2.0;1.0;12.8;4.9;-1.9;1.2;-1.0;0
+"Samurai";"Gateway";"Distance Driver";"Stable";"Intermediate-Advanced";"12.5/5.0/-2.0/1.0";"12.7/5.1/-2.1/1.1";16;4.19;12.5;5.0;-2.0;1.0;12.7;5.1;-2.1;1.1;-1.0;0
+"Realm";"Gateway";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/3";2;4.75;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;3.0;2.0;0
+"Ninja";"Gateway";"Distance Driver";"Overstable";"Advanced";"10.0/6.0/-1.0/2.0";"9.9/5.4/-0.8/2.1";13;4.0;10.0;6.0;-1.0;2.0;9.9;5.4;-0.8;2.1;1.0;0
+"Journey";"Gateway";"Distance Driver";"Stable";"Intermediate-Advanced";"11.5/6.0/-2.0/1.0";"12/6/-1.6/1.1";27;4.74;11.5;6.0;-2.0;1.0;12.0;6.0;-1.6;1.1;-1.0;0
+"Illusion";"Gateway";"Distance Driver";"Overstable";"Advanced";"12.0/5.0/-0.5/2.5";"11.6/4.9/-0.6/2.8";13;4.46;12.0;5.0;-0.5;2.5;11.6;4.9;-0.6;2.8;2.0;0
+"G-One";"Gateway";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/6.0/-2.0/1.0";"12/6/-2/1";1;5.0;12.0;6.0;-2.0;1.0;12.0;6.0;-2.0;1.0;-1.0;0
+"Ether";"Gateway";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/6.0/-1.0/2.0";"12/6/-1/1.9";1;4.5;12.0;6.0;-1.0;2.0;12.0;6.0;-1.0;1.9;1.0;0
+"Apex";"Gateway";"Distance Driver";"Stable";"Everyone";"12.0/6.0/-1.0/2.0";"12/6/-1/1.9";12;5.0;12.0;6.0;-1.0;2.0;12.0;6.0;-1.0;1.9;1.0;0
+"Apache";"Gateway";"Distance Driver, Control Driver";"Stable";"Beginner-Intermediate";"10.0/6.0/0.0/2.0";"9.7/5.7/-0.2/1.9";17;4.26;10.0;6.0;0.0;2.0;9.7;5.7;-0.2;1.9;2.0;0
+"Zephyr";"Innova";"Putt & Approach";"Stable";"";"2.0/3.0/0.0/0.0";"2.1/3.3/-0.1/0";13;4.15;2.0;3.0;0.0;0.0;2.1;3.3;-0.1;0.0;0.0;0
+"Yeti Pro Aviar";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/2.9/0/1";50;4.66;2.0;3.0;0.0;1.0;2.0;2.9;0.0;1.0;1.0;0
+"Xero";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2/3.1/-0.1/0";7;4.5;2.0;3.0;0.0;0.0;2.0;3.1;-0.1;0.0;0.0;0
+"XD +";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/-1.0/1.0";"3/4/-0.9/0.9";4;4.5;3.0;4.0;-1.0;1.0;3.0;4.0;-0.9;0.9;0.0;0
+"XD";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/-1.0/1.0";"3.1/4/-1/1";4;4.5;3.0;4.0;-1.0;1.0;3.1;4.0;-1.0;1.0;0.0;0
+"Whale";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3.1/0/1";40;4.38;2.0;3.0;0.0;1.0;2.0;3.1;0.0;1.0;1.0;0
+"Warhog";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3/0/1";0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0
+"Stud";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/2.0";"3/3.1/0/1.9";25;4.8;3.0;3.0;0.0;2.0;3.0;3.1;0.0;1.9;2.0;0
+"Sonic";"Innova";"Putt & Approach";"Very Understable";"Beginner";"1.0/2.0/-4.0/0.0";"1.1/2.2/-3.8/0";27;4.17;1.0;2.0;-4.0;0.0;1.1;2.2;-3.8;0.0;-4.0;0
+"RhynoX";"Innova";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"2.0/1.0/0.0/4.0";"2.1/1.1/0/3.6";9;3.11;2.0;1.0;0.0;4.0;2.1;1.1;0.0;3.6;4.0;0
+"Rhyno";"Innova";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"2.0/1.0/0.0/3.0";"2/1.2/0/2.7";118;4.52;2.0;1.0;0.0;3.0;2.0;1.2;0.0;2.7;3.0;0
+"Polecat";"Innova";"Putt & Approach";"Stable";"Beginner";"1.0/3.0/0.0/0.0";"1/3.1/-0.1/0";45;4.13;1.0;3.0;0.0;0.0;1.0;3.1;-0.1;0.0;0.0;0
+"Nova";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2/3/0/0.1";149;4.48;2.0;3.0;0.0;0.0;2.0;3.0;0.0;0.1;0.0;0
+"Mirage";"Innova";"Putt & Approach";"Understable";"Beginner";"3.0/4.0/-3.0/0.0";"3.1/4.1/-3/0";33;4.55;3.0;4.0;-3.0;0.0;3.1;4.1;-3.0;0.0;-3.0;0
+"Khan";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2.1/3/0/1.2";2;4.75;2.0;3.0;0.0;1.0;2.1;3.0;0.0;1.2;1.0;0
+"KC Pro Aviar";"Innova";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2/3/0/2";42;4.74;2.0;3.0;0.0;2.0;2.0;3.0;0.0;2.0;2.0;0
+"JK Pro Aviar-X";"Innova";"Putt & Approach";"Stable";"Beginner";"2.0/3.0/0.0/2.0";"2/3/0/2";32;4.69;2.0;3.0;0.0;2.0;2.0;3.0;0.0;2.0;2.0;0
+"Invader";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/2.0/0.0/1.0";"3/2.1/0/1";30;4.8;3.0;2.0;0.0;1.0;3.0;2.1;0.0;1.0;1.0;0
+"Hydra";"Innova";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/2.0";"3/3/0/2";23;4.3;3.0;3.0;0.0;2.0;3.0;3.0;0.0;2.0;2.0;0
+"Hawg";"Innova";"Putt & Approach";"Very Overstable";"Everyone";"2.0/1.0/0.0/3.5";"2/1.1/0/3.2";9;4.0;2.0;1.0;0.0;3.5;2.0;1.1;0.0;3.2;3.5;0
+"Hammer";"Innova";"Putt & Approach";"Stable";"";"2.0/2.0/-1.0/2.0";"2.2/2/-1/1.8";2;4.0;2.0;2.0;-1.0;2.0;2.2;2.0;-1.0;1.8;1.0;0
+"Firefly";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/1";13;4.77;2.0;3.0;0.0;1.0;2.0;3.0;0.0;1.0;1.0;0
+"Dart";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/0.0";"3/4.2/0/0.1";104;4.38;3.0;4.0;0.0;0.0;3.0;4.2;0.0;0.1;0.0;0
+"Coupe";"Innova";"Putt & Approach";"Stable";"";"2.0/3.0/-1.0/1.0";"2/3/-1/1";0;0.0;2.0;3.0;-1.0;1.0;0.0;0.0;0.0;0.0;0.0;0
+"Colt";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/-1.0/1.0";"3.1/3.4/-0.9/1";61;4.48;3.0;4.0;-1.0;1.0;3.1;3.4;-0.9;1.0;0.0;0
+"Classic Roc";"Innova";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/2.0";"3.1/3.1/0/2";16;4.38;3.0;3.0;0.0;2.0;3.1;3.1;0.0;2.0;2.0;0
+"Classic Aviar";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2/3/0/0";39;4.56;2.0;3.0;0.0;0.0;2.0;3.0;0.0;0.0;0.0;0
+"Bullfrog";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/1.0/0.0/1.0";"3/1.2/0/1";27;4.78;3.0;1.0;0.0;1.0;3.0;1.2;0.0;1.0;1.0;0
+"Birdie";"Innova";"Putt & Approach";"Stable";"Beginner";"1.0/2.0/0.0/0.0";"1/2/0/0";61;3.6;1.0;2.0;0.0;0.0;1.0;2.0;0.0;0.0;0.0;0
+"AviarX3";"Innova";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/2.0/0.0/3.0";"3/2.1/0/3";54;4.61;3.0;2.0;0.0;3.0;3.0;2.1;0.0;3.0;3.0;0
+"Aviar3";"Innova";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/2.0/0.0/2.0";"3/2.1/0/1.9";56;4.6;3.0;2.0;0.0;2.0;3.0;2.1;0.0;1.9;2.0;0
+"Aviar Driver";"Innova";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2/3/0/1.9";16;4.19;2.0;3.0;0.0;2.0;2.0;3.0;0.0;1.9;2.0;0
+"Aviar";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2.1/3/0/0.9";232;4.44;2.0;3.0;0.0;1.0;2.1;3.0;0.0;0.9;1.0;1
+"Animal";"Innova";"Putt & Approach";"Stable";"Everyone";"2.0/1.0/0.0/1.0";"2/1.2/-0.1/1";13;3.54;2.0;1.0;0.0;1.0;2.0;1.2;-0.1;1.0;1.0;0
+"Alien";"Innova";"Putt & Approach";"Stable";"Beginner";"4.0/2.0/0.0/1.0";"4/2.2/0/1.1";12;4.46;4.0;2.0;0.0;1.0;4.0;2.2;0.0;1.1;1.0;0
+"Aero";"Innova";"Putt & Approach";"Stable";"Everyone";"3.0/6.0/0.0/0.0";"3/6/-0.3/0";28;3.82;3.0;6.0;0.0;0.0;3.0;6.0;-0.3;0.0;0.0;0
+"Ace";"Innova";"Putt & Approach";"Understable";"";"2.0/3.0/-2.0/1.0";"2/3/-2.1/1";2;5.0;2.0;3.0;-2.0;1.0;2.0;3.0;-2.1;1.0;-1.0;0
+"Wombat3";"Innova";"Mid Range";"Understable";"Everyone";"5.0/6.0/-1.0/0.0";"5/5.9/-1.1/0.1";44;4.39;5.0;6.0;-1.0;0.0;5.0;5.9;-1.1;0.1;-1.0;0
+"Wombat";"Innova";"Mid Range";"Understable";"Everyone";"5.0/6.0/-1.0/0.0";"5/5.9/-1.2/0.5";26;4.19;5.0;6.0;-1.0;0.0;5.0;5.9;-1.2;0.5;-1.0;0
+"Wolf";"Innova";"Mid Range";"Very Understable";"Beginner";"4.0/3.0/-4.0/1.0";"4/3.1/-3.9/0.9";40;4.28;4.0;3.0;-4.0;1.0;4.0;3.1;-3.9;0.9;-3.0;0
+"Wedge";"Innova";"Mid Range, Putt & Approach";"Understable";"Beginner";"3.5/3.0/-3.0/1.0";"3.8/3.1/-3/0.9";36;4.61;3.5;3.0;-3.0;1.0;3.8;3.1;-3.0;0.9;-2.0;0
+"VRoc3";"Innova";"Mid Range";"Overstable";"";"5.0/4.0/0.0/2.5";"5/4/0/2.5";1;5.0;5.0;4.0;0.0;2.5;5.0;4.0;0.0;2.5;2.5;0
+"VRoc";"Innova";"Mid Range";"Overstable";"Intermediate";"4.0/4.0/0.0/2.0";"4/3.9/-0.1/1.6";32;4.16;4.0;4.0;0.0;2.0;4.0;3.9;-0.1;1.6;2.0;0
+"VCobra";"Innova";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/2.0";"5/5.1/-1/1.8";13;4.85;5.0;5.0;-1.0;2.0;5.0;5.1;-1.0;1.8;1.0;0
+"Toro";"Innova";"Mid Range";"Very Overstable";"";"4.0/2.0/1.0/3.0";"4/2.1/0.4/3.5";22;4.77;4.0;2.0;1.0;3.0;4.0;2.1;0.4;3.5;4.0;0
+"Super Stingray";"Innova";"Mid Range";"Stable";"Intermediate";"4.0/5.0/-1.0/1.0";"4/5/-1/1";13;4.77;4.0;5.0;-1.0;1.0;4.0;5.0;-1.0;1.0;0.0;0
+"Stingray";"Innova";"Mid Range";"Understable";"Beginner";"4.0/5.0/-3.0/1.0";"4/5/-2.8/1";60;4.45;4.0;5.0;-3.0;1.0;4.0;5.0;-2.8;1.0;-2.0;0
+"Spider";"Innova";"Mid Range";"Stable";"Everyone";"5.0/3.0/0.0/1.0";"5/3.1/0/1.1";19;4.68;5.0;3.0;0.0;1.0;5.0;3.1;0.0;1.1;1.0;0
+"Skeeter";"Innova";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"4.9/5/-1/0.9";41;4.02;5.0;5.0;-1.0;1.0;4.9;5.0;-1.0;0.9;0.0;0
+"Shark3";"Innova";"Mid Range";"Overstable";"Intermediate";"5.0/4.0/0.0/2.0";"5/4.1/-0.1/1.9";19;4.79;5.0;4.0;0.0;2.0;5.0;4.1;-0.1;1.9;2.0;0
+"Shark";"Innova";"Mid Range";"Overstable";"Beginner-Intermediate";"4.0/4.0/0.0/2.0";"4/4/-0.2/1.8";114;4.47;4.0;4.0;0.0;2.0;4.0;4.0;-0.2;1.8;2.0;0
+"Scorpion";"Innova";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/2.0";"5/5/-1/2";5;4.6;5.0;5.0;-1.0;2.0;5.0;5.0;-1.0;2.0;1.0;0
+"Rollo";"Innova";"Mid Range";"Very Understable";"Beginner-Intermediate";"5.0/6.0/-4.0/1.0";"5/5.9/-4/0.9";12;4.5;5.0;6.0;-4.0;1.0;5.0;5.9;-4.0;0.9;-3.0;0
+"RocX3";"Innova";"Mid Range";"Very Overstable";"Advanced";"5.0/4.0/0.0/3.5";"5/4/0/3.3";41;4.38;5.0;4.0;0.0;3.5;5.0;4.0;0.0;3.3;3.5;0
+"Roc3";"Innova";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/4.1/-0.1/2.6";248;4.52;5.0;4.0;0.0;3.0;5.0;4.1;-0.1;2.6;3.0;0
+"Roc +";"Innova";"Mid Range";"Overstable";"Intermediate";"4.0/5.0/0.0/2.0";"4/4.9/0/2";8;3.63;4.0;5.0;0.0;2.0;4.0;4.9;0.0;2.0;2.0;0
+"Roc";"Innova";"Mid Range";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4/4.1/-0.1/2.5";170;4.74;4.0;4.0;0.0;3.0;4.0;4.1;-0.1;2.5;3.0;0
+"Rat";"Innova";"Mid Range";"Overstable";"Everyone";"4.0/2.0/0.0/3.0";"4/2.4/0/2.5";47;4.26;4.0;2.0;0.0;3.0;4.0;2.4;0.0;2.5;3.0;0
+"Rancho Roc";"Innova";"Mid Range";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4/4/-0.1/2.9";7;4.29;4.0;4.0;0.0;3.0;4.0;4.0;-0.1;2.9;3.0;0
+"Pig";"Innova";"Mid Range";"Very Overstable";"Everyone";"4.0/1.0/0.0/3.0";"3.2/1.1/0/2.9";118;4.76;4.0;1.0;0.0;3.0;3.2;1.1;0.0;2.9;3.0;0
+"Panther";"Innova";"Mid Range";"Understable";"Beginner";"5.0/4.0/-2.0/1.0";"5/4/-1.9/1";39;4.45;5.0;4.0;-2.0;1.0;5.0;4.0;-1.9;1.0;-1.0;0
+"MID-DISC3";"Innova";"Mid Range";"Very Overstable";"";"5.0/5.0/0.0/2.0";"5/5/0/2";0;0.0;5.0;5.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Manta";"Innova";"Mid Range";"Understable";"Beginner";"5.0/5.0/-2.0/1.0";"5/5/-2.3/1";22;4.23;5.0;5.0;-2.0;1.0;5.0;5.0;-2.3;1.0;-1.0;0
+"Mako3";"Innova";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/0.0";"5/4.3/-0.1/0.1";345;4.74;5.0;5.0;0.0;0.0;5.0;4.3;-0.1;0.1;0.0;0
+"Mako";"Innova";"Mid Range";"Stable";"Beginner-Intermediate";"4.0/5.0/0.0/0.0";"4.1/5/-0.1/0";41;4.46;4.0;5.0;0.0;0.0;4.1;5.0;-0.1;0.0;0.0;0
+"Makani";"Innova";"Mid Range";"Understable";"Beginner";"2.0/7.0/-2.0/0.0";"2/7/-2/0";4;4.75;2.0;7.0;-2.0;0.0;2.0;7.0;-2.0;0.0;-2.0;0
+"Lycan";"Innova";"Mid Range";"Stable";"Everyone";"4.0/5.0/0.0/1.0";"4/5/0/1";13;4.54;4.0;5.0;0.0;1.0;4.0;5.0;0.0;1.0;1.0;0
+"Lion";"Innova";"Mid Range";"Overstable";"Everyone";"5.0/4.0/0.0/2.0";"5/4/0/1.9";39;4.51;5.0;4.0;0.0;2.0;5.0;4.0;0.0;1.9;2.0;0
+"Kite";"Innova";"Mid Range";"Very Understable";"Beginner";"5.0/6.0/-3.0/1.0";"5/6/-2.9/1";12;3.92;5.0;6.0;-3.0;1.0;5.0;6.0;-2.9;1.0;-2.0;0
+"King Cobra";"Innova";"Mid Range";"Overstable";"Intermediate";"4.0/5.0/0.0/2.0";"4.1/5/0/1.9";15;4.6;4.0;5.0;0.0;2.0;4.1;5.0;0.0;1.9;2.0;0
+"Jay";"Innova";"Mid Range";"Stable";"Everyone";"5.0/4.0/0.0/1.0";"5/4/0/1";15;4.4;5.0;4.0;0.0;1.0;5.0;4.0;0.0;1.0;1.0;0
+"Jaguar";"Innova";"Mid Range";"Understable";"Everyone";"5.5/6.0/-3.0/2.0";"5.5/6/-2.8/2";2;5.0;5.5;6.0;-3.0;2.0;5.5;6.0;-2.8;2.0;-1.0;0
+"Griffin";"Innova";"Mid Range";"Very Overstable";"";"5.0/3.0/1.0/3.0";"5/3/1/3";0;0.0;5.0;3.0;1.0;3.0;0.0;0.0;0.0;0.0;4.0;0
+"Gator3";"Innova";"Mid Range";"Very Overstable";"Advanced";"5.0/2.0/0.0/3.0";"5/2.1/0/3";11;5.0;5.0;2.0;0.0;3.0;5.0;2.1;0.0;3.0;3.0;0
+"Gator";"Innova";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/2.0/0.0/3.0";"5/2.1/0/3.2";86;4.53;5.0;2.0;0.0;3.0;5.0;2.1;0.0;3.2;3.0;0
+"Foxbat";"Innova";"Mid Range";"Understable";"Beginner";"5.0/6.0/-1.0/0.0";"5/5.9/-1/0";33;4.48;5.0;6.0;-1.0;0.0;5.0;5.9;-1.0;0.0;-1.0;0
+"Croc";"Innova";"Mid Range";"Very Overstable";"Advanced";"5.5/2.0/0.0/5.0";"5.4/2.1/0.1/4.8";10;4.7;5.5;2.0;0.0;5.0;5.4;2.1;0.1;4.8;5.0;0
+"Cro";"Innova";"Mid Range";"Overstable";"Intermediate";"5.0/3.0/0.0/2.0";"4.9/3.1/0/2";26;4.46;5.0;3.0;0.0;2.0;4.9;3.1;0.0;2.0;2.0;0
+"Coyote";"Innova";"Mid Range";"Stable";"Beginner";"4.0/5.0/0.0/1.0";"4/4.6/-0.7/1.2";18;4.5;4.0;5.0;0.0;1.0;4.0;4.6;-0.7;1.2;1.0;0
+"Condor";"Innova";"Mid Range";"Overstable";"Beginner";"3.0/4.0/0.0/2.0";"3/4.3/-0.2/1.8";18;4.33;3.0;4.0;0.0;2.0;3.0;4.3;-0.2;1.8;2.0;0
+"Commander";"Innova";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/3.0/0.0/4.0";"5.2/3.2/0/3.8";3;3.67;5.0;3.0;0.0;4.0;5.2;3.2;0.0;3.8;4.0;0
+"Cobra";"Innova";"Mid Range";"Stable";"Beginner";"4.0/5.0/-2.0/2.0";"4/5/-2/1.9";37;4.81;4.0;5.0;-2.0;2.0;4.0;5.0;-2.0;1.9;0.0;0
+"Caiman";"Innova";"Mid Range";"Very Overstable";"Advanced";"5.5/2.0/0.0/4.0";"5.1/2.3/0/3.7";62;4.37;5.5;2.0;0.0;4.0;5.1;2.3;0.0;3.7;4.0;0
+"Bulldog";"Innova";"Mid Range";"Overstable";"";"4.0/3.0/0.0/2.0";"4/3/0/2";3;4.33;4.0;3.0;0.0;2.0;4.0;3.0;0.0;2.0;2.0;0
+"Barracuda";"Innova";"Mid Range";"Stable";"";"5.0/4.0/-2.0/3.0";"5/4/-2/3";1;4.0;5.0;4.0;-2.0;3.0;5.0;4.0;-2.0;3.0;1.0;0
+"Avatar";"Innova";"Mid Range";"Stable";"Everyone";"5.0/4.0/0.0/2.0";"5/4.1/0/2";10;4.1;5.0;4.0;0.0;2.0;5.0;4.1;0.0;2.0;2.0;0
+"Atlas";"Innova";"Mid Range";"Stable";"Beginner-Intermediate";"5.0/4.0/0.0/1.0";"5/4.6/-0.1/1";80;4.45;5.0;4.0;0.0;1.0;5.0;4.6;-0.1;1.0;1.0;0
+"Whippet";"Innova";"Control Driver";"Very Overstable";"Intermediate-Advanced";"6.0/3.0/1.0/5.0";"6/3.1/1/4.9";21;4.05;6.0;3.0;1.0;5.0;6.0;3.1;1.0;4.9;6.0;0
+"Viper";"Innova";"Control Driver";"Very Overstable";"Intermediate-Advanced";"6.0/4.0/1.0/5.0";"6.1/4.1/1/4.9";27;4.44;6.0;4.0;1.0;5.0;6.1;4.1;1.0;4.9;6.0;0
+"Viking";"Innova";"Control Driver";"Overstable";"Intermediate";"9.0/4.0/-1.0/2.0";"9/4/-1/2";29;4.59;9.0;4.0;-1.0;2.0;9.0;4.0;-1.0;2.0;1.0;0
+"Valkyrie";"Innova";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/4.0/-2.0/2.0";"8.9/4.1/-2/2";250;4.48;9.0;4.0;-2.0;2.0;8.9;4.1;-2.0;2.0;0.0;1
+"TL3";"Innova";"Control Driver";"Stable";"Beginner-Intermediate";"8.0/4.0/-1.0/1.0";"7.9/4.1/-0.6/1.1";73;4.59;8.0;4.0;-1.0;1.0;7.9;4.1;-0.6;1.1;0.0;0
+"TL";"Innova";"Control Driver";"Stable";"Intermediate";"7.0/5.0/-1.0/1.0";"7/5/-0.3/1";92;4.65;7.0;5.0;-1.0;1.0;7.0;5.0;-0.3;1.0;0.0;0
+"Thunderbird";"Innova";"Control Driver";"Overstable";"Everyone";"9.0/5.0/0.0/2.0";"9/5/-0.1/2.1";262;4.68;9.0;5.0;0.0;2.0;9.0;5.0;-0.1;2.1;2.0;0
+"TeeBird3";"Innova";"Control Driver";"Stable";"Everyone";"8.0/4.0/0.0/2.0";"8/4.1/-0.1/2.1";114;4.75;8.0;4.0;0.0;2.0;8.0;4.1;-0.1;2.1;2.0;0
+"TeeBird +";"Innova";"Control Driver";"Overstable";"Beginner-Intermediate";"7.0/5.0/0.0/2.0";"7/5/0/2";2;3.5;7.0;5.0;0.0;2.0;7.0;5.0;0.0;2.0;2.0;0
+"Teebird";"Innova";"Control Driver";"Overstable";"Intermediate-Advanced";"7.0/5.0/0.0/2.0";"7/5/0/2";366;4.76;7.0;5.0;0.0;2.0;7.0;5.0;0.0;2.0;2.0;0
+"Sidewinder";"Innova";"Control Driver";"Understable";"Beginner";"9.0/5.0/-3.0/1.0";"9/5/-2.8/1.1";140;4.53;9.0;5.0;-3.0;1.0;9.0;5.0;-2.8;1.1;-2.0;0
+"Savant";"Innova";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/2.0";"9/5/-0.8/2.1";25;4.18;9.0;5.0;-1.0;2.0;9.0;5.0;-0.8;2.1;1.0;0
+"Roadrunner";"Innova";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/5.0/-4.0/1.0";"9/5.1/-3.7/1.1";134;4.5;9.0;5.0;-4.0;1.0;9.0;5.1;-3.7;1.1;-3.0;0
+"Raven";"Innova";"Control Driver";"Stable";"";"6.0/4.0/-2.0/2.0";"6/4/-2/2";0;0.0;6.0;4.0;-2.0;2.0;0.0;0.0;0.0;0.0;0.0;0
+"Ram";"Innova";"Control Driver";"Very Overstable";"Intermediate-Advanced";"6.0/4.0/-1.0/4.0";"6.3/4/-0.7/4";2;3.5;6.0;4.0;-1.0;4.0;6.3;4.0;-0.7;4.0;3.0;0
+"Python";"Innova";"Control Driver";"Stable";"";"7.0/3.0/-1.0/2.0";"7/3/-1/2";0;0.0;7.0;3.0;-1.0;2.0;0.0;0.0;0.0;0.0;1.0;0
+"Pegasus";"Innova";"Control Driver";"Overstable";"";"7.0/4.0/-1.0/3.0";"7/3.9/-0.8/3.1";6;4.17;7.0;4.0;-1.0;3.0;7.0;3.9;-0.8;3.1;2.0;0
+"Leopard3";"Innova";"Control Driver";"Understable";"Beginner";"7.0/5.0/-2.0/1.0";"7/5.1/-1.8/1.1";172;4.6;7.0;5.0;-2.0;1.0;7.0;5.1;-1.8;1.1;-1.0;0
+"Leopard";"Innova";"Control Driver";"Understable";"Beginner";"6.0/5.0/-2.0/1.0";"6/5/-1.9/1";252;4.46;6.0;5.0;-2.0;1.0;6.0;5.0;-1.9;1.0;-1.0;0
+"IT";"Innova";"Control Driver";"Understable";"Everyone";"7.0/6.0/-2.0/1.0";"6.9/6/-2.5/1";25;4.3;7.0;6.0;-2.0;1.0;6.9;6.0;-2.5;1.0;-1.0;0
+"Hawkeye";"Innova";"Control Driver";"Stable";"Beginner";"7.0/5.0/-1.0/1.0";"7.2/5/-0.9/1";19;4.84;7.0;5.0;-1.0;1.0;7.2;5.0;-0.9;1.0;0.0;0
+"Grenade";"Innova";"Control Driver";"Stable";"";"7.0/5.0/-2.0/3.0";"7/5/-2/3";0;0.0;7.0;5.0;-2.0;3.0;0.0;0.0;0.0;0.0;1.0;0
+"Gazelle";"Innova";"Control Driver";"Overstable";"Intermediate";"6.0/4.0/0.0/2.0";"6/4/-0.2/1.9";22;4.41;6.0;4.0;0.0;2.0;6.0;4.0;-0.2;1.9;2.0;0
+"Gargoyle";"Innova";"Control Driver";"Stable";"Everyone";"6.0/3.0/-1.0/2.0";"6/3/-1/2";0;0.0;6.0;3.0;-1.0;2.0;0.0;0.0;0.0;0.0;1.0;0
+"FL";"Innova";"Control Driver";"Overstable";"Intermediate";"9.0/3.0/0.0/2.0";"9/3.1/0/2";15;4.47;9.0;3.0;0.0;2.0;9.0;3.1;0.0;2.0;2.0;0
+"Firebird";"Innova";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"9/3.1/0/3.9";324;4.72;9.0;3.0;0.0;4.0;9.0;3.1;0.0;3.9;4.0;0
+"Fairway Disc";"Innova";"Control Driver";"Stable";"Everyone";"7.0/6.0/-1.0/1.0";"7/6/-0.9/1";11;5.0;7.0;6.0;-1.0;1.0;7.0;6.0;-0.9;1.0;0.0;0
+"Eagle";"Innova";"Control Driver";"Overstable";"Intermediate";"7.0/4.0/-1.0/3.0";"7.1/4/-0.9/3";126;4.55;7.0;4.0;-1.0;3.0;7.1;4.0;-0.9;3.0;2.0;0
+"Dragon";"Innova";"Control Driver";"Very Understable";"Beginner";"8.0/5.0/-2.0/2.0";"7.9/4.9/-2.3/1.8";84;3.33;8.0;5.0;-2.0;2.0;7.9;4.9;-2.3;1.8;0.0;0
+"Cheetah";"Innova";"Control Driver";"Stable";"Beginner";"6.0/4.0/-2.0/2.0";"6/4/-2/2";45;4.14;6.0;4.0;-2.0;2.0;6.0;4.0;-2.0;2.0;0.0;0
+"Banshee";"Innova";"Control Driver";"Very Overstable";"Intermediate-Advanced";"7.0/3.0/0.0/3.0";"7/3.1/-0.1/3";52;4.4;7.0;3.0;0.0;3.0;7.0;3.1;-0.1;3.0;3.0;0
+"Archangel";"Innova";"Control Driver";"Very Understable";"Beginner";"8.0/6.0/-4.0/1.0";"8/6/-3.9/1.2";53;3.94;8.0;6.0;-4.0;1.0;8.0;6.0;-3.9;1.2;-3.0;0
+"X-Caliber";"Innova";"Distance Driver";"Very Overstable";"Advanced";"12.0/5.0/0.0/4.0";"12/4.8/-0.1/3.9";80;4.44;12.0;5.0;0.0;4.0;12.0;4.8;-0.1;3.9;4.0;0
+"Wraith";"Innova";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-1.0/3.0";"11/5/-1.1/2.9";425;4.68;11.0;5.0;-1.0;3.0;11.0;5.0;-1.1;2.9;2.0;0
+"Wahoo";"Innova";"Distance Driver";"Understable";"Intermediate";"12.0/6.0/-2.0/2.0";"11.9/6/-2.1/2";26;3.62;12.0;6.0;-2.0;2.0;11.9;6.0;-2.1;2.0;0.0;0
+"Vulcan";"Innova";"Distance Driver";"Understable";"Intermediate";"13.0/5.0/-4.0/2.0";"13/5/-3.6/2";70;3.86;13.0;5.0;-4.0;2.0;13.0;5.0;-3.6;2.0;-2.0;0
+"Tern";"Innova";"Distance Driver";"Understable";"Intermediate";"12.0/6.0/-2.0/2.0";"12/5.9/-2/2";209;4.64;12.0;6.0;-2.0;2.0;12.0;5.9;-2.0;2.0;0.0;0
+"TeeRex";"Innova";"Distance Driver";"Very Overstable";"Advanced";"11.0/4.0/0.0/4.0";"11/4/-0.2/3.7";33;4.33;11.0;4.0;0.0;4.0;11.0;4.0;-0.2;3.7;4.0;0
+"TeeDevil";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/5.0/-1.0/2.0";"12/4.9/-1.1/2.1";42;4.37;12.0;5.0;-1.0;2.0;12.0;4.9;-1.1;2.1;1.0;0
+"Starfire";"Innova";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/3.0";"10/4.3/-0.3/2.7";61;4.52;10.0;4.0;0.0;3.0;10.0;4.3;-0.3;2.7;3.0;0
+"SL";"Innova";"Distance Driver";"Stable";"Intermediate";"10.0/5.0/-1.0/2.0";"10/5/-1/2";10;4.5;10.0;5.0;-1.0;2.0;10.0;5.0;-1.0;2.0;1.0;0
+"Shryke";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/6.0/-2.0/2.0";"12.9/6/-2/1.9";186;4.53;13.0;6.0;-2.0;2.0;12.9;6.0;-2.0;1.9;0.0;0
+"Power Disc 2";"Innova";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"12/4/0/4";1;4.5;12.0;4.0;0.0;4.0;12.0;4.0;0.0;4.0;4.0;0
+"Power Disc";"Innova";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/3.0";"9.9/4.1/0/3";3;4.5;10.0;4.0;0.0;3.0;9.9;4.1;0.0;3.0;3.0;0
+"Orc";"Innova";"Distance Driver";"Overstable";"Beginner-Intermediate";"10.0/4.0/-1.0/3.0";"10/4.1/-0.9/2.9";100;4.53;10.0;4.0;-1.0;3.0;10.0;4.1;-0.9;2.9;2.0;0
+"Mystere";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"11.0/6.0/-2.0/2.0";"11/5.9/-2.2/1.9";44;4.32;11.0;6.0;-2.0;2.0;11.0;5.9;-2.2;1.9;0.0;0
+"Monster";"Innova";"Distance Driver";"Very Overstable";"Advanced";"10.0/3.0/0.0/5.0";"10.1/2.9/0.1/5";22;4.27;10.0;3.0;0.0;5.0;10.1;2.9;0.1;5.0;5.0;0
+"Monarch";"Innova";"Distance Driver";"Understable";"Intermediate";"10.0/5.0/-4.0/1.0";"10/5/-3.6/1.1";51;3.78;10.0;5.0;-4.0;1.0;10.0;5.0;-3.6;1.1;-3.0;0
+"Max";"Innova";"Distance Driver";"Very Overstable";"Advanced";"11.0/3.0/0.0/5.0";"10.9/3.1/0/5";24;4.58;11.0;3.0;0.0;5.0;10.9;3.1;0.0;5.0;5.0;0
+"Mamba";"Innova";"Distance Driver";"Understable";"Beginner-Intermediate";"11.0/6.0/-5.0/1.0";"11/6/-4.7/1";179;4.32;11.0;6.0;-5.0;1.0;11.0;6.0;-4.7;1.0;-4.0;0
+"Krait";"Innova";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-1.0/2.0";"11/5/-1/2";55;4.3;11.0;5.0;-1.0;2.0;11.0;5.0;-1.0;2.0;1.0;0
+"Katana";"Innova";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/5.0/-3.0/3.0";"13/5/-2.6/2.9";155;4.13;13.0;5.0;-3.0;3.0;13.0;5.0;-2.6;2.9;0.0;0
+"Juggernaut";"Innova";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"12.0/4.0/1.0/4.0";"12/4/1/4.1";3;4.33;12.0;4.0;1.0;4.0;12.0;4.0;1.0;4.1;5.0;0
+"Invictus";"Innova";"Distance Driver";"Overstable";"Advanced";"10.0/5.0/-1.0/2.0";"10.3/4.4/-0.4/2.7";44;4.26;10.0;5.0;-1.0;2.0;10.3;4.4;-0.4;2.7;1.0;0
+"Groove";"Innova";"Distance Driver";"Stable";"Intermediate";"13.0/6.0/-2.0/2.0";"12.8/5.6/-1.5/2.4";104;2.98;13.0;6.0;-2.0;2.0;12.8;5.6;-1.5;2.4;0.0;0
+"Firestorm";"Innova";"Distance Driver";"Overstable";"Advanced";"14.0/4.0/-1.0/3.0";"13.7/4.1/-0.7/2.8";22;4.55;14.0;4.0;-1.0;3.0;13.7;4.1;-0.7;2.8;2.0;0
+"Dominator";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-1.0/2.0";"12.9/4.8/-0.9/2.2";41;4.07;13.0;5.0;-1.0;2.0;12.9;4.8;-0.9;2.2;1.0;0
+"Destroyer";"Innova";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1/3";550;4.65;12.0;5.0;-1.0;3.0;12.0;5.0;-1.0;3.0;2.0;0
+"Daedalus";"Innova";"Distance Driver";"Understable";"Intermediate";"13.0/6.0/-3.0/2.0";"13/5.9/-3.4/2";91;4.33;13.0;6.0;-3.0;2.0;13.0;5.9;-3.4;2.0;-1.0;0
+"Corvette";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"14.0/6.0/-1.0/2.0";"14/5.9/-1.1/2";75;4.49;14.0;6.0;-1.0;2.0;14.0;5.9;-1.1;2.0;1.0;0
+"Colossus";"Innova";"Distance Driver";"Stable";"Advanced";"14.0/5.0/-2.0/3.0";"14/5/-1.9/2.9";63;4.13;14.0;5.0;-2.0;3.0;14.0;5.0;-1.9;2.9;1.0;0
+"Charger";"Innova";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-1.0/2.0";"12.9/5.1/-1/2";12;4.75;13.0;5.0;-1.0;2.0;12.9;5.1;-1.0;2.0;1.0;0
+"Boss";"Innova";"Distance Driver";"Overstable";"Advanced";"13.0/5.0/-1.0/3.0";"13/5/-0.6/3";271;4.47;13.0;5.0;-1.0;3.0;13.0;5.0;-0.6;3.0;2.0;0
+"Beast";"Innova";"Distance Driver";"Stable";"Intermediate";"10.0/5.0/-2.0/2.0";"10/5/-1.9/2";249;4.43;10.0;5.0;-2.0;2.0;10.0;5.0;-1.9;2.0;0.0;0
+"Archon";"Innova";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-2.0/2.0";"11/5/-1.9/2";82;4.23;11.0;5.0;-2.0;2.0;11.0;5.0;-1.9;2.0;0.0;0
+"Ape";"Innova";"Distance Driver";"Very Overstable";"Advanced";"13.0/5.0/0.0/4.0";"13/4.8/0/4.1";106;4.08;13.0;5.0;0.0;4.0;13.0;4.8;0.0;4.1;4.0;0
+"Tomb";"Infinite Discs";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/1.0";"3.1/4/0/1.1";184;4.88;3.0;4.0;0.0;1.0;3.1;4.0;0.0;1.1;1.0;0
+"Scarab";"Infinite Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2/4/-0.1/1";44;4.73;2.0;4.0;0.0;1.0;2.0;4.0;-0.1;1.0;1.0;0
+"Ruin";"Infinite Discs";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/3.0/0.0/3.0";"3/3/0/2.9";68;4.6;3.0;3.0;0.0;3.0;3.0;3.0;0.0;2.9;3.0;0
+"Raze";"Infinite Discs";"Putt & Approach";"Overstable";"Advanced";"3.0/2.0/0.0/3.0";"3/2.2/0/3";9;4.44;3.0;2.0;0.0;3.0;3.0;2.2;0.0;3.0;3.0;0
+"Myth";"Infinite Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/2.0";"2/3/0/1.9";86;4.74;2.0;3.0;0.0;2.0;2.0;3.0;0.0;1.9;2.0;0
+"Cohort";"Infinite Discs";"Putt & Approach";"Stable";"Everyone";"3.5/4.0/0.0/1.0";"3.5/4/-0.1/1";44;4.77;3.5;4.0;0.0;1.0;3.5;4.0;-0.1;1.0;1.0;0
+"Alpaca";"Infinite Discs";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"2.9/3/0/1.1";103;4.85;3.0;3.0;0.0;1.0;2.9;3.0;0.0;1.1;1.0;0
+"Ra";"Infinite Discs";"Mid Range";"Overstable";"Everyone";"5.0/4.0/0.0/2.5";"5/4.1/0/2.5";59;4.69;5.0;4.0;0.0;2.5;5.0;4.1;0.0;2.5;2.5;0
+"Kon Tiki";"Infinite Discs";"Mid Range";"Very Understable";"Beginner-Intermediate";"4.0/5.0/-3.0/0.0";"4/5/-3.3/0";28;4.16;4.0;5.0;-3.0;0.0;4.0;5.0;-3.3;0.0;-3.0;0
+"Khonsu";"Infinite Discs";"Mid Range";"Understable";"Everyone";"5.0/5.0/-3.0/0.0";"5/5.1/-2.8/0.1";6;4.17;5.0;5.0;-3.0;0.0;5.0;5.1;-2.8;0.1;-3.0;0
+"Inca";"Infinite Discs";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/3.0";"5/4.9/-0.1/2.5";28;4.46;5.0;5.0;0.0;3.0;5.0;4.9;-0.1;2.5;3.0;0
+"Galleon";"Infinite Discs";"Mid Range";"Very Overstable";"Advanced";"6.0/3.0/0.0/5.0";"6/2.7/0.2/5";11;4.41;6.0;3.0;0.0;5.0;6.0;2.7;0.2;5.0;5.0;0
+"Chariot";"Infinite Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"5/5/0/1.1";124;4.8;5.0;5.0;0.0;1.0;5.0;5.0;0.0;1.1;1.0;0
+"Anubis";"Infinite Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/0.0";"5/5.1/-0.2/0.2";115;4.7;5.0;5.0;0.0;0.0;5.0;5.1;-0.2;0.2;0.0;0
+"Sphinx";"Infinite Discs";"Control Driver";"Understable";"Beginner";"9.0/6.0/-3.0/1.0";"9/6/-2.8/1";169;4.9;9.0;6.0;-3.0;1.0;9.0;6.0;-2.8;1.0;-2.0;0
+"Scepter";"Infinite Discs";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/4.0/0.0/4.0";"9/3.9/0/3.8";84;4.86;9.0;4.0;0.0;4.0;9.0;3.9;0.0;3.8;4.0;0
+"Roman";"Infinite Discs";"Control Driver";"Overstable";"Advanced";"10.0/4.0/0.0/3.0";"9.8/4.2/-0.2/2.8";27;4.72;10.0;4.0;0.0;3.0;9.8;4.2;-0.2;2.8;3.0;0
+"Exodus";"Infinite Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/-0.5/2.0";"7/4.9/-0.5/2";159;4.76;7.0;5.0;-0.5;2.0;7.0;4.9;-0.5;2.0;1.5;0
+"Dynasty";"Infinite Discs";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/2.0";"9/5/-1/2";67;4.81;9.0;5.0;-1.0;2.0;9.0;5.0;-1.0;2.0;1.0;0
+"Centurion";"Infinite Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/-1.0/2.0";"7/5.1/-1.1/1.5";112;4.87;7.0;5.0;-1.0;2.0;7.0;5.1;-1.1;1.5;1.0;0
+"Slab";"Infinite Discs";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"12.0/3.0/0.0/4.0";"11.8/3.1/0/3.9";106;4.71;12.0;3.0;0.0;4.0;11.8;3.1;0.0;3.9;4.0;0
+"Pharaoh";"Infinite Discs";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/6.0/-1.0/2.0";"12.9/5.9/-1.3/2";258;4.71;13.0;6.0;-1.0;2.0;12.9;5.9;-1.3;2.0;1.0;0
+"Maya";"Infinite Discs";"Distance Driver";"Understable";"Everyone";"11.0/5.0/-3.0/1.0";"11.4/5.1/-2.9/1";82;4.7;11.0;5.0;-3.0;1.0;11.4;5.1;-2.9;1.0;-2.0;0
+"Emperor";"Infinite Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/2.5";"12/5.1/-1/2.5";187;4.83;12.0;5.0;-1.0;2.5;12.0;5.1;-1.0;2.5;1.5;0
+"Czar";"Infinite Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-1.0/3.0";"11/5/-1/2.9";25;4.74;11.0;5.0;-1.0;3.0;11.0;5.0;-1.0;2.9;2.0;0
+"Conqueror";"Infinite Discs";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"12/4/-0.1/3.9";9;4.89;12.0;4.0;0.0;4.0;12.0;4.0;-0.1;3.9;4.0;0
+"Aztec";"Infinite Discs";"Distance Driver";"Stable";"Everyone";"10.0/5.0/-1.0/2.0";"10.1/5.1/-1.2/1.9";100;4.8;10.0;5.0;-1.0;2.0;10.1;5.1;-1.2;1.9;1.0;0
+"Love";"Jester Disc Golf";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2.1/3/-0.1/1";1;5.0;2.0;3.0;0.0;1.0;2.1;3.0;-0.1;1.0;1.0;0
+"Peace Train";"Jester Disc Golf";"Mid Range";"Understable";"Everyone";"5.0/4.0/-2.0/1.0";"5/4/-2/1.1";2;4.0;5.0;4.0;-2.0;1.0;5.0;4.0;-2.0;1.1;-1.0;0
+"Dream Weaver";"Jester Disc Golf";"Control Driver";"Overstable";"Everyone";"7.0/5.0/-1.0/1.5";"7/5/-1/1.4";2;3.5;7.0;5.0;-1.0;1.5;7.0;5.0;-1.0;1.4;0.5;0
+"Spike";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"4.0/3.0/-1.0/1.0";"3.9/2.7/-1/0.9";16;4.31;4.0;3.0;-1.0;1.0;3.9;2.7;-1.0;0.9;0.0;0
+"Sinus";"Latitude 64";"Putt & Approach";"Overstable";"Everyone";"2.0/2.0/0.0/2.0";"2.1/1.9/0/2.4";28;4.29;2.0;2.0;0.0;2.0;2.1;1.9;0.0;2.4;2.0;0
+"Savior";"Latitude 64";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4/4/0/3";5;5.0;4.0;4.0;0.0;3.0;4.0;4.0;0.0;3.0;3.0;0
+"Sarek";"Latitude 64";"Putt & Approach";"Overstable";"Everyone";"2.0/4.0/0.0/1.5";"2.1/4.2/-0.1/1.4";10;4.8;2.0;4.0;0.0;1.5;2.1;4.2;-0.1;1.4;1.5;0
+"Ruby";"Latitude 64";"Putt & Approach";"Very Understable";"Beginner";"3.0/5.0/-3.0/1.0";"3/4.8/-3/0.9";9;4.56;3.0;5.0;-3.0;1.0;3.0;4.8;-3.0;0.9;-2.0;0
+"Pure";"Latitude 64";"Putt & Approach";"Stable";"Beginner";"3.0/3.0/-1.0/1.0";"3/3.1/-0.6/0.7";163;4.77;3.0;3.0;-1.0;1.0;3.0;3.1;-0.6;0.7;0.0;0
+"Mercy";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2.1/4.1/0/1";33;4.73;2.0;4.0;0.0;1.0;2.1;4.1;0.0;1.0;1.0;0
+"Macana";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"2.0/5.0/0.0/1.0";"2/5/0/1";23;4.33;2.0;5.0;0.0;1.0;2.0;5.0;0.0;1.0;1.0;0
+"Keystone";"Latitude 64";"Putt & Approach";"Understable";"Everyone";"2.0/5.0/-1.0/1.0";"2.1/5/-1/0.9";30;4.48;2.0;5.0;-1.0;1.0;2.1;5.0;-1.0;0.9;0.0;0
+"Hope";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/1";3;5.0;2.0;3.0;0.0;1.0;2.0;3.0;0.0;1.0;1.0;0
+"Gauntlet";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2.1/4.2/0/1";14;4.64;2.0;4.0;0.0;1.0;2.1;4.2;0.0;1.0;1.0;0
+"Faith";"Latitude 64";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/1";11;4.73;2.0;3.0;0.0;1.0;2.0;3.0;0.0;1.0;1.0;0
+"Dagger";"Latitude 64";"Putt & Approach";"Overstable";"Intermediate-Advanced";"2.0/5.0/0.0/1.0";"2/4.8/0/1.2";44;4.4;2.0;5.0;0.0;1.0;2.0;4.8;0.0;1.2;1.0;0
+"Caltrop";"Latitude 64";"Putt & Approach";"Overstable";"Intermediate-Advanced";"2.0/2.0/0.0/2.0";"2/2.1/0/2";21;4.24;2.0;2.0;0.0;2.0;2.0;2.1;0.0;2.0;2.0;0
+"Beetle";"Latitude 64";"Putt & Approach";"Understable";"Beginner";"1.0/7.0/-1.0/0.0";"1/6.9/-1.1/0";7;4.57;1.0;7.0;-1.0;0.0;1.0;6.9;-1.1;0.0;-1.0;0
+"Trust";"Latitude 64";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/2.0";"5/5/-0.1/1.8";11;4.32;5.0;5.0;0.0;2.0;5.0;5.0;-0.1;1.8;2.0;0
+"Pearl";"Latitude 64";"Mid Range";"Very Understable";"Beginner";"4.0/6.0/-4.0/0.0";"4.1/6/-4.1/0.2";11;4.64;4.0;6.0;-4.0;0.0;4.1;6.0;-4.1;0.2;-4.0;0
+"Pain";"Latitude 64";"Mid Range";"Overstable";"Everyone";"4.0/4.0/0.0/3.0";"4.1/4/-0.1/3.1";14;4.43;4.0;4.0;0.0;3.0;4.1;4.0;-0.1;3.1;3.0;0
+"Medius";"Latitude 64";"Mid Range";"Overstable";"Everyone";"5.0/5.0/-1.0/2.0";"5/5/-1/2";0;0.0;5.0;5.0;-1.0;2.0;0.0;0.0;0.0;0.0;1.0;0
+"Mace";"Latitude 64";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/5.0/0.0/2.0";"5/5/0/1.9";24;4.46;5.0;5.0;0.0;2.0;5.0;5.0;0.0;1.9;2.0;0
+"Gobi";"Latitude 64";"Mid Range";"Understable";"Everyone";"6.0/5.0/-0.5/1.0";"5.7/5.2/-0.5/1.1";12;4.58;6.0;5.0;-0.5;1.0;5.7;5.2;-0.5;1.1;0.5;0
+"Fuse";"Latitude 64";"Mid Range";"Understable";"Everyone";"5.0/6.0/-1.0/0.0";"5/6/-1.3/0.2";99;4.67;5.0;6.0;-1.0;0.0;5.0;6.0;-1.3;0.2;-1.0;1
+"Fuji";"Latitude 64";"Mid Range";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/2.0";"4.1/4.1/-0.1/1.9";9;4.56;4.0;4.0;0.0;2.0;4.1;4.1;-0.1;1.9;2.0;0
+"Core";"Latitude 64";"Mid Range";"Stable";"Everyone";"6.0/5.0/-0.5/1.0";"5.4/5/-0.8/1";33;4.52;6.0;5.0;-0.5;1.0;5.4;5.0;-0.8;1.0;0.5;0
+"Compass";"Latitude 64";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"4.9/4.9/-0.1/1";85;4.66;5.0;5.0;0.0;1.0;4.9;4.9;-0.1;1.0;1.0;0
+"Claymore";"Latitude 64";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5/-0.8/1";62;4.68;5.0;5.0;-1.0;1.0;5.0;5.0;-0.8;1.0;0.0;0
+"Anchor";"Latitude 64";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/4/0/2.8";21;4.14;5.0;4.0;0.0;3.0;5.0;4.0;0.0;2.8;3.0;0
+"Zion";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/4.0/-0.5/3.0";"9/3.8/-0.6/3";11;4.27;9.0;4.0;-0.5;3.0;9.0;3.8;-0.6;3.0;2.5;0
+"XXX";"Latitude 64";"Control Driver";"Very Overstable";"Intermediate-Advanced";"7.0/3.0/0.0/4.0";"7.2/2.8/0/4.3";53;4.64;7.0;3.0;0.0;4.0;7.2;2.8;0.0;4.3;4.0;0
+"Vision";"Latitude 64";"Control Driver";"Understable";"Beginner-Intermediate";"8.0/6.0/-1.0/2.0";"8/6.1/-1.4/1.9";21;4.29;8.0;6.0;-1.0;2.0;8.0;6.1;-1.4;1.9;1.0;0
+"Trident";"Latitude 64";"Control Driver, Mid Range";"Very Overstable";"Intermediate-Advanced";"6.0/4.0/-0.5/3.0";"5.8/3.2/-0.2/3.9";49;4.63;6.0;4.0;-0.5;3.0;5.8;3.2;-0.2;3.9;2.5;0
+"Striker";"Latitude 64";"Control Driver";"Stable";"Intermediate";"8.0/5.0/0.0/2.0";"8.2/5/-0.2/2";27;4.48;8.0;5.0;0.0;2.0;8.2;5.0;-0.2;2.0;2.0;0
+"Spark";"Latitude 64";"Control Driver";"Overstable";"Intermediate";"7.0/4.0/-0.5/3.0";"7.1/4.1/-0.2/2.8";37;4.49;7.0;4.0;-0.5;3.0;7.1;4.1;-0.2;2.8;2.5;0
+"Saint Pro";"Latitude 64";"Control Driver";"Very Overstable";"Advanced";"8.0/5.0/-0.5/2.0";"8.4/5.7/-0.6/2.3";55;4.52;8.0;5.0;-0.5;2.0;8.4;5.7;-0.6;2.3;1.5;0
+"Saint";"Latitude 64";"Control Driver";"Stable";"Intermediate";"9.0/7.0/-1.0/2.0";"9/6.7/-1.4/1.9";168;4.58;9.0;7.0;-1.0;2.0;9.0;6.7;-1.4;1.9;1.0;0
+"River Pro";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"6.0/5.0/0.0/2.0";"6.4/5/-0.2/2.1";35;3.57;6.0;5.0;0.0;2.0;6.4;5.0;-0.2;2.1;2.0;0
+"River";"Latitude 64";"Control Driver";"Understable";"Beginner-Intermediate";"7.0/7.0/-1.0/1.0";"7/6.9/-1.1/1";202;4.71;7.0;7.0;-1.0;1.0;7.0;6.9;-1.1;1.0;0.0;0
+"Primitus";"Latitude 64";"Control Driver";"Overstable";"Intermediate";"9.0/5.0/0.0/2.0";"9/5/0/2";0;0.0;9.0;5.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Pioneer";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"8.9/3.1/0/3.7";19;4.32;9.0;3.0;0.0;4.0;8.9;3.1;0.0;3.7;4.0;0
+"Maul";"Latitude 64";"Control Driver";"Understable";"Beginner-Intermediate";"7.0/7.0/-2.0/1.0";"7/6.9/-2.2/1";46;4.61;7.0;7.0;-2.0;1.0;7.0;6.9;-2.2;1.0;-1.0;0
+"Jade";"Latitude 64";"Control Driver";"Stable";"Beginner";"9.0/6.0/-2.0/1.0";"9/5.3/-2/1.3";34;4.87;9.0;6.0;-2.0;1.0;9.0;5.3;-2.0;1.3;-1.0;0
+"Honor";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/0.0/2.5";"9/5/0/2.5";4;4.75;9.0;5.0;0.0;2.5;9.0;5.0;0.0;2.5;2.5;0
+"Glory";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"7.0/5.0/0.0/3.0";"7/5.1/0/2.9";5;4.8;7.0;5.0;0.0;3.0;7.0;5.1;0.0;2.9;3.0;0
+"Fury";"Latitude 64";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/6.0/-2.0/2.0";"8.9/6.5/-2.1/1.3";69;4.36;9.0;6.0;-2.0;2.0;8.9;6.5;-2.1;1.3;0.0;0
+"Falchion";"Latitude 64";"Control Driver";"Stable";"Everyone";"8.0/5.0/-1.0/2.0";"8.5/5.6/-1.1/2";23;4.43;8.0;5.0;-1.0;2.0;8.5;5.6;-1.1;2.0;1.0;0
+"Explorer";"Latitude 64";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7/5/-0.1/2";114;4.8;7.0;5.0;0.0;2.0;7.0;5.0;-0.1;2.0;2.0;0
+"Diamond";"Latitude 64";"Control Driver";"Very Understable";"Beginner";"8.0/6.0/-3.0/1.0";"7.9/6/-3.1/1";102;4.6;8.0;6.0;-3.0;1.0;7.9;6.0;-3.1;1.0;-2.0;1
+"Culverin";"Latitude 64";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/-0.5/3.0";"9/5/-0.3/2.8";47;4.79;9.0;5.0;-0.5;3.0;9.0;5.0;-0.3;2.8;2.5;0
+"Bryce";"Latitude 64";"Control Driver";"Stable";"Everyone";"9.0/6.0/-2.0/2.0";"9/6/-1.8/1.8";12;4.33;9.0;6.0;-2.0;2.0;9.0;6.0;-1.8;1.8;0.0;0
+"Brave";"Latitude 64";"Control Driver";"Understable";"Intermediate-Advanced";"7.0/6.0/-1.0/2.0";"7/6/-1.3/1.8";8;4.19;7.0;6.0;-1.0;2.0;7.0;6.0;-1.3;1.8;1.0;0
+"Villain";"Latitude 64";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"12/4/-0.2/3.7";15;4.73;12.0;4.0;0.0;4.0;12.0;4.0;-0.2;3.7;4.0;0
+"Strive";"Latitude 64";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/-1.0/3.0";"13/5.1/-1.2/2.8";2;3.5;13.0;5.0;-1.0;3.0;13.0;5.1;-1.2;2.8;2.0;0
+"Stiletto";"Latitude 64";"Distance Driver";"Very Overstable";"Advanced";"13.0/3.0/0.5/5.0";"13/2.7/0.8/5.3";38;4.34;13.0;3.0;0.5;5.0;13.0;2.7;0.8;5.3;5.5;0
+"SPZ3";"Latitude 64";"Distance Driver";"Understable";"Everyone";"9.0/6.0/-2.0/2.0";"9/5.8/-1.5/2";8;4.25;9.0;6.0;-2.0;2.0;9.0;5.8;-1.5;2.0;0.0;0
+"Scythe";"Latitude 64";"Distance Driver";"Very Overstable";"Advanced";"12.0/3.0/0.0/4.0";"12/3.2/0/4";27;4.67;12.0;3.0;0.0;4.0;12.0;3.2;0.0;4.0;4.0;0
+"Sapphire";"Latitude 64";"Distance Driver";"Stable";"Beginner-Intermediate";"10.0/6.0/-2.0/1.5";"10/5.9/-1.8/1.7";43;4.49;10.0;6.0;-2.0;1.5;10.0;5.9;-1.8;1.7;-0.5;0
+"Rive";"Latitude 64";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/0.0/3.5";"12.9/5.1/-0.3/3.1";24;4.46;13.0;5.0;0.0;3.5;12.9;5.1;-0.3;3.1;3.5;0
+"Riot";"Latitude 64";"Distance Driver";"Stable";"Intermediate";"11.0/4.0/-1.0/2.0";"11/4/-0.9/2.1";8;3.63;11.0;4.0;-1.0;2.0;11.0;4.0;-0.9;2.1;1.0;0
+"Recoil";"Latitude 64";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/4.0/0.0/3.0";"12/4.1/-0.1/2.9";19;4.74;12.0;4.0;0.0;3.0;12.0;4.1;-0.1;2.9;3.0;0
+"Raketen";"Latitude 64";"Distance Driver";"Stable";"Advanced";"15.0/4.0/-2.0/3.0";"14.5/3.6/-2.1/2.7";27;4.09;15.0;4.0;-2.0;3.0;14.5;3.6;-2.1;2.7;1.0;0
+"Musket";"Latitude 64";"Distance Driver";"Overstable";"Intermediate";"10.0/5.0/-0.5/2.0";"10/5/-0.7/2.2";36;4.6;10.0;5.0;-0.5;2.0;10.0;5.0;-0.7;2.2;1.5;0
+"Missilen";"Latitude 64";"Distance Driver";"Very Overstable";"Advanced";"15.0/3.0/-0.5/4.5";"14.9/3.2/-0.4/4";38;4.13;15.0;3.0;-0.5;4.5;14.9;3.2;-0.4;4.0;4.0;0
+"Knight";"Latitude 64";"Distance Driver";"Overstable";"Everyone";"14.0/4.0/-1.5/3.0";"14/4.2/-1.7/3.2";21;4.1;14.0;4.0;-1.5;3.0;14.0;4.2;-1.7;3.2;1.5;0
+"Havoc";"Latitude 64";"Distance Driver";"Overstable";"Advanced";"13.0/5.0/-1.0/3.0";"12.9/5.1/-1.3/2.6";56;4.63;13.0;5.0;-1.0;3.0;12.9;5.1;-1.3;2.6;2.0;0
+"Halo";"Latitude 64";"Distance Driver";"Overstable";"Advanced";"13.0/5.0/-0.5/3.0";"12.9/5/-0.6/2.8";54;4.46;13.0;5.0;-0.5;3.0;12.9;5.0;-0.6;2.8;2.5;0
+"Grace";"Latitude 64";"Distance Driver";"Stable";"Intermediate-Advanced";"11.0/6.0/-1.0/2.0";"11/6/-1/2";23;4.83;11.0;6.0;-1.0;2.0;11.0;6.0;-1.0;2.0;1.0;0
+"Gladiator";"Latitude 64";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"13.0/5.0/0.0/3.5";"13/5.1/0/3.3";29;4.28;13.0;5.0;0.0;3.5;13.0;5.1;0.0;3.3;3.5;0
+"Flow";"Latitude 64";"Distance Driver";"Stable";"Intermediate";"11.0/6.0/-0.5/2.0";"11/5.9/-0.7/2.1";59;4.61;11.0;6.0;-0.5;2.0;11.0;5.9;-0.7;2.1;1.5;0
+"Cutlass";"Latitude 64";"Distance Driver";"Overstable";"Intermediate";"13.0/5.0/0.0/3.5";"12.9/4.9/0/3.3";24;4.79;13.0;5.0;0.0;3.5;12.9;4.9;0.0;3.3;3.5;0
+"Bolt";"Latitude 64";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/6.0/-2.0/3.0";"12.9/6/-2.3/2.6";89;4.26;13.0;6.0;-2.0;3.0;12.9;6.0;-2.3;2.6;1.0;0
+"Blitz";"Latitude 64";"Distance Driver";"Very Overstable";"";"11.0/3.0/0.0/4.0";"11.4/3.3/0/3.8";19;4.26;11.0;3.0;0.0;4.0;11.4;3.3;0.0;3.8;4.0;0
+"Ballista Pro";"Latitude 64";"Distance Driver";"Overstable";"Intermediate-Advanced";"14.0/4.0/0.0/3.0";"13.9/4.3/-0.3/2.9";60;4.65;14.0;4.0;0.0;3.0;13.9;4.3;-0.3;2.9;3.0;0
+"Ballista";"Latitude 64";"Distance Driver";"Overstable";"Advanced";"14.0/5.0/-1.0/3.0";"13.9/4.9/-1/2.9";59;4.33;14.0;5.0;-1.0;3.0;13.9;4.9;-1.0;2.9;2.0;0
+"Reko X";"Kastaplast";"Putt & Approach";"Overstable";"";"3.0/3.0/0.0/2.0";"3/3.1/0/2";7;4.79;3.0;3.0;0.0;2.0;3.0;3.1;0.0;2.0;2.0;0
+"Reko";"Kastaplast";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3.2/-0.1/1.1";65;4.81;3.0;3.0;0.0;1.0;3.0;3.2;-0.1;1.1;1.0;0
+"Berg X";"Kastaplast";"Putt & Approach";"Overstable";"Everyone";"1.0/1.0/1.0/2.0";"1/1/0.9/2";3;4.67;1.0;1.0;1.0;2.0;1.0;1.0;0.9;2.0;3.0;0
+"Berg";"Kastaplast";"Putt & Approach";"Overstable";"Everyone";"1.0/1.0/0.0/2.0";"1.1/1.2/0/1.8";129;4.69;1.0;1.0;0.0;2.0;1.1;1.2;0.0;1.8;2.0;0
+"Svea";"Kastaplast";"Mid Range";"Understable";"Everyone";"5.0/6.0/-1.0/0.0";"5/6/-1.1/0.1";29;4.78;5.0;6.0;-1.0;0.0;5.0;6.0;-1.1;0.1;-1.0;0
+"Stig";"Kastaplast";"Mid Range";"Understable";"Everyone";"6.0/5.0/-2.0/1.0";"6/5.1/-1.9/1";2;4.75;6.0;5.0;-2.0;1.0;6.0;5.1;-1.9;1.0;-1.0;0
+"Nord";"Kastaplast";"Mid Range";"Stable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/4/0/3";0;0.0;5.0;4.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;0
+"Kaxe Z";"Kastaplast";"Mid Range";"Stable";"Intermediate";"6.0/5.0/0.0/2.0";"6/5/-0.2/1.9";51;4.75;6.0;5.0;0.0;2.0;6.0;5.0;-0.2;1.9;2.0;0
+"Kaxe (2023 retool)";"Kastaplast";"Mid Range";"Overstable";"Everyone";"6.0/4.0/0.0/3.0";"6/4.2/0/2.9";2;5.0;6.0;4.0;0.0;3.0;6.0;4.2;0.0;2.9;3.0;0
+"Kaxe";"Kastaplast";"Mid Range";"Overstable";"Intermediate";"6.0/4.0/0.0/3.0";"6/4.2/0/2.8";42;4.57;6.0;4.0;0.0;3.0;6.0;4.2;0.0;2.8;3.0;0
+"Järn";"Kastaplast";"Mid Range";"Overstable";"Intermediate-Advanced";"4.5/3.0/0.0/3.0";"4.5/2.9/0/3.2";10;4.85;4.5;3.0;0.0;3.0;4.5;2.9;0.0;3.2;3.0;0
+"Gote";"Kastaplast";"Mid Range";"Stable";"Everyone";"4.0/5.0/0.0/1.0";"4/5/-0.2/0.9";16;4.5;4.0;5.0;0.0;1.0;4.0;5.0;-0.2;0.9;1.0;0
+"Stal";"Kastaplast";"Control Driver";"Very Overstable";"Advanced";"9.0/4.0/0.0/3.0";"9/4/0/3.1";15;4.87;9.0;4.0;0.0;3.0;9.0;4.0;0.0;3.1;3.0;0
+"Lots";"Kastaplast";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/2.0";"9/5/-0.9/1.9";27;4.74;9.0;5.0;-1.0;2.0;9.0;5.0;-0.9;1.9;1.0;0
+"Falk";"Kastaplast";"Control Driver";"Understable";"Intermediate";"9.0/6.0/-2.0/1.0";"8.9/5.8/-2.3/1.3";45;4.62;9.0;6.0;-2.0;1.0;8.9;5.8;-2.3;1.3;-1.0;0
+"Älva";"Kastaplast";"Control Driver";"Stable";"Everyone";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Vass";"Kastaplast";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/5.0/-1.5/2.0";"12/5/-1.5/2";2;5.0;12.0;5.0;-1.5;2.0;12.0;5.0;-1.5;2.0;0.5;0
+"Rask";"Kastaplast";"Distance Driver";"Very Overstable";"Advanced";"14.0/3.0/0.0/4.0";"13.7/3.2/0/4.2";18;4.61;14.0;3.0;0.0;4.0;13.7;3.2;0.0;4.2;4.0;0
+"Krut";"Kastaplast";"Distance Driver";"Very Overstable";"Advanced";"12.0/4.0/0.0/4.0";"12/4.1/-0.2/3.5";4;3.13;12.0;4.0;0.0;4.0;12.0;4.1;-0.2;3.5;4.0;0
+"Guld";"Kastaplast";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-0.5/3.0";"12.9/5/-0.5/2.9";7;4.79;13.0;5.0;-0.5;3.0;12.9;5.0;-0.5;2.9;2.5;0
+"Grym X";"Kastaplast";"Distance Driver";"Stable";"Intermediate-Advanced";"12.5/5.0/0.0/3.0";"12.3/5/-0.4/2.6";15;3.93;12.5;5.0;0.0;3.0;12.3;5.0;-0.4;2.6;3.0;0
+"Grym";"Kastaplast";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-1.0/2.0";"12.9/4.9/-1.5/1.9";26;4.27;13.0;5.0;-1.0;2.0;12.9;4.9;-1.5;1.9;1.0;0
+"Omega SuperSoft";"Millennium";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/-1.0/1.0";"2/3/-0.9/1";8;4.75;2.0;3.0;-1.0;1.0;2.0;3.0;-0.9;1.0;0.0;0
+"Omega Driver";"Millennium";"Putt & Approach";"Overstable";"Everyone";"3.0/2.0/0.0/2.0";"3/2/0/1.9";4;4.5;3.0;2.0;0.0;2.0;3.0;2.0;0.0;1.9;2.0;0
+"Omega Big Bead";"Millennium";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/-0.2/1";2;5.0;2.0;3.0;0.0;1.0;2.0;3.0;-0.2;1.0;1.0;0
+"Omega AP Big Bead";"Millennium";"Putt & Approach";"Understable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/1";0;0.0;2.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0
+"Omega AP";"Millennium";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2.1/3/0/0.1";4;4.25;2.0;3.0;0.0;0.0;2.1;3.0;0.0;0.1;0.0;0
+"Omega 4";"Millennium";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2.3/3/0/1";10;4.75;2.0;3.0;0.0;1.0;2.3;3.0;0.0;1.0;1.0;0
+"Omega";"Millennium";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/0.0";"2/3/-0.4/0.4";12;4.67;2.0;3.0;0.0;0.0;2.0;3.0;-0.4;0.4;0.0;0
+"Taurus";"Millennium";"Mid Range";"Very Overstable";"Everyone";"4.0/4.0/0.0/4.0";"4/4/-0.1/3.8";6;4.67;4.0;4.0;0.0;4.0;4.0;4.0;-0.1;3.8;4.0;0
+"Solstice";"Millennium";"Mid Range";"Very Overstable";"Advanced";"5.0/4.0/0.0/3.0";"5/4/-0.2/2.7";10;4.2;5.0;4.0;0.0;3.0;5.0;4.0;-0.2;2.7;3.0;0
+"Sentinel MF";"Millennium";"Mid Range";"Very Overstable";"Everyone";"5.0/4.0/0.0/4.0";"5/4.1/0/4";14;4.86;5.0;4.0;0.0;4.0;5.0;4.1;0.0;4.0;4.0;0
+"Aurora MS";"Millennium";"Mid Range";"Stable";"Everyone";"4.0/5.0/0.0/0.0";"4.1/5/-0.4/0.4";18;4.72;4.0;5.0;0.0;0.0;4.1;5.0;-0.4;0.4;0.0;0
+"Vela";"Millennium";"Control Driver";"Stable";"Intermediate-Advanced";"7.0/4.0/-0.5/3.0";"7/4.2/-0.7/2.7";6;4.83;7.0;4.0;-0.5;3.0;7.0;4.2;-0.7;2.7;2.5;0
+"Polaris LS";"Millennium";"Control Driver";"Understable";"Beginner-Intermediate";"6.0/4.0/-1.0/1.0";"6.7/4.5/-1.5/1.1";17;4.18;6.0;4.0;-1.0;1.0;6.7;4.5;-1.5;1.1;0.0;0
+"Orion LS";"Millennium";"Control Driver";"Stable";"Intermediate";"9.0/4.0/-1.0/1.0";"9.1/4.5/-1.5/1.5";27;4.74;9.0;4.0;-1.0;1.0;9.1;4.5;-1.5;1.5;0.0;0
+"Orion LF";"Millennium";"Control Driver";"Very Overstable";"Intermediate";"9.0/5.0/-1.0/2.0";"9/5/-1/2.4";18;4.89;9.0;5.0;-1.0;2.0;9.0;5.0;-1.0;2.4;1.0;0
+"JLS";"Millennium";"Control Driver";"Stable";"Intermediate";"7.0/5.0/-1.0/1.0";"7.4/5/-1.3/1.4";34;4.71;7.0;5.0;-1.0;1.0;7.4;5.0;-1.3;1.4;0.0;0
+"EXP1";"Millennium";"Control Driver";"Overstable";"Intermediate-Advanced";"7.0/3.0/0.0/4.0";"7/2.9/0/4";2;4.75;7.0;3.0;0.0;4.0;7.0;2.9;0.0;4.0;4.0;0
+"EXP-X";"Millennium";"Control Driver";"Very Overstable";"Intermediate-Advanced";"7.0/3.0/1.0/4.0";"6.9/3/0.7/3.9";7;4.5;7.0;3.0;1.0;4.0;6.9;3.0;0.7;3.9;5.0;0
+"Draco";"Millennium";"Control Driver";"Very Overstable";"Advanced";"9.0/3.0/0.0/4.0";"9/3.1/0/4";13;4.77;9.0;3.0;0.0;4.0;9.0;3.1;0.0;4.0;4.0;0
+"Aquarius";"Millennium";"Control Driver";"Understable";"Beginner";"8.0/5.0/-3.0/2.0";"9/5/-3.3/1.9";12;4.58;8.0;5.0;-3.0;2.0;9.0;5.0;-3.3;1.9;-1.0;0
+"Scorpius";"Millennium";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12.4/4.8/-1/2.8";34;4.6;12.0;5.0;-1.0;3.0;12.4;4.8;-1.0;2.8;2.0;0
+"Quasar";"Millennium";"Distance Driver";"Very Overstable";"Advanced";"13.0/5.0/0.0/3.0";"12.8/5/-0.5/3.4";17;4.74;13.0;5.0;0.0;3.0;12.8;5.0;-0.5;3.4;3.0;0
+"Falcon";"Millennium";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/-2.0/2.0";"13/5/-1.8/2.1";14;4.29;13.0;5.0;-2.0;2.0;13.0;5.0;-1.8;2.1;0.0;0
+"ES1";"Millennium";"Distance Driver";"Stable";"Intermediate-Advanced";"11.0/5.0/-2.0/2.0";"11/4.9/-1.9/2";1;3.5;11.0;5.0;-2.0;2.0;11.0;4.9;-1.9;2.0;0.0;0
+"Astra-X";"Millennium";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/0.0/4.0";"11/4.8/0.1/3.9";3;4.33;11.0;5.0;0.0;4.0;11.0;4.8;0.1;3.9;4.0;0
+"Astra";"Millennium";"Distance Driver";"Understable";"Beginner-Intermediate";"11.0/5.0/-1.0/2.0";"10.9/5.1/-1.5/1.9";15;4.47;11.0;5.0;-1.0;2.0;10.9;5.1;-1.5;1.9;1.0;0
+"Aries";"Millennium";"Distance Driver";"Understable";"Beginner-Intermediate";"11.0/6.0/-4.0/2.0";"11/6/-3.3/1.5";15;4.53;11.0;6.0;-4.0;2.0;11.0;6.0;-3.3;1.5;-2.0;0
+"Yellow Rose";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2/4/0/1";0;0.0;2.0;4.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0
+"Super Dillo";"Lone Star Disc";"Putt & Approach";"Understable";"Everyone";"1.0/4.0/-3.0/1.0";"1/4/-3/0.9";5;4.6;1.0;4.0;-3.0;1.0;1.0;4.0;-3.0;0.9;-2.0;0
+"Penny Putter";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/2.0";"3/3.5/-0.4/1.5";37;4.59;3.0;4.0;0.0;2.0;3.0;3.5;-0.4;1.5;2.0;0
+"Jackrabbit";"Lone Star Disc";"Putt & Approach";"Very Overstable";"Everyone";"3.0/3.0/0.0/3.0";"2.9/2.8/0/2.9";10;4.5;3.0;3.0;0.0;3.0;2.9;2.8;0.0;2.9;3.0;0
+"Horny Toad";"Lone Star Disc";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"4/3/0/3";4;4.5;4.0;3.0;0.0;3.0;4.0;3.0;0.0;3.0;3.0;0
+"Copperhead";"Lone Star Disc";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/4.0/0.0/2.0";"3/3.9/0/1.9";11;4.73;3.0;4.0;0.0;2.0;3.0;3.9;0.0;1.9;2.0;0
+"Bull Snake";"Lone Star Disc";"Putt & Approach";"Stable";"Intermediate-Advanced";"3.0/2.0/0.0/4.0";"3/2.1/0/3.6";7;2.93;3.0;2.0;0.0;4.0;3.0;2.1;0.0;3.6;4.0;0
+"Bluebonnet";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3.1/0/1.1";4;5.0;2.0;3.0;0.0;1.0;2.0;3.1;0.0;1.1;1.0;0
+"Benny";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/2.0";"3/4/0/1.9";4;4.25;3.0;4.0;0.0;2.0;3.0;4.0;0.0;1.9;2.0;0
+"Artemis";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"4.0/4.0/0.0/2.0";"4/4/0/2";1;5.0;4.0;4.0;0.0;2.0;4.0;4.0;0.0;2.0;2.0;0
+"Armadillo";"Lone Star Disc";"Putt & Approach";"Stable";"Everyone";"1.0/2.0/0.0/1.0";"1/2.1/-0.1/1";35;4.73;1.0;2.0;0.0;1.0;1.0;2.1;-0.1;1.0;1.0;0
+"Walker";"Lone Star Disc";"Mid Range";"Overstable";"";"5.0/3.0/0.0/4.0";"5/3.1/0/3.9";10;4.25;5.0;3.0;0.0;4.0;5.0;3.1;0.0;3.9;4.0;0
+"Texas Ranger";"Lone Star Disc";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/1.0";"5/5/-0.9/1.2";20;4.43;5.0;5.0;-1.0;1.0;5.0;5.0;-0.9;1.2;0.0;0
+"Middy";"Lone Star Disc";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/3.0";"5/4.9/0/2.8";14;4.68;5.0;5.0;0.0;3.0;5.0;4.9;0.0;2.8;3.0;0
+"Lone Wolf";"Lone Star Disc";"Mid Range";"Understable";"Beginner";"5.0/5.0/-3.0/1.0";"4.9/4.8/-3.5/0.8";6;3.17;5.0;5.0;-3.0;1.0;4.9;4.8;-3.5;0.8;-2.0;0
+"Harpoon";"Lone Star Disc";"Mid Range";"Stable";"Everyone";"4.0/3.0/0.0/2.0";"4/3.1/-0.1/2.1";19;4.26;4.0;3.0;0.0;2.0;4.0;3.1;-0.1;2.1;2.0;0
+"BearKat";"Lone Star Disc";"Mid Range";"Understable";"Everyone";"5.0/5.0/-2.0/1.0";"5/5/-2/1";2;4.25;5.0;5.0;-2.0;1.0;5.0;5.0;-2.0;1.0;-1.0;0
+"BB6";"Lone Star Disc";"Mid Range";"Understable";"Everyone";"4.0/5.0/-2.0/1.0";"4.4/5/-2.1/1";15;4.7;4.0;5.0;-2.0;1.0;4.4;5.0;-2.1;1.0;-1.0;0
+"Wrangler";"Lone Star Disc";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/-1.0/2.0";"9/5/-1/2";1;4.0;9.0;5.0;-1.0;2.0;9.0;5.0;-1.0;2.0;1.0;0
+"The Dome";"Lone Star Disc";"Control Driver";"Understable";"Beginner";"8.0/6.0/-3.0/1.0";"7.9/5.9/-3.2/0.9";11;3.95;8.0;6.0;-3.0;1.0;7.9;5.9;-3.2;0.9;-2.0;0
+"Spur";"Lone Star Disc";"Control Driver";"Stable";"";"9.0/4.0/0.0/3.0";"9/4/0/3";1;3.0;9.0;4.0;0.0;3.0;9.0;4.0;0.0;3.0;3.0;0
+"Mockingbird";"Lone Star Disc";"Control Driver";"Understable";"Everyone";"7.0/5.0/-2.0/1.0";"7/5.2/-1.9/1";32;4.81;7.0;5.0;-2.0;1.0;7.0;5.2;-1.9;1.0;-1.0;0
+"Mad Cat";"Lone Star Disc";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/0.0/2.0";"9/4.8/-0.1/2.3";22;4.61;9.0;5.0;0.0;2.0;9.0;4.8;-0.1;2.3;2.0;0
+"Lariat";"Lone Star Disc";"Control Driver";"Stable";"Everyone";"9.0/5.0/-1.0/1.0";"9/4.9/-1/1.1";15;4.73;9.0;5.0;-1.0;1.0;9.0;4.9;-1.0;1.1;0.0;0
+"Guadalupe";"Lone Star Disc";"Control Driver";"Stable";"Everyone";"7.0/6.0/-2.0/2.0";"7/5.9/-2/2";16;4.81;7.0;6.0;-2.0;2.0;7.0;5.9;-2.0;2.0;0.0;0
+"Frio";"Lone Star Disc";"Control Driver";"Stable";"Everyone";"7.0/5.0/-1.0/1.0";"7.1/5/-0.9/1.1";7;4.29;7.0;5.0;-1.0;1.0;7.1;5.0;-0.9;1.1;0.0;0
+"Dos X";"Lone Star Disc";"Control Driver";"Stable";"Beginner";"8.0/4.0/-1.0/2.0";"8/4.1/-0.8/2";8;4.0;8.0;4.0;-1.0;2.0;8.0;4.1;-0.8;2.0;1.0;0
+"Chupacabra";"Lone Star Disc";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"9/2.9/0.3/4.1";13;4.15;9.0;3.0;0.0;4.0;9.0;2.9;0.3;4.1;4.0;0
+"Brazos";"Lone Star Disc";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7/4.8/-0.1/2.1";6;4.33;7.0;5.0;0.0;2.0;7.0;4.8;-0.1;2.1;2.0;0
+"Warbird";"Lone Star Disc";"Distance Driver";"Overstable";"";"12.0/6.0/-1.0/3.0";"12/5.9/-0.8/3";20;4.58;12.0;6.0;-1.0;3.0;12.0;5.9;-0.8;3.0;2.0;0
+"Tumbleweed";"Lone Star Disc";"Distance Driver";"Understable";"Beginner";"10.0/6.0/-3.0/1.0";"10/6/-3.5/1";17;4.59;10.0;6.0;-3.0;1.0;10.0;6.0;-3.5;1.0;-2.0;0
+"Tombstone";"Lone Star Disc";"Distance Driver";"Very Overstable";"Advanced";"13.0/4.0/0.0/4.0";"12.9/3.6/0/4.1";5;3.9;13.0;4.0;0.0;4.0;12.9;3.6;0.0;4.1;4.0;0
+"Seguin";"Lone Star Disc";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/0.0/2.0";"13.1/4.8/0/2.3";4;4.0;13.0;5.0;0.0;2.0;13.1;4.8;0.0;2.3;2.0;0
+"Nimitz";"Lone Star Disc";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-1.0/3.0";"11.1/4.9/-1/2.9";12;4.21;11.0;5.0;-1.0;3.0;11.1;4.9;-1.0;2.9;2.0;0
+"Harrier";"Lone Star Disc";"Distance Driver";"Understable";"Everyone";"12.0/6.0/-3.0/2.0";"12/5.9/-3.1/1.7";6;4.5;12.0;6.0;-3.0;2.0;12.0;5.9;-3.1;1.7;-1.0;0
+"Growler";"Lone Star Disc";"Distance Driver";"Understable";"Intermediate-Advanced";"12.0/6.0/-3.0/2.0";"12.1/6/-3/2";4;5.0;12.0;6.0;-3.0;2.0;12.1;6.0;-3.0;2.0;-1.0;0
+"Curl";"Lone Star Disc";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-1.0/2.0";"11/5.6/-1.4/2.2";41;4.66;11.0;5.0;-1.0;2.0;11.0;5.6;-1.4;2.2;1.0;0
+"Crockett";"Lone Star Disc";"Distance Driver";"Overstable";"Advanced";"13.0/4.0/-1.0/3.0";"13/4/-0.8/3";2;5.0;13.0;4.0;-1.0;3.0;13.0;4.0;-0.8;3.0;2.0;0
+"Bowie";"Lone Star Disc";"Distance Driver";"Overstable";"Advanced";"13.0/5.0/-1.0/3.0";"13/4.7/-0.5/3.4";12;4.13;13.0;5.0;-1.0;3.0;13.0;4.7;-0.5;3.4;2.0;0
+"Bayonet";"Lone Star Disc";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-2.0/2.0";"13/5/-1.4/2.3";14;4.39;13.0;5.0;-2.0;2.0;13.0;5.0;-1.4;2.3;0.0;0
+"Watt";"MVP";"Putt & Approach";"Stable";"";"2.0/5.0/-0.5/0.5";"2/5/-0.5/0.5";9;4.61;2.0;5.0;-0.5;0.5;2.0;5.0;-0.5;0.5;0.0;0
+"Spin";"MVP";"Putt & Approach";"Understable";"Everyone";"2.5/4.0/-2.5/0.0";"2.8/4/-1.9/0";31;4.39;2.5;4.0;-2.5;0.0;2.8;4.0;-1.9;0.0;-2.5;0
+"Particle";"MVP";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/2.5";"3/3/-0.1/2.2";22;4.41;3.0;3.0;0.0;2.5;3.0;3.0;-0.1;2.2;2.5;0
+"Ohm";"MVP";"Putt & Approach";"Stable";"Everyone";"2.0/5.0/0.0/1.0";"2.1/5/-0.1/0.9";25;4.76;2.0;5.0;0.0;1.0;2.1;5.0;-0.1;0.9;1.0;0
+"Nomad";"MVP";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.5";"2.1/3.9/0/1.2";27;4.91;2.0;4.0;0.0;1.5;2.1;3.9;0.0;1.2;1.5;0
+"Ion";"MVP";"Putt & Approach";"Stable";"Everyone";"2.5/3.0/0.0/1.5";"2.9/3.5/0/1.2";105;4.63;2.5;3.0;0.0;1.5;2.9;3.5;0.0;1.2;1.5;0
+"Glitch";"MVP";"Putt & Approach";"Stable";"Beginner";"1.0/7.0/0.0/0.0";"1/7/0/0";43;4.86;1.0;7.0;0.0;0.0;1.0;7.0;0.0;0.0;0.0;0
+"Entropy";"MVP";"Putt & Approach";"Very Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"3.9/3/0/3";44;4.61;4.0;3.0;0.0;3.0;3.9;3.0;0.0;3.0;3.0;0
+"Atom";"MVP";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"2.7/3.1/-0.2/0.8";85;4.66;3.0;3.0;0.0;1.0;2.7;3.1;-0.2;0.8;1.0;0
+"Anode";"MVP";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/0.5";"2.9/3/0/0.4";107;4.64;3.0;3.0;0.0;0.5;2.9;3.0;0.0;0.4;0.5;0
+"Vector";"MVP";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/2.0";"5/3.9/0/2.2";54;4.35;5.0;4.0;0.0;2.0;5.0;3.9;0.0;2.2;2.0;0
+"Uplink";"MVP";"Mid Range";"Stable";"Beginner";"5.0/5.0/-3.0/0.5";"5/5/-3/0.5";23;4.87;5.0;5.0;-3.0;0.5;5.0;5.0;-3.0;0.5;-2.5;0
+"Tangent";"MVP";"Mid Range";"Understable";"Beginner";"4.0/4.0/-0.5/0.5";"4.5/4.1/-0.9/1";63;4.75;4.0;4.0;-0.5;0.5;4.5;4.1;-0.9;1.0;0.0;0
+"Reactor";"MVP";"Mid Range";"Stable";"Everyone";"5.0/5.0/-0.5/1.5";"5.1/5/-0.4/1.5";47;4.85;5.0;5.0;-0.5;1.5;5.1;5.0;-0.4;1.5;1.0;0
+"Matrix";"MVP";"Mid Range";"Overstable";"Everyone";"5.0/4.0/-1.0/2.0";"5/4.1/-0.6/2";54;4.56;5.0;4.0;-1.0;2.0;5.0;4.1;-0.6;2.0;1.0;0
+"Detour";"MVP";"Mid Range";"Stable";"Everyone";"5.0/5.0/-2.0/1.0";"5/5/-2.1/1";4;4.38;5.0;5.0;-2.0;1.0;5.0;5.0;-2.1;1.0;-1.0;0
+"Deflector";"MVP";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/3.5/0.0/4.0";"5/3.5/0.1/4.1";61;4.75;5.0;3.5;0.0;4.0;5.0;3.5;0.1;4.1;4.0;0
+"Axis";"MVP";"Mid Range";"Stable";"Beginner-Intermediate";"5.0/5.0/-1.0/1.0";"5/4.9/-0.9/1";59;4.61;5.0;5.0;-1.0;1.0;5.0;4.9;-0.9;1.0;0.0;0
+"Volt";"MVP";"Control Driver";"Stable";"Intermediate";"8.0/5.0/-0.5/2.0";"8.1/4.9/-0.6/2.1";136;4.61;8.0;5.0;-0.5;2.0;8.1;4.9;-0.6;2.1;1.5;0
+"Terra";"MVP";"Control Driver";"Overstable";"Intermediate-Advanced";"8.0/5.0/0.0/3.0";"8/4.9/0/3";14;4.93;8.0;5.0;0.0;3.0;8.0;4.9;0.0;3.0;3.0;0
+"Switch";"MVP";"Control Driver";"Understable";"Everyone";"6.5/5.0/-1.5/1.0";"6.5/5/-1.5/1.1";20;4.2;6.5;5.0;-1.5;1.0;6.5;5.0;-1.5;1.1;-0.5;0
+"Signal";"MVP";"Control Driver";"Understable";"Beginner";"6.0/5.0/-3.0/1.0";"6/5/-3.1/1";18;4.44;6.0;5.0;-3.0;1.0;6.0;5.0;-3.1;1.0;-2.0;0
+"Shock";"MVP";"Control Driver";"Overstable";"Intermediate-Advanced";"8.0/5.0/0.0/2.5";"8/5/-0.1/2.5";35;4.34;8.0;5.0;0.0;2.5;8.0;5.0;-0.1;2.5;2.5;0
+"Servo";"MVP";"Control Driver";"Stable";"Beginner-Intermediate";"6.5/5.0/-1.0/2.0";"6.5/4.9/-0.9/2";37;4.45;6.5;5.0;-1.0;2.0;6.5;4.9;-0.9;2.0;1.0;0
+"Resistor";"MVP";"Control Driver";"Very Overstable";"Intermediate-Advanced";"6.5/4.0/0.0/3.5";"6.6/3.9/-0.1/3.3";58;4.76;6.5;4.0;0.0;3.5;6.6;3.9;-0.1;3.3;3.5;0
+"Relay";"MVP";"Control Driver";"Understable";"Beginner";"6.0/5.0/-2.0/1.0";"6.1/4.9/-2.1/1.1";46;4.52;6.0;5.0;-2.0;1.0;6.1;4.9;-2.1;1.1;-1.0;0
+"Cypher";"MVP";"Control Driver";"Stable";"";"7.0/3.0/-1.0/2.0";"7/3/-1/2";0;0.0;7.0;3.0;-1.0;2.0;0.0;0.0;0.0;0.0;1.0;0
+"Amp";"MVP";"Control Driver";"Understable";"Beginner-Intermediate";"8.0/5.0/-1.5/1.0";"8/5/-1.3/1.2";54;4.4;8.0;5.0;-1.5;1.0;8.0;5.0;-1.3;1.2;-0.5;0
+"Zenith";"MVP";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-0.5/2.0";"11/4.9/-0.6/2";7;4.57;11.0;5.0;-0.5;2.0;11.0;4.9;-0.6;2.0;1.5;0
+"Wave";"MVP";"Distance Driver";"Stable";"Intermediate";"11.0/5.0/-2.0/2.0";"11.2/5.1/-1.9/1.9";93;4.39;11.0;5.0;-2.0;2.0;11.2;5.1;-1.9;1.9;0.0;0
+"Trail";"MVP";"Distance Driver";"Overstable";"Intermediate-Advanced";"10.0/5.0/-1.0/2.0";"10/5/-1/2";0;0.0;10.0;5.0;-1.0;2.0;0.0;0.0;0.0;0.0;1.0;0
+"Tesla";"MVP";"Distance Driver";"Stable";"Intermediate";"9.0/5.0/-1.5/2.0";"9.8/4.7/-0.7/2.3";86;4.53;9.0;5.0;-1.5;2.0;9.8;4.7;-0.7;2.3;0.5;0
+"Teleport";"MVP";"Distance Driver";"Overstable";"Intermediate-Advanced";"14.5/5.0/-1.5/2.5";"14.1/5/-1.2/2.3";31;4.39;14.5;5.0;-1.5;2.5;14.1;5.0;-1.2;2.3;1.0;0
+"Relativity";"MVP";"Distance Driver";"Understable";"Intermediate-Advanced";"14.5/5.5/-3.0/1.5";"14.1/5.2/-2.6/1.6";24;4.54;14.5;5.5;-3.0;1.5;14.1;5.2;-2.6;1.6;-1.5;0
+"Photon";"MVP";"Distance Driver";"Overstable";"Advanced";"11.0/5.0/-1.0/2.5";"11.3/4.9/-0.9/2.7";91;4.47;11.0;5.0;-1.0;2.5;11.3;4.9;-0.9;2.7;1.5;0
+"Phase";"MVP";"Distance Driver";"Very Overstable";"Advanced";"11.0/3.5/0.0/4.0";"11.2/3.4/0.1/4.1";20;4.0;11.0;3.5;0.0;4.0;11.2;3.4;0.1;4.1;4.0;0
+"Orbital";"MVP";"Distance Driver";"Very Understable";"Beginner-Intermediate";"11.0/5.0/-4.5/1.0";"11.4/5/-4.4/0.9";25;4.44;11.0;5.0;-4.5;1.0;11.4;5.0;-4.4;0.9;-3.5;0
+"Octane";"MVP";"Distance Driver";"Stable";"Intermediate";"13.0/5.0/-1.0/2.0";"13/4.9/-1/2.1";52;4.65;13.0;5.0;-1.0;2.0;13.0;4.9;-1.0;2.1;1.0;0
+"Nitro";"MVP";"Distance Driver";"Overstable";"Intermediate";"13.0/4.0/-0.5/3.0";"13/4.4/-0.3/2.6";12;4.33;13.0;4.0;-0.5;3.0;13.0;4.4;-0.3;2.6;2.5;0
+"Motion";"MVP";"Distance Driver";"Very Overstable";"Advanced";"9.0/3.5/0.0/4.0";"9.7/3.8/0/4";38;4.72;9.0;3.5;0.0;4.0;9.7;3.8;0.0;4.0;4.0;0
+"Limit";"MVP";"Distance Driver";"Very Overstable";"Advanced";"14.5/3.5/0.0/4.0";"14.3/3.7/0.3/4.3";13;4.23;14.5;3.5;0.0;4.0;14.3;3.7;0.3;4.3;4.0;0
+"Inertia";"MVP";"Distance Driver";"Understable";"Intermediate";"9.0/5.0/-2.0/2.0";"10.2/4.9/-1.9/2";88;4.55;9.0;5.0;-2.0;2.0;10.2;4.9;-1.9;2.0;0.0;0
+"Impulse";"MVP";"Distance Driver";"Understable";"Beginner-Intermediate";"9.0/5.0/-3.0/1.0";"9.9/4.9/-2.9/1.1";19;4.11;9.0;5.0;-3.0;1.0;9.9;4.9;-2.9;1.1;-2.0;0
+"Energy";"MVP";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"13.0/4.0/0.0/4.0";"13/4/0.2/3.9";16;4.25;13.0;4.0;0.0;4.0;13.0;4.0;0.2;3.9;4.0;0
+"Dimension";"MVP";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"14.5/5.0/0.0/3.0";"14.2/4.9/0/3.1";18;4.67;14.5;5.0;0.0;3.0;14.2;4.9;0.0;3.1;3.0;0
+"Catalyst";"MVP";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/5.5/-2.0/2.0";"13/5.4/-2/1.6";53;4.62;13.0;5.5;-2.0;2.0;13.0;5.4;-2.0;1.6;0.0;0
+"Beam";"MVP";"Distance Driver";"Very Overstable";"";"1.0/1.0/0.0/0.0";"1/1/0/0";0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"UFO";"Mint Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/1.0";"2/3/0/1";2;4.5;2.0;3.0;0.0;1.0;2.0;3.0;0.0;1.0;1.0;0
+"Salamander";"Mint Discs";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/2.0";"3/4/0/2";0;0.0;3.0;4.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Profit";"Mint Discs";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/2.0";"2.6/2.9/0/1.8";16;4.69;2.0;3.0;0.0;2.0;2.6;2.9;0.0;1.8;2.0;0
+"Lasso";"Mint Discs";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/2.0";"3.1/3/0/2";8;4.19;3.0;3.0;0.0;2.0;3.1;3.0;0.0;2.0;2.0;0
+"Bullet";"Mint Discs";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2.2/3.6/0/1";11;4.18;2.0;4.0;0.0;1.0;2.2;3.6;0.0;1.0;1.0;0
+"Taco";"Mint Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/2.0";"5/5/0/2.1";1;4.0;5.0;5.0;0.0;2.0;5.0;5.0;0.0;2.1;2.0;0
+"Mustang";"Mint Discs";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/2.0";"5/5/-0.2/1.7";17;4.85;5.0;5.0;0.0;2.0;5.0;5.0;-0.2;1.7;2.0;0
+"Lobster";"Mint Discs";"Mid Range";"Understable";"Everyone";"5.0/5.0/-3.0/1.0";"5/5.1/-2.9/1";12;4.75;5.0;5.0;-3.0;1.0;5.0;5.1;-2.9;1.0;-2.0;0
+"Bobcat";"Mint Discs";"Mid Range";"Overstable";"Beginner-Intermediate";"5.0/4.0/0.0/2.5";"5/4.3/0/2.6";26;4.69;5.0;4.0;0.0;2.5;5.0;4.3;0.0;2.6;2.5;0
+"Phoenix";"Mint Discs";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"9/3/0/4";3;4.33;9.0;3.0;0.0;4.0;9.0;3.0;0.0;4.0;4.0;0
+"Jackalope";"Mint Discs";"Control Driver";"Understable";"Everyone";"8.0/5.0/-2.0/1.0";"8.1/5.1/-2.1/1";9;4.67;8.0;5.0;-2.0;1.0;8.1;5.1;-2.1;1.0;-1.0;0
+"Grackle";"Mint Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/-1.0/2.0";"7.2/4.9/-0.9/2";9;4.72;7.0;5.0;-1.0;2.0;7.2;4.9;-0.9;2.0;1.0;0
+"Freetail";"Mint Discs";"Control Driver";"Understable";"Everyone";"10.0/5.0/-4.0/1.0";"10/5/-3.7/1";14;4.07;10.0;5.0;-4.0;1.0;10.0;5.0;-3.7;1.0;-3.0;0
+"Alpha";"Mint Discs";"Control Driver";"Stable";"Intermediate-Advanced";"8.0/4.0/0.0/2.0";"8.1/4.2/0/2";34;4.76;8.0;4.0;0.0;2.0;8.1;4.2;0.0;2.0;2.0;0
+"Longhorn";"Mint Discs";"Distance Driver";"Stable";"Intermediate-Advanced";"11.0/4.0/-1.0/2.5";"11/4.1/-1/2.7";11;4.64;11.0;4.0;-1.0;2.5;11.0;4.1;-1.0;2.7;1.5;0
+"Goat";"Mint Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/4.0/-1.0/3.0";"11.9/4/-0.8/3.1";7;4.0;12.0;4.0;-1.0;3.0;11.9;4.0;-0.8;3.1;2.0;0
+"Diamondback";"Mint Discs";"Distance Driver";"Stable";"";"9.0/5.0/-2.0/2.0";"9/4.9/-1.8/2";2;3.5;9.0;5.0;-2.0;2.0;9.0;4.9;-1.8;2.0;0.0;0
+"Px-3";"Prodigy";"Putt & Approach";"Overstable";"Intermediate-Advanced";"3.0/4.0/0.0/2.5";"3.1/4/0/2.4";7;4.57;3.0;4.0;0.0;2.5;3.1;4.0;0.0;2.4;2.5;0
+"PA-5";"Prodigy";"Putt & Approach";"Understable";"Everyone";"3.0/4.0/-2.0/0.5";"3/4.1/-2/0.4";16;4.97;3.0;4.0;-2.0;0.5;3.0;4.1;-2.0;0.4;-1.5;0
+"PA-4";"Prodigy";"Putt & Approach";"Understable";"Beginner";"3.0/3.0/-1.0/1.0";"2.9/3.1/-0.9/0.9";44;4.6;3.0;3.0;-1.0;1.0;2.9;3.1;-0.9;0.9;0.0;0
+"PA-3";"Prodigy";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3.8/0/1.1";84;4.74;3.0;3.0;0.0;1.0;3.0;3.8;0.0;1.1;1.0;1
+"PA-2";"Prodigy";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/1.0";"3/3/0/1.2";25;4.36;3.0;3.0;0.0;1.0;3.0;3.0;0.0;1.2;1.0;0
+"PA-1";"Prodigy";"Putt & Approach";"Overstable";"Advanced";"3.0/3.0/0.0/2.0";"3/3/0/2";44;4.66;3.0;3.0;0.0;2.0;3.0;3.0;0.0;2.0;2.0;0
+"P Model US";"Prodigy";"Putt & Approach";"Stable";"Everyone";"3.0/5.0/-1.0/1.0";"3/4.7/-0.8/1.1";17;4.38;3.0;5.0;-1.0;1.0;3.0;4.7;-0.8;1.1;0.0;0
+"P Model S";"Prodigy";"Putt & Approach";"Stable";"Everyone";"3.0/5.0/0.0/2.0";"2.9/4.8/0/1.9";35;4.63;3.0;5.0;0.0;2.0;2.9;4.8;0.0;1.9;2.0;0
+"P Model OS";"Prodigy";"Putt & Approach";"Very Overstable";"Everyone";"3.0/4.0/0.0/3.0";"3/4/-0.1/2.7";3;3.17;3.0;4.0;0.0;3.0;3.0;4.0;-0.1;2.7;3.0;0
+"Distortion";"Prodigy";"Putt & Approach";"Very Overstable";"Advanced";"4.0/3.0/0.0/3.0";"4/3.1/-0.1/2.9";7;4.79;4.0;3.0;0.0;3.0;4.0;3.1;-0.1;2.9;3.0;0
+"A5";"Prodigy";"Putt & Approach";"Stable";"";"4.0/3.0/0.0/2.0";"3.8/3.2/-0.2/2.1";9;4.94;4.0;3.0;0.0;2.0;3.8;3.2;-0.2;2.1;2.0;0
+"A4";"Prodigy";"Putt & Approach";"Stable";"Intermediate-Advanced";"4.0/4.0/-1.0/2.0";"4/3.9/-0.8/2";33;4.58;4.0;4.0;-1.0;2.0;4.0;3.9;-0.8;2.0;1.0;0
+"A3";"Prodigy";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4/3.7/0/3.1";43;4.56;4.0;4.0;0.0;3.0;4.0;3.7;0.0;3.1;3.0;0
+"A2";"Prodigy";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4/3.7/0/3.2";59;4.58;4.0;4.0;0.0;3.0;4.0;3.7;0.0;3.2;3.0;0
+"A1";"Prodigy";"Putt & Approach";"Very Overstable";"Advanced";"3.0/3.0/0.0/3.0";"3.2/2.8/0.1/3.3";19;4.68;3.0;3.0;0.0;3.0;3.2;2.8;0.1;3.3;3.0;0
+"Stryder";"Prodigy";"Mid Range";"Stable";"Everyone";"6.0/4.0/0.0/3.0";"5.9/4.3/-0.5/2.4";5;3.8;6.0;4.0;0.0;3.0;5.9;4.3;-0.5;2.4;3.0;0
+"MX-3";"Prodigy";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/2.0";"5/4.1/-0.2/1.8";23;4.17;5.0;4.0;0.0;2.0;5.0;4.1;-0.2;1.8;2.0;1
+"MX-1";"Prodigy";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/2.0/0.0/4.0";"5/2/0/4";2;5.0;5.0;2.0;0.0;4.0;5.0;2.0;0.0;4.0;4.0;0
+"M4";"Prodigy";"Mid Range";"Understable";"Everyone";"5.0/5.0/-1.0/1.0";"5/4.9/-1.1/1";69;4.8;5.0;5.0;-1.0;1.0;5.0;4.9;-1.1;1.0;0.0;1
+"M3";"Prodigy";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/2.0";"5/5/-0.9/2";39;4.49;5.0;5.0;-1.0;2.0;5.0;5.0;-0.9;2.0;1.0;0
+"M2";"Prodigy";"Mid Range";"Overstable";"Advanced";"5.0/4.0/0.0/2.0";"5/4/-0.1/2";44;4.45;5.0;4.0;0.0;2.0;5.0;4.0;-0.1;2.0;2.0;0
+"M1";"Prodigy";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/4/-0.1/2.7";37;4.36;5.0;4.0;0.0;3.0;5.0;4.0;-0.1;2.7;3.0;0
+"M Model US";"Prodigy";"Mid Range";"Stable";"Everyone";"4.0/5.0/-1.0/1.0";"4/5/-1.1/0.9";10;4.55;4.0;5.0;-1.0;1.0;4.0;5.0;-1.1;0.9;0.0;0
+"M Model S";"Prodigy";"Mid Range";"Stable";"";"6.0/4.0/0.0/3.0";"5.9/4.1/-0.1/2.7";10;4.1;6.0;4.0;0.0;3.0;5.9;4.1;-0.1;2.7;3.0;0
+"M Model OS";"Prodigy";"Mid Range";"Overstable";"Intermediate";"6.0/4.0/-1.0/3.0";"5.9/4.1/-1/2.6";9;4.56;6.0;4.0;-1.0;3.0;5.9;4.1;-1.0;2.6;2.0;0
+"Archive";"Prodigy";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/2.0";"5/5/0/2.1";4;4.63;5.0;5.0;0.0;2.0;5.0;5.0;0.0;2.1;2.0;0
+"Shadowfax";"Prodigy";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/5.0/-2.0/1.5";"9/5/-1.8/1.6";2;5.0;9.0;5.0;-2.0;1.5;9.0;5.0;-1.8;1.6;-0.5;0
+"H7";"Prodigy";"Control Driver";"Very Understable";"Beginner-Intermediate";"9.0/5.0/-4.0/1.0";"9/5.1/-3.9/0.9";3;4.33;9.0;5.0;-4.0;1.0;9.0;5.1;-3.9;0.9;-3.0;0
+"H5";"Prodigy";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/5.0/-3.0/1.0";"9/5/-2.8/1.1";20;3.88;9.0;5.0;-3.0;1.0;9.0;5.0;-2.8;1.1;-2.0;0
+"H4 V2";"Prodigy";"Control Driver";"Understable";"Everyone";"10.0/5.0/-2.0/1.5";"10.1/5/-2.2/1.6";26;4.38;10.0;5.0;-2.0;1.5;10.1;5.0;-2.2;1.6;-0.5;0
+"H3 V2";"Prodigy";"Control Driver";"Stable";"Intermediate";"11.0/5.0/-1.0/2.0";"10.5/4.9/-1/1.9";27;4.52;11.0;5.0;-1.0;2.0;10.5;4.9;-1.0;1.9;1.0;0
+"H2 V2";"Prodigy";"Control Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/0.0/2.5";"10.9/4.9/-0.2/2.4";12;4.08;11.0;5.0;0.0;2.5;10.9;4.9;-0.2;2.4;2.5;0
+"H1 V2";"Prodigy";"Control Driver";"Very Overstable";"Advanced";"11.0/4.0/0.0/3.0";"10.6/3.9/0/2.9";17;4.59;11.0;4.0;0.0;3.0;10.6;3.9;0.0;2.9;3.0;0
+"FX-4";"Prodigy";"Control Driver";"Understable";"Everyone";"9.0/5.0/-2.0/1.0";"9/5/-1.9/1.1";2;4.5;9.0;5.0;-2.0;1.0;9.0;5.0;-1.9;1.1;-1.0;0
+"FX-3";"Prodigy";"Control Driver";"Stable";"Everyone";"9.0/4.0/-1.5/2.0";"9/4.1/-1.4/1.9";8;4.94;9.0;4.0;-1.5;2.0;9.0;4.1;-1.4;1.9;0.5;0
+"FX-2";"Prodigy";"Control Driver";"Stable";"Intermediate-Advanced";"9.0/4.0/-0.5/3.0";"9.1/4/-0.4/3.1";29;4.12;9.0;4.0;-0.5;3.0;9.1;4.0;-0.4;3.1;2.5;0
+"Feedback";"Prodigy";"Control Driver";"Overstable";"Intermediate-Advanced";"9.0/5.0/-1.0/3.0";"9.1/5.1/-0.9/2.9";7;4.5;9.0;5.0;-1.0;3.0;9.1;5.1;-0.9;2.9;2.0;0
+"F9";"Prodigy";"Control Driver";"Very Understable";"Everyone";"8.0/6.0/-4.0/0.5";"7.9/6/-3.6/0.5";7;4.79;8.0;6.0;-4.0;0.5;7.9;6.0;-3.6;0.5;-3.5;0
+"F7";"Prodigy";"Control Driver";"Very Understable";"Beginner-Intermediate";"7.0/5.0/-3.0/1.0";"7/5/-3/0.9";37;4.19;7.0;5.0;-3.0;1.0;7.0;5.0;-3.0;0.9;-2.0;0
+"F5";"Prodigy";"Control Driver";"Understable";"Intermediate";"7.0/5.0/-2.0/1.0";"7/5/-1.9/1.1";59;4.36;7.0;5.0;-2.0;1.0;7.0;5.0;-1.9;1.1;-1.0;0
+"F3";"Prodigy";"Control Driver";"Stable";"Intermediate";"7.0/5.0/-1.0/2.0";"7.1/5/-1/1.9";36;4.54;7.0;5.0;-1.0;2.0;7.1;5.0;-1.0;1.9;1.0;0
+"F2";"Prodigy";"Control Driver";"Stable";"Intermediate-Advanced";"7.0/5.0/-1.0/3.0";"7.1/4.9/-1.1/2.8";22;4.5;7.0;5.0;-1.0;3.0;7.1;4.9;-1.1;2.8;2.0;0
+"F1";"Prodigy";"Control Driver";"Very Overstable";"Advanced";"7.0/4.0/0.0/3.0";"7/4.1/-0.1/2.8";23;4.3;7.0;4.0;0.0;3.0;7.0;4.1;-0.1;2.8;3.0;0
+"F Model US";"Prodigy";"Control Driver";"Stable";"Intermediate";"10.0/5.0/-2.0/1.0";"10/4.8/-1.3/1.7";15;2.4;10.0;5.0;-2.0;1.0;10.0;4.8;-1.3;1.7;-1.0;0
+"F Model S";"Prodigy";"Control Driver";"Stable";"Intermediate";"10.0/5.0/1.0/3.0";"10/4.9/0.3/2.9";15;4.4;10.0;5.0;1.0;3.0;10.0;4.9;0.3;2.9;4.0;0
+"F Model OS";"Prodigy";"Control Driver";"Overstable";"Intermediate-Advanced";"10.0/5.0/2.0/4.0";"10/5/1.4/3.7";9;3.22;10.0;5.0;2.0;4.0;10.0;5.0;1.4;3.7;6.0;0
+"X5";"Prodigy";"Distance Driver";"Understable";"Everyone";"13.0/5.0/-4.0/1.0";"13/5/-3.8/1.2";8;4.38;13.0;5.0;-4.0;1.0;13.0;5.0;-3.8;1.2;-3.0;0
+"X4";"Prodigy";"Distance Driver";"Understable";"Everyone";"13.0/5.0/-2.5/2.0";"12.7/5/-2.3/2";12;4.5;13.0;5.0;-2.5;2.0;12.7;5.0;-2.3;2.0;-0.5;0
+"X3";"Prodigy";"Distance Driver";"Stable";"Advanced";"12.0/5.0/-1.0/2.0";"11.8/4.9/-1/2.1";26;4.42;12.0;5.0;-1.0;2.0;11.8;4.9;-1.0;2.1;1.0;0
+"X2";"Prodigy";"Distance Driver";"Overstable";"Advanced";"13.0/4.5/0.0/4.0";"12.8/4.4/-0.1/3.8";18;4.67;13.0;4.5;0.0;4.0;12.8;4.4;-0.1;3.8;4.0;0
+"Reverb";"Prodigy";"Distance Driver";"Very Overstable";"";"13.0/5.0/0.0/3.5";"13/5/0/3.5";2;4.5;13.0;5.0;0.0;3.5;13.0;5.0;0.0;3.5;3.5;0
+"Falcor";"Prodigy";"Distance Driver";"Very Overstable";"";"13.0/6.0/-1.0/2.5";"12.6/5.9/-0.9/2.6";7;4.71;13.0;6.0;-1.0;2.5;12.6;5.9;-0.9;2.6;1.5;0
+"D6";"Prodigy";"Distance Driver";"Very Understable";"Beginner-Intermediate";"13.0/6.0/-4.0/1.0";"12.6/6/-4/1";15;4.0;13.0;6.0;-4.0;1.0;12.6;6.0;-4.0;1.0;-3.0;0
+"D4 Max";"Prodigy";"Distance Driver";"Understable";"Everyone";"12.0/6.0/-4.0/1.0";"12/6/-3.9/1";1;4.0;12.0;6.0;-4.0;1.0;12.0;6.0;-3.9;1.0;-3.0;0
+"D4";"Prodigy";"Distance Driver";"Understable";"Intermediate-Advanced";"13.0/6.0/-3.0/2.0";"12.4/5.9/-2.9/2";55;4.44;13.0;6.0;-3.0;2.0;12.4;5.9;-2.9;2.0;-1.0;0
+"D3 Max";"Prodigy";"Distance Driver";"Understable";"Everyone";"13.0/5.0/-2.0/2.0";"12.3/5.5/-2.1/1.8";23;4.26;13.0;5.0;-2.0;2.0;12.3;5.5;-2.1;1.8;0.0;0
+"D3";"Prodigy";"Distance Driver";"Overstable";"Advanced";"12.0/6.0/-2.0/2.0";"12.4/5.9/-2/2.1";65;4.49;12.0;6.0;-2.0;2.0;12.4;5.9;-2.0;2.1;0.0;0
+"D2 Pro";"Prodigy";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/4.9/-1/3";3;4.5;12.0;5.0;-1.0;3.0;12.0;4.9;-1.0;3.0;2.0;0
+"D2 Max";"Prodigy";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/6.0/-1.0/2.5";"11.9/5.8/-1.1/2.7";21;4.79;12.0;6.0;-1.0;2.5;11.9;5.8;-1.1;2.7;1.5;0
+"D2";"Prodigy";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/6.0/-0.5/3.0";"12.1/5.9/-0.9/2.9";76;4.66;12.0;6.0;-0.5;3.0;12.1;5.9;-0.9;2.9;2.5;0
+"D1 Max";"Prodigy";"Distance Driver";"Very Overstable";"Intermediate-Advanced";"12.0/5.0/0.0/3.0";"12/5/-0.2/2.9";12;4.67;12.0;5.0;0.0;3.0;12.0;5.0;-0.2;2.9;3.0;0
+"D1";"Prodigy";"Distance Driver";"Overstable";"Advanced";"12.0/5.0/0.0/4.0";"12.3/5.1/-0.2/3";79;4.49;12.0;5.0;0.0;4.0;12.3;5.1;-0.2;3.0;4.0;0
+"D Model US";"Prodigy";"Distance Driver";"Understable";"Everyone";"12.0/6.0/-3.0/1.0";"12.4/6/-2.5/1.3";14;3.0;12.0;6.0;-3.0;1.0;12.4;6.0;-2.5;1.3;-2.0;0
+"D Model S";"Prodigy";"Distance Driver";"Stable";"Intermediate";"13.0/6.0/0.0/2.0";"12.9/5.9/-0.2/2.1";21;4.74;13.0;6.0;0.0;2.0;12.9;5.9;-0.2;2.1;2.0;0
+"D Model OS";"Prodigy";"Distance Driver";"Very Overstable";"Advanced";"13.0/5.0/0.0/4.0";"12.9/5/-0.1/3.7";10;4.85;13.0;5.0;0.0;4.0;12.9;5.0;-0.1;3.7;4.0;0
+"Stabilizer";"Streamline";"Putt & Approach";"Overstable";"Everyone";"3.0/3.5/0.0/3.0";"3/3.8/0/2.9";29;4.53;3.0;3.5;0.0;3.0;3.0;3.8;0.0;2.9;3.0;0
+"Pilot";"Streamline";"Putt & Approach";"Stable";"Everyone";"2.0/5.0/0.0/1.0";"2.1/4.9/-0.6/1";93;4.82;2.0;5.0;0.0;1.0;2.1;4.9;-0.6;1.0;1.0;0
+"Parachute";"Streamline";"Putt & Approach";"Very Overstable";"Everyone";"1.0/7.0/0.0/0.0";"1/7/0/0";0;0.0;1.0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Runway";"Streamline";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.5";"5/3.9/0/3.4";34;4.79;5.0;4.0;0.0;3.5;5.0;3.9;0.0;3.4;3.5;0
+"Echo";"Streamline";"Mid Range";"Understable";"";"5.0/5.0/-1.5/1.0";"5/4.9/-1.5/1";5;5.0;5.0;5.0;-1.5;1.0;5.0;4.9;-1.5;1.0;-0.5;0
+"Drift";"Streamline";"Control Driver";"Understable";"Everyone";"7.0/5.0/-2.0/1.0";"7/5.1/-1.8/1.1";44;4.75;7.0;5.0;-2.0;1.0;7.0;5.1;-1.8;1.1;-1.0;0
+"Ascend";"Streamline";"Control Driver";"Understable";"";"6.0/5.0/-3.0/0.5";"6/5.1/-2.8/0.7";7;4.43;6.0;5.0;-3.0;0.5;6.0;5.1;-2.8;0.7;-2.5;0
+"Trace";"Streamline";"Distance Driver";"Stable";"Everyone";"11.0/5.0/-1.0/2.0";"11/5/-1/2";87;4.78;11.0;5.0;-1.0;2.0;11.0;5.0;-1.0;2.0;1.0;0
+"Shift";"Streamline";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/-2.0/2.0";"11/5/-2/2";0;0.0;11.0;5.0;-2.0;2.0;0.0;0.0;0.0;0.0;0.0;0
+"Lift";"Streamline";"Distance Driver";"Understable";"Everyone";"9.0/5.0/-2.0/1.5";"9/5/-1.6/1.6";29;4.62;9.0;5.0;-2.0;1.5;9.0;5.0;-1.6;1.6;-0.5;0
+"Jet";"Streamline";"Distance Driver";"Understable";"Everyone";"11.0/5.0/-3.0/2.0";"11/5.1/-2.8/1.9";9;4.67;11.0;5.0;-3.0;2.0;11.0;5.1;-2.8;1.9;-1.0;0
+"Flare";"Streamline";"Distance Driver";"Overstable";"Intermediate-Advanced";"9.0/4.0/0.0/3.5";"9/3.8/0/3.9";31;4.56;9.0;4.0;0.0;3.5;9.0;3.8;0.0;3.9;3.5;0
+"Engine";"Streamline";"Distance Driver";"Very Overstable";"";"1.0/1.0/0.0/0.0";"1/1/0/0";0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Temple";"Thought Space Athletics";"Putt & Approach";"Overstable";"Intermediate-Advanced";"4.0/3.0/0.0/3.0";"4/3/0/3";18;4.42;4.0;3.0;0.0;3.0;4.0;3.0;0.0;3.0;3.0;0
+"Praxis";"Thought Space Athletics";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3.1/-0.1/0.9";38;4.89;3.0;3.0;0.0;1.0;3.0;3.1;-0.1;0.9;1.0;0
+"Pneuma";"Thought Space Athletics";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/0.0";"2/3.2/0/0.1";2;4.75;2.0;3.0;0.0;0.0;2.0;3.2;0.0;0.1;0.0;0
+"Muse";"Thought Space Athletics";"Putt & Approach";"Overstable";"Everyone";"3.0/3.0/0.0/2.0";"3/3/0/1.9";16;4.5;3.0;3.0;0.0;2.0;3.0;3.0;0.0;1.9;2.0;0
+"Alter";"Thought Space Athletics";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3/0/1";5;4.4;3.0;3.0;0.0;1.0;3.0;3.0;0.0;1.0;1.0;0
+"Pathfinder";"Thought Space Athletics";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"5/5.1/-0.2/1";45;4.87;5.0;5.0;0.0;1.0;5.0;5.1;-0.2;1.0;1.0;0
+"Mana";"Thought Space Athletics";"Mid Range";"Stable";"Beginner";"5.0/5.0/-2.0/1.0";"5.2/5.2/-2/1";9;4.94;5.0;5.0;-2.0;1.0;5.2;5.2;-2.0;1.0;-1.0;0
+"Crux";"Thought Space Athletics";"Mid Range";"Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/2.0";"5/4/0/2";0;0.0;5.0;4.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0
+"Votum";"Thought Space Athletics";"Control Driver";"Overstable";"Everyone";"7.0/5.0/0.0/3.0";"7.5/4.9/-0.2/2.5";36;4.49;7.0;5.0;0.0;3.0;7.5;4.9;-0.2;2.5;3.0;0
+"Omen";"Thought Space Athletics";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/4.0/0.0/4.0";"9/3.9/0/3.9";25;4.3;9.0;4.0;0.0;4.0;9.0;3.9;0.0;3.9;4.0;0
+"Nuance";"Thought Space Athletics";"Control Driver";"Stable";"Everyone";"?/?/?/?";"?/?/?/?";0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0
+"Mantra";"Thought Space Athletics";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/6.0/-2.0/1.0";"9/5.9/-2.1/1";63;4.86;9.0;6.0;-2.0;1.0;9.0;5.9;-2.1;1.0;-1.0;0
+"Coalesce";"Thought Space Athletics";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/5.0/0.0/3.0";"9/5/0/2.8";4;5.0;9.0;5.0;0.0;3.0;9.0;5.0;0.0;2.8;3.0;0
+"Synapse";"Thought Space Athletics";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/0.0/3.0";"12/4.7/-0.7/3";25;4.16;12.0;5.0;0.0;3.0;12.0;4.7;-0.7;3.0;3.0;0
+"Construct";"Thought Space Athletics";"Distance Driver";"Stable";"Everyone";"10.0/6.0/-1.0/2.0";"10/5.6/-1.2/1.9";17;4.62;10.0;6.0;-1.0;2.0;10.0;5.6;-1.2;1.9;1.0;0
+"Animus";"Thought Space Athletics";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/0.0/2.0";"10.6/4.7/-0.6/2.2";35;4.44;11.0;5.0;0.0;2.0;10.6;4.7;-0.6;2.2;2.0;0
+"Inner Core";"Trash Panda Disc Golf";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/-0.5/0.0";"2.1/4.1/-0.5/0";8;4.25;2.0;4.0;-0.5;0.0;2.1;4.1;-0.5;0.0;-0.5;0
+"Dune";"Trash Panda Disc Golf";"Mid Range";"Stable";"Everyone";"5.0/5.0/-1.0/0.0";"5/5/-1.2/0";5;4.4;5.0;5.0;-1.0;0.0;5.0;5.0;-1.2;0.0;-1.0;0
+"Rune";"Viking Discs";"Putt & Approach";"Understable";"Everyone";"2.0/4.0/0.0/0.0";"2/4/-0.1/0.1";50;4.78;2.0;4.0;0.0;0.0;2.0;4.0;-0.1;0.1;0.0;0
+"Knife";"Viking Discs";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/2.0";"2.8/3.1/0/1.8";22;4.61;3.0;3.0;0.0;2.0;2.8;3.1;0.0;1.8;2.0;0
+"Nordic Warrior";"Viking Discs";"Mid Range";"Stable";"Intermediate-Advanced";"4.0/4.0/0.0/2.0";"4/4.1/-0.1/2";15;4.57;4.0;4.0;0.0;2.0;4.0;4.1;-0.1;2.0;2.0;0
+"Loki";"Viking Discs";"Mid Range";"Very Overstable";"Intermediate-Advanced";"4.0/2.0/0.0/4.0";"4/2/0/4";25;4.56;4.0;2.0;0.0;4.0;4.0;2.0;0.0;4.0;4.0;0
+"Axe";"Viking Discs";"Mid Range";"Stable";"Everyone";"4.0/3.0/0.0/1.0";"4/3/-0.1/1.1";17;4.47;4.0;3.0;0.0;1.0;4.0;3.0;-0.1;1.1;1.0;0
+"Cosmos";"Viking Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/1.0";"7/5.1/-0.6/1";34;3.87;7.0;5.0;0.0;1.0;7.0;5.1;-0.6;1.0;1.0;0
+"Barbarian";"Viking Discs";"Control Driver";"Stable";"Everyone";"7.0/5.0/0.0/2.0";"7/4.8/0.1/2.1";27;4.15;7.0;5.0;0.0;2.0;7.0;4.8;0.1;2.1;2.0;0
+"Valhalla";"Viking Discs";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/5.0/0.0/2.0";"12/4.9/0/2.1";18;4.61;12.0;5.0;0.0;2.0;12.0;4.9;0.0;2.1;2.0;0
+"Thunder God Thor";"Viking Discs";"Distance Driver";"Overstable";"Advanced";"14.0/5.0/0.0/2.0";"13.9/4.9/0.1/2.5";20;4.03;14.0;5.0;0.0;2.0;13.9;4.9;0.1;2.5;2.0;0
+"Ragnarok";"Viking Discs";"Distance Driver";"Stable";"Everyone";"11.0/5.0/-1.0/2.0";"11.1/5.1/-1.1/1.9";28;4.63;11.0;5.0;-1.0;2.0;11.1;5.1;-1.1;1.9;1.0;0
+"Odin";"Viking Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"12.0/5.0/-1.0/3.0";"12/5/-1.2/2.9";12;4.46;12.0;5.0;-1.0;3.0;12.0;5.0;-1.2;2.9;2.0;0
+"Fenrir";"Viking Discs";"Distance Driver";"Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/3.0";"9.9/4.3/-0.9/2.5";16;4.06;10.0;4.0;0.0;3.0;9.9;4.3;-0.9;2.5;3.0;0
+"Berserker";"Viking Discs";"Distance Driver";"Understable";"Beginner";"10.0/5.0/-3.0/2.0";"9.9/5.1/-3.2/1.7";23;4.26;10.0;5.0;-3.0;2.0;9.9;5.1;-3.2;1.7;-1.0;0
+"Swan 1 Reborn";"Westside";"Putt & Approach";"Understable";"Beginner";"3.0/3.0/-2.5/0.0";"2.9/3.1/-2.2/0.1";36;4.29;3.0;3.0;-2.5;0.0;2.9;3.1;-2.2;0.1;-2.5;0
+"Swan";"Westside";"Putt & Approach";"Understable";"Everyone";"3.0/3.0/-1.0/0.0";"2.9/2.9/-1.1/0";35;4.63;3.0;3.0;-1.0;0.0;2.9;2.9;-1.1;0.0;-1.0;0
+"Shield";"Westside";"Putt & Approach";"Stable";"Everyone";"3.0/3.0/0.0/1.0";"3/3/0/1";51;4.47;3.0;3.0;0.0;1.0;3.0;3.0;0.0;1.0;1.0;0
+"Maiden";"Westside";"Putt & Approach";"Stable";"Beginner";"3.0/4.0/0.0/1.0";"3.1/3.9/-0.2/1";70;4.74;3.0;4.0;0.0;1.0;3.1;3.9;-0.2;1.0;1.0;0
+"Harp";"Westside";"Putt & Approach";"Very Overstable";"Advanced";"4.0/3.0/0.0/3.0";"4/3/0/2.6";195;4.71;4.0;3.0;0.0;3.0;4.0;3.0;0.0;2.6;3.0;0
+"Crown";"Westside";"Putt & Approach";"Stable";"Everyone";"3.0/4.0/0.0/1.0";"3/4/0/1";38;4.66;3.0;4.0;0.0;1.0;3.0;4.0;0.0;1.0;1.0;0
+"Warship";"Westside";"Mid Range";"Stable";"Everyone";"5.0/6.0/0.0/1.0";"5.6/5.5/-0.2/1";97;4.54;5.0;6.0;0.0;1.0;5.6;5.5;-0.2;1.0;1.0;0
+"Tursas";"Westside";"Mid Range";"Understable";"Beginner";"5.0/5.0/-2.0/1.0";"5/5.1/-2.4/0.9";77;4.53;5.0;5.0;-2.0;1.0;5.0;5.1;-2.4;0.9;-1.0;0
+"Sling";"Westside";"Mid Range";"Stable";"Everyone";"5.0/5.0/0.0/1.0";"4.6/4.9/-0.3/0.8";23;4.52;5.0;5.0;0.0;1.0;4.6;4.9;-0.3;0.8;1.0;0
+"Pine";"Westside";"Mid Range";"Stable";"Everyone";"5.0/4.0/0.0/2.0";"5/4.4/-0.1/2";24;4.75;5.0;4.0;0.0;2.0;5.0;4.4;-0.1;2.0;2.0;0
+"Gatekeeper";"Westside";"Mid Range";"Overstable";"Everyone";"4.0/5.0/0.0/2.0";"4.1/5/-0.1/1.9";30;4.7;4.0;5.0;0.0;2.0;4.1;5.0;-0.1;1.9;2.0;0
+"Bard";"Westside";"Mid Range";"Very Overstable";"Intermediate-Advanced";"5.0/4.0/0.0/3.0";"5/3.9/0/2.9";41;4.59;5.0;4.0;0.0;3.0;5.0;3.9;0.0;2.9;3.0;0
+"Anvil";"Westside";"Mid Range";"Very Overstable";"Intermediate-Advanced";"4.0/2.0/0.0/4.0";"4.1/2.2/0/4";62;4.74;4.0;2.0;0.0;4.0;4.1;2.2;0.0;4.0;4.0;0
+"Underworld";"Westside";"Control Driver";"Understable";"Beginner-Intermediate";"7.0/6.0/-3.0/1.0";"7/6/-2.9/1";85;4.52;7.0;6.0;-3.0;1.0;7.0;6.0;-2.9;1.0;-2.0;0
+"Stag";"Westside";"Control Driver";"Overstable";"Intermediate";"8.0/6.0/-1.0/2.0";"8/5.9/-1.1/2";88;4.38;8.0;6.0;-1.0;2.0;8.0;5.9;-1.1;2.0;1.0;0
+"Seer";"Westside";"Control Driver";"Understable";"Beginner";"7.0/5.0/-2.0/1.0";"7/5.1/-1.9/1.2";32;4.41;7.0;5.0;-2.0;1.0;7.0;5.1;-1.9;1.2;-1.0;0
+"Longbowman";"Westside";"Control Driver";"Overstable";"Intermediate";"9.0/4.0/0.0/3.0";"8.7/4/0/2.9";43;4.69;9.0;4.0;0.0;3.0;8.7;4.0;0.0;2.9;3.0;0
+"Hatchet";"Westside";"Control Driver";"Understable";"Beginner";"9.0/6.0/-2.0/1.0";"9/5.9/-2.2/1.3";72;4.16;9.0;6.0;-2.0;1.0;9.0;5.9;-2.2;1.3;-1.0;0
+"Fortress";"Westside";"Control Driver";"Very Overstable";"Intermediate-Advanced";"10.0/4.0/0.0/3.0";"10/4/0/3";34;4.62;10.0;4.0;0.0;3.0;10.0;4.0;0.0;3.0;3.0;0
+"Bear";"Westside";"Control Driver";"Stable";"Everyone";"8.0/6.0/-0.5/2.5";"8/6/-0.6/2.4";9;4.67;8.0;6.0;-0.5;2.5;8.0;6.0;-0.6;2.4;2.0;0
+"Ahti";"Westside";"Control Driver";"Very Overstable";"Intermediate-Advanced";"9.0/3.0/0.0/4.0";"9/3/0.1/4";33;4.52;9.0;3.0;0.0;4.0;9.0;3.0;0.1;4.0;4.0;0
+"World";"Westside";"Distance Driver";"Very Overstable";"Advanced";"14.0/4.0/-0.5/3.0";"13.9/4/-0.3/3.2";51;4.2;14.0;4.0;-0.5;3.0;13.9;4.0;-0.3;3.2;2.5;0
+"War Horse";"Westside";"Distance Driver";"Very Overstable";"Advanced";"13.0/4.0/0.0/4.0";"12.9/4/0/4";28;4.39;13.0;4.0;0.0;4.0;12.9;4.0;0.0;4.0;4.0;0
+"Sword";"Westside";"Distance Driver";"Stable";"Intermediate-Advanced";"12.0/5.0/-0.5/2.0";"11.9/5.1/-0.9/1.9";96;4.47;12.0;5.0;-0.5;2.0;11.9;5.1;-0.9;1.9;1.5;0
+"Sorcerer";"Westside";"Distance Driver";"Stable";"Intermediate-Advanced";"13.0/5.0/-0.5/3.0";"12.9/5.4/-0.8/2.4";48;4.08;13.0;5.0;-0.5;3.0;12.9;5.4;-0.8;2.4;2.5;0
+"Sampo";"Westside";"Distance Driver";"Overstable";"Intermediate-Advanced";"10.0/4.0/-1.0/2.0";"9.9/4.6/-0.6/2.1";30;3.57;10.0;4.0;-1.0;2.0;9.9;4.6;-0.6;2.1;1.0;0
+"Queen";"Westside";"Distance Driver";"Understable";"Everyone";"14.0/5.0/-3.0/2.0";"13.7/5.1/-2.9/1.9";28;4.05;14.0;5.0;-3.0;2.0;13.7;5.1;-2.9;1.9;-1.0;0
+"Prince";"Westside";"Distance Driver";"Overstable";"Intermediate-Advanced";"13.0/5.0/0.0/3.0";"13/5/0/3";0;0.0;13.0;5.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;0
+"Northman";"Westside";"Distance Driver";"Stable";"Intermediate";"10.0/5.0/-1.0/2.0";"10/5/-1.1/1.8";44;4.45;10.0;5.0;-1.0;2.0;10.0;5.0;-1.1;1.8;1.0;0
+"King";"Westside";"Distance Driver";"Overstable";"Intermediate";"14.0/5.0/-1.5/3.0";"13.6/5.1/-2/2.7";111;4.22;14.0;5.0;-1.5;3.0;13.6;5.1;-2.0;2.7;1.5;0
+"Giant";"Westside";"Distance Driver";"Very Overstable";"Advanced";"13.0/4.0/0.0/3.5";"12.8/4.5/0.1/3.5";46;4.37;13.0;4.0;0.0;3.5;12.8;4.5;0.1;3.5;3.5;0
+"Destiny";"Westside";"Distance Driver";"Understable";"Everyone";"14.0/6.0/-2.0/3.0";"13.7/5.9/-2.2/2.7";76;4.74;14.0;6.0;-2.0;3.0;13.7;5.9;-2.2;2.7;1.0;0
+"Catapult";"Westside";"Distance Driver";"Overstable";"Intermediate-Advanced";"14.0/4.0/-0.5/3.0";"13.8/4.6/-0.5/3";29;4.07;14.0;4.0;-0.5;3.0;13.8;4.6;-0.5;3.0;2.5;0
+"Boatman";"Westside";"Distance Driver";"Overstable";"Intermediate-Advanced";"11.0/5.0/0.0/2.0";"10.8/5.1/-0.2/2.1";58;4.64;11.0;5.0;0.0;2.0;10.8;5.1;-0.2;2.1;2.0;0
+"Adder";"Westside";"Distance Driver";"Very Overstable";"";"13.0/5.0/0.0/4.0";"13/4.7/0.1/4";10;4.0;13.0;5.0;0.0;4.0;13.0;4.7;0.1;4.0;4.0;0
+"Yi";"Yikun";"Putt & Approach";"Stable";"";"3.0/3.0/0.0/0.0";"3/3.2/-0.1/0.1";3;5.0;3.0;3.0;0.0;0.0;3.0;3.2;-0.1;0.1;0.0;0
+"Xing";"Yikun";"Putt & Approach";"Stable";"Everyone";"2.0/4.0/0.0/1.0";"2/3.9/0/1";8;4.75;2.0;4.0;0.0;1.0;2.0;3.9;0.0;1.0;1.0;0
+"Tian Shi";"Yikun";"Putt & Approach";"Overstable";"Everyone";"4.0/3.0/0.0/3.0";"4/3/0/3";1;5.0;4.0;3.0;0.0;3.0;4.0;3.0;0.0;3.0;3.0;0
+"Meteor Hammer";"Yikun";"Putt & Approach";"Understable";"Beginner";"2.0/3.0/0.0/0.0";"2.1/3.1/-0.1/0";5;4.0;2.0;3.0;0.0;0.0;2.1;3.1;-0.1;0.0;0.0;0
+"Ling";"Yikun";"Putt & Approach";"Very Understable";"Beginner";"2.0/3.0/-3.0/1.0";"2.1/3/-3/0.9";3;4.5;2.0;3.0;-3.0;1.0;2.1;3.0;-3.0;0.9;-2.0;0
+"Hammer (Chui)";"Yikun";"Putt & Approach";"Overstable";"Everyone";"2.0/2.5/0.0/3.0";"2/2.7/0/2.8";17;4.44;2.0;2.5;0.0;3.0;2.0;2.7;0.0;2.8;3.0;0
+"Gui";"Yikun";"Putt & Approach";"Overstable";"Everyone";"2.0/3.0/0.0/2.0";"2.1/3.2/0/1.9";16;4.53;2.0;3.0;0.0;2.0;2.1;3.2;0.0;1.9;2.0;0
+"Fu Sang";"Yikun";"Putt & Approach";"Stable";"Everyone";"2.0/3.0/0.0/3.0";"2/3.4/-0.1/2.6";4;4.38;2.0;3.0;0.0;3.0;2.0;3.4;-0.1;2.6;3.0;0
+"Claws";"Yikun";"Putt & Approach";"Stable";"Beginner";"1.0/2.0/0.0/0.0";"1/2.1/0/0.1";7;4.64;1.0;2.0;0.0;0.0;1.0;2.1;0.0;0.1;0.0;0
+"Zheng";"Yikun";"Mid Range";"Overstable";"";"5.0/5.0/0.0/2.0";"5/5/0/2";2;5.0;5.0;5.0;0.0;2.0;5.0;5.0;0.0;2.0;2.0;0
+"Yao";"Yikun";"Mid Range";"Overstable";"Intermediate-Advanced";"4.0/4.0/0.0/3.0";"4.1/4/-0.1/2.8";8;3.88;4.0;4.0;0.0;3.0;4.1;4.0;-0.1;2.8;3.0;0
+"Yan";"Yikun";"Mid Range";"Stable";"Beginner";"3.0/6.0/0.0/0.0";"3/6.1/-0.1/0";12;4.08;3.0;6.0;0.0;0.0;3.0;6.1;-0.1;0.0;0.0;0
+"Wings";"Yikun";"Mid Range";"Stable";"Beginner";"3.0/3.0/0.0/2.0";"3/2.9/0/1.9";5;4.5;3.0;3.0;0.0;2.0;3.0;2.9;0.0;1.9;2.0;0
+"Tomahawk";"Yikun";"Mid Range";"Very Understable";"Beginner";"5.0/6.0/0.0/0.0";"4.9/6/-0.8/0";13;4.08;5.0;6.0;0.0;0.0;4.9;6.0;-0.8;0.0;0.0;0
+"Shu";"Yikun";"Mid Range";"Understable";"Beginner-Intermediate";"4.0/5.0/-2.0/1.0";"4/5/-2.4/0.9";8;4.25;4.0;5.0;-2.0;1.0;4.0;5.0;-2.4;0.9;-1.0;0
+"Kui";"Yikun";"Mid Range";"Overstable";"Everyone";"5.0/5.0/0.0/2.5";"5.3/4.9/-0.1/2.2";10;4.5;5.0;5.0;0.0;2.5;5.3;4.9;-0.1;2.2;2.5;0
+"Kang";"Yikun";"Mid Range";"Stable";"Everyone";"3.0/5.0/-2.0/0.0";"3.2/5.1/-2/0";3;4.83;3.0;5.0;-2.0;0.0;3.2;5.1;-2.0;0.0;-2.0;0
+"Crossbow";"Yikun";"Mid Range";"Very Overstable";"Intermediate-Advanced";"4.0/1.5/0.5/4.0";"4/1.7/0.6/4";8;4.88;4.0;1.5;0.5;4.0;4.0;1.7;0.6;4.0;4.5;0
+"Zhu";"Yikun";"Control Driver";"Overstable";"Everyone";"7.0/5.0/0.0/2.0";"7/5/-0.1/2";4;4.38;7.0;5.0;0.0;2.0;7.0;5.0;-0.1;2.0;2.0;0
+"Xi He";"Yikun";"Control Driver";"Overstable";"Beginner-Intermediate";"9.0/5.0/-3.5/0.5";"8.9/5.1/-3.5/0.5";1;4.0;9.0;5.0;-3.5;0.5;8.9;5.1;-3.5;0.5;-3.0;0
+"View";"Yikun";"Control Driver";"Stable";"Beginner";"7.0/6.0/-3.5/1.0";"6.8/5.8/-3/1.1";5;4.2;7.0;6.0;-3.5;1.0;6.8;5.8;-3.0;1.1;-2.5;0
+"Nv Wa";"Yikun";"Control Driver";"Understable";"";"8.0/6.0/-1.5/0.0";"8/6/-1.5/0.1";3;4.67;8.0;6.0;-1.5;0.0;8.0;6.0;-1.5;0.1;-1.5;0
+"Jin Wu";"Yikun";"Control Driver";"Stable";"";"9.0/5.0/0.0/2.0";"9/5.1/-0.5/1.8";4;3.75;9.0;5.0;0.0;2.0;9.0;5.1;-0.5;1.8;2.0;0
+"Jiao";"Yikun";"Control Driver";"Understable";"Beginner";"6.0/5.0/-2.0/1.5";"6/4.9/-2.7/1.3";9;4.33;6.0;5.0;-2.0;1.5;6.0;4.9;-2.7;1.3;-0.5;0
+"Hu";"Yikun";"Control Driver";"Understable";"Beginner-Intermediate";"9.0/5.0/-2.0/2.0";"9/4.9/-2.4/1.7";16;3.78;9.0;5.0;-2.0;2.0;9.0;4.9;-2.4;1.7;0.0;0
+"Gou";"Yikun";"Control Driver";"Very Understable";"Beginner";"8.0/5.0/-4.0/1.0";"8.1/5.1/-3.9/1";15;4.67;8.0;5.0;-4.0;1.0;8.1;5.1;-3.9;1.0;-3.0;0
+"FU";"Yikun";"Control Driver";"Overstable";"Everyone";"7.0/5.0/0.0/2.0";"7/5/-0.3/1.9";10;3.85;7.0;5.0;0.0;2.0;7.0;5.0;-0.3;1.9;2.0;0
+"Bi";"Yikun";"Control Driver";"Stable";"";"9.0/5.0/-1.0/2.0";"9/5/-1/2";3;5.0;9.0;5.0;-1.0;2.0;9.0;5.0;-1.0;2.0;1.0;0
+"Wei";"Yikun";"Distance Driver";"Very Understable";"Beginner-Intermediate";"10.0/5.0/-2.5/2.0";"10.1/5/-2.9/1.8";11;3.64;10.0;5.0;-2.5;2.0;10.1;5.0;-2.9;1.8;-0.5;0
+"Twin Swords";"Yikun";"Distance Driver";"Stable";"Everyone";"12.0/5.0/0.0/2.0";"11.9/5/-0.3/1.9";22;4.02;12.0;5.0;0.0;2.0;11.9;5.0;-0.3;1.9;2.0;0
+"She Gong";"Yikun";"Distance Driver";"Stable";"";"13.0/5.0/0.0/2.0";"13/5/-0.6/1.9";5;4.9;13.0;5.0;0.0;2.0;13.0;5.0;-0.6;1.9;2.0;0
+"Rong";"Yikun";"Distance Driver";"Understable";"Beginner";"13.0/5.0/-3.0/1.0";"13/5/-2.7/1.3";2;4.0;13.0;5.0;-3.0;1.0;13.0;5.0;-2.7;1.3;-2.0;0
+"QI";"Yikun";"Distance Driver";"Stable";"Everyone";"13.0/6.0/-2.0/2.0";"12.9/5.9/-2.2/2";12;4.21;13.0;6.0;-2.0;2.0;12.9;5.9;-2.2;2.0;0.0;0
+"Luan";"Yikun";"Distance Driver";"Overstable";"Intermediate-Advanced";"14.0/5.0/-1.0/3.0";"13.9/4.9/-0.9/2.9";8;4.0;14.0;5.0;-1.0;3.0;13.9;4.9;-0.9;2.9;2.0;0
+"Long";"Yikun";"Distance Driver";"Stable";"";"10.0/5.0/-1.0/2.0";"10/5.1/-1/2";4;4.88;10.0;5.0;-1.0;2.0;10.0;5.1;-1.0;2.0;1.0;0
+"Jun";"Yikun";"Distance Driver";"Understable";"Beginner-Intermediate";"11.0/5.0/-1.0/2.0";"10.9/4.8/-1/2.1";12;3.83;11.0;5.0;-1.0;2.0;10.9;4.8;-1.0;2.1;1.0;0
+"Hou Yi";"Yikun";"Distance Driver";"Stable";"";"10.0/6.0/-1.0/2.0";"10/5.8/-1.2/1.9";3;4.33;10.0;6.0;-1.0;2.0;10.0;5.8;-1.2;1.9;1.0;0
+"Fu Xi";"Yikun";"Distance Driver";"Stable";"Intermediate";"12.0/6.0/-1.0/2.0";"12/5.9/-1/2.1";4;4.13;12.0;6.0;-1.0;2.0;12.0;5.9;-1.0;2.1;1.0;0
+"DA'E";"Yikun";"Distance Driver";"Very Overstable";"Advanced";"13.0/5.0/0.0/3.0";"12.9/5/-0.1/2.7";15;4.43;13.0;5.0;0.0;3.0;12.9;5.0;-0.1;2.7;3.0;0
